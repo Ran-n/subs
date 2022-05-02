@@ -1,4 +1,8 @@
 tag = "tags"
 
+# nome
+eqt-elemento = "eqt-elementos"
+
 # pelicula, serie, documental, anime
 eqt-tipo = "eqt-tipos"
+

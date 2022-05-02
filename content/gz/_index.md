@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2022-04-05T21:55:25+02:00
+date: 2022-05-02T19:32:00+02:00
 #draft: true
 author: 'Ran#'
 #description: ''
@@ -26,8 +26,10 @@ search_hidden: false
 #bookcase_cover_src: ''
 #bookcase_cover_src_dark: ''
 
-#type: 'bookcase'
+type: 'bookcase'
 
 ---
 
-Subs
+Páxina con todos os subtítulos.
+
+## Listaxe

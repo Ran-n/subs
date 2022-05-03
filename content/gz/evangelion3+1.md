@@ -1,5 +1,5 @@
 ---
-title: "Evangelion3.0+1.0"
+title: "Evangelion: 3.0+1.0"
 date: 2022-05-03T18:57:00+02:00
 #draft: true
 author: 'Ran#'
@@ -47,6 +47,8 @@ eqt-tipo: [
 ]
 
 ---
+
+# Evangelion: 3.0+1.0
 
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 

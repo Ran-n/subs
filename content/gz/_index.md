@@ -27,6 +27,8 @@ search_hidden: false
 #bookcase_cover_src_dark: ''
 
 type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: true
 
 ---
 

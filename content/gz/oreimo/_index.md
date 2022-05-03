@@ -5,7 +5,7 @@ date: 2022-05-01T19:31:00+02:00
 author: 'Ran#'
 
 #navbar_title: ""
-footer: "Oreimo❤️"
+footer: "Oreimo ❤️"
 
 search_hidden: false
 toc: false
@@ -24,7 +24,7 @@ aliases : [
     '/oreimo/',
 ]
 
-weight: 1
+weight: 20220501
 bookcase_cover_src: 'portada/oreimo.jpg'
 bookcase_cover_src_dark: 'portada/oreimo.jpg'
 

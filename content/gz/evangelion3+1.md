@@ -5,7 +5,7 @@ date: 2022-05-03T18:57:00+02:00
 author: 'Ran#'
 
 #navbar_title: ""
-footer: "Oreimo❤️"
+footer: "Evangelion ❤️"
 
 search_hidden: false
 toc: false
@@ -28,7 +28,7 @@ aliases : [
     '/evangelion3+1/',
 ]
 
-weight: 1
+weight: 20220503
 bookcase_cover_src: 'portada/evangelion3+1.jpg'
 bookcase_cover_src_dark: 'portada/evangelion3+1.jpg'
 
@@ -37,12 +37,13 @@ bookcase_list_pages: false
 bookcase_list_sections: false
 
 eqt-elemento: [
-    'oreimo',
+    'evangelion',
+    'evangelion3.0-1.0',
 ]
 
 eqt-tipo: [
     'anime',
-    'serie',
+    'película',
 ]
 
 ---

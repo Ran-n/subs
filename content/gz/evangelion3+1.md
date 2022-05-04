@@ -28,7 +28,7 @@ aliases : [
     '/evangelion3+1/',
 ]
 
-weight: 20220503
+weight: -20210308
 bookcase_cover_src: 'portada/evangelion3+1.jpg'
 bookcase_cover_src_dark: 'portada/evangelion3+1.jpg'
 

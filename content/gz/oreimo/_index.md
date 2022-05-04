@@ -24,7 +24,7 @@ aliases : [
     '/oreimo/',
 ]
 
-weight: 20220501
+weight: -20090130
 bookcase_cover_src: 'portada/oreimo.jpg'
 bookcase_cover_src_dark: 'portada/oreimo.jpg'
 

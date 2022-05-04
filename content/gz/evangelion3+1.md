@@ -36,9 +36,9 @@ type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: false
 
-eqt-elementos: [
+eqt-franquias: [
     'evangelion',
-    'evangelion3.0-1.0',
+#    'evangelion3.0+1.0',
 ]
 
 eqt-tipos: [

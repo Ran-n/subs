@@ -32,7 +32,7 @@ type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: false
 
-eqt-elementos: [
+eqt-franquias: [
     'oreimo',
 ]
 

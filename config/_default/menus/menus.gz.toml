@@ -1,7 +1,7 @@
 [[navbar]]
-    identifier = "elementos_gz"
-    name = "Listaxe"
-    url = "/gz/eqt-elementos/"
+    identifier = "franquias_gz"
+    name = "Franquias"
+    url = "/gz/eqt-franquias/"
     weight = 1
 [[navbar]]
     identifier = "tipos_gz"

@@ -56,8 +56,8 @@ aliases: [
     '/tipo/películas/',
 ]
 
-bookcase_cover_src: ''
-bookcase_cover_src_dark: ''
+bookcase_cover_src: 'portada/tipo-peli.jpg'
+bookcase_cover_src_dark: 'portada/tipo-peli.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

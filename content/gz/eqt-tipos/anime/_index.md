@@ -38,8 +38,8 @@ aliases: [
     '/tipo/animes/',
 ]
 
-bookcase_cover_src: ''
-bookcase_cover_src_dark: ''
+bookcase_cover_src: 'portada/tipo-anime.png'
+bookcase_cover_src_dark: 'portada/tipo-anime.png'
 
 type: 'bookcase'
 bookcase_list_pages: true

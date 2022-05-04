@@ -39,7 +39,7 @@ aliases: [
 ]
 
 bookcase_cover_src: ''
-bookcase_cover_src_dark: ''
+bookcase_cover_src_dark: 'portada/tipo-serie.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

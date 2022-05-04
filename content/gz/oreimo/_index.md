@@ -32,11 +32,11 @@ type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: false
 
-eqt-elemento: [
+eqt-elementos: [
     'oreimo',
 ]
 
-eqt-tipo: [
+eqt-tipos: [
     'anime',
     'serie',
 ]

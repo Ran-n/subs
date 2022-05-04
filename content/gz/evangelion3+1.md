@@ -36,12 +36,12 @@ type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: false
 
-eqt-elemento: [
+eqt-elementos: [
     'evangelion',
     'evangelion3.0-1.0',
 ]
 
-eqt-tipo: [
+eqt-tipos: [
     'anime',
     'película',
 ]

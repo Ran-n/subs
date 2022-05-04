@@ -1,0 +1,28 @@
+[[navbar]]
+    identifier = "elementos_gz"
+    name = "Listaxe"
+    url = "/gz/eqt-elementos/"
+    weight = 1
+[[navbar]]
+    identifier = "tipos_gz"
+    name = "Tipos"
+    url = "/gz/eqt-tipos/"
+    weight = 2
+    [[navbar]]
+        parent = "tipos_gz"
+        identifier = "serie_gz"
+        name = "Serie"
+        url = "/gz/eqt-tipos/serie/"
+        weight = 1
+    [[navbar]]
+        parent = "tipos_gz"
+        identifier = "peli_gz"
+        name = "Película"
+        url = "/gz/eqt-tipos/pelicula/"
+        weight = 2
+    [[navbar]]
+        parent = "tipos_gz"
+        identifier = "anime_gz"
+        name = "Anime"
+        url = "/gz/eqt-tipos/anime/"
+        weight = 3

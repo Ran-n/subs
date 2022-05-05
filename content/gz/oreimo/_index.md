@@ -54,3 +54,5 @@ eqt-tipos: [
 {{< sub ancho="50" alto="50" titulo="Non Hai Xeito Que Namorara Da Minha Irmá" ligazon="/sub/oreimo/oreimo-01.gz.ass" texto_tamanho="34px" texto_x="106" texto_y="164" texto="01">}}
 
 {{< sub ancho="50" alto="50" titulo="Non Hai Xeito Que Vaia A Unha Quedada Coa Minha Irmá" ligazon="/sub/oreimo/oreimo-02.gz.ass" texto_tamanho="34px" texto_x="106" texto_y="164" texto="02">}}
+
+{{< sub ancho="50" alto="50" titulo="Non Hai Xeito Que A Minha Irmá Pequena Sexa Tan Bonitinha" ligazon="/sub/oreimo/oreimo-03.gz.ass" texto_tamanho="34px" texto_x="106" texto_y="164" texto="03">}}

@@ -1,20 +1,20 @@
 ---
-title: 'Películas'
-date: 2022-05-04T17:52:00+02:00
+title: 'Película'
+#date: 2022-05-04T17:52:00+02:00
 author: 'Ran#'
 
 #navbar_title: ''
 footer: 'Películas ❤️'
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
+search_hidden: false
 zooming_js: false
 math: false
-ga: true
-#disqus: false
 
+ga: true
+disqus: true
 
 url: '/tipos/pelicula/'
 slug: 'pelicula'
@@ -54,10 +54,13 @@ aliases: [
     '/tipos/películas/',
     '/eqt-tipo/películas/',
     '/tipo/películas/',
+
+    '/película/',
+    '/películas/',
 ]
 
-bookcase_cover_src: 'portada/tipo-peli.jpg'
-bookcase_cover_src_dark: 'portada/tipo-peli.jpg'
+bookcase_cover_src: '/portada/tipo-peli.jpg'
+bookcase_cover_src_dark: '/portada/tipo-peli.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

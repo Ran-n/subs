@@ -1,20 +1,20 @@
 ---
-title: 'Series'
-date: 2022-05-04T17:52:00+02:00
+title: 'Serie'
+#date: 2022-05-04T17:52:00+02:00
 author: 'Ran#'
 
 #navbar_title: ''
 footer: 'Series ❤️'
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
+search_hidden: false
 zooming_js: false
 math: false
-ga: true
-#disqus: false
 
+ga: true
+disqus: true
 
 url: '/tipos/serie/'
 slug: 'serie'
@@ -36,10 +36,13 @@ aliases: [
     '/tipos/series/',
     '/eqt-tipo/series/',
     '/tipo/series/',
+
+    '/serie/',
+    '/series/',
 ]
 
-bookcase_cover_src: ''
-bookcase_cover_src_dark: 'portada/tipo-serie.jpg'
+bookcase_cover_src: '/portada/tipo-serie2.jpg'
+bookcase_cover_src_dark: '/portada/tipo-serie2.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

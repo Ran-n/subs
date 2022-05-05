@@ -1,20 +1,20 @@
 ---
-title: 'Animes'
-date: 2022-05-04T17:52:00+02:00
+title: 'Anime'
+#date: 2022-05-04T17:52:00+02:00
 author: 'Ran#'
 
 #navbar_title: ''
 #footer: ''
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
+search_hidden: false
 zooming_js: false
 math: false
-ga: true
-#disqus: false
 
+ga: true
+disqus: true
 
 url: '/tipos/anime/'
 slug: 'anime'
@@ -36,10 +36,13 @@ aliases: [
     '/tipos/animes/',
     '/eqt-tipo/animes/',
     '/tipo/animes/',
+
+    '/anime/',
+    '/animes/',
 ]
 
-bookcase_cover_src: 'portada/tipo-anime.png'
-bookcase_cover_src_dark: 'portada/tipo-anime.png'
+bookcase_cover_src: '/portada/tipo-anime.svg'
+bookcase_cover_src_dark: '/portada/tipo-anime.svg'
 
 type: 'bookcase'
 bookcase_list_pages: true

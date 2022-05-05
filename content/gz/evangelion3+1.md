@@ -7,14 +7,15 @@ author: 'Ran#'
 #navbar_title: ""
 footer: "Evangelion ❤️"
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
+search_hidden: false
 zooming_js: false
 math: false
+
 ga: true
-disqus: false
+disqus: true
 
 url: '/evangelion3.0+1.0/'
 slug: 'evangelion3.0+1.0'

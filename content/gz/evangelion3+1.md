@@ -51,10 +51,10 @@ eqt-tipos: [
 
 # Evangelion: 3.0+1.0
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
+{{< icona ancho="24" alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-    <img height="500" title="oreimo" alt="oreimo" src="/portada/evangelion3+1.jpg">
+    <img height="400" title="oreimo" alt="oreimo" src="/portada/evangelion3+1.jpg">
 </div>
 
 <br>

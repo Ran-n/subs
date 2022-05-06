@@ -49,10 +49,12 @@ eqt-tipos: [
 
 ---
 
+# "Deji" Meets Girl
+
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-    <img title="deji meets girl" alt="deji meets girl" src="/portada/deji_meets_girl.jpg">
+    <img height=400 title="deji meets girl" alt="deji meets girl" src="/portada/deji_meets_girl.jpg">
 </div>
 
 <br>

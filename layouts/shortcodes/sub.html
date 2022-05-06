@@ -9,6 +9,9 @@
 {{ $texto_x := .Get "texto_x" }}
 {{ $texto_y := .Get "texto_y" }}
 
+{{ $autor := .Get "autor" }}
+{{ $autores := .Get "autores" }}
+
 {{ if $ligazon }}
 <a href="{{ $ligazon }}" download>
 {{ end }}
@@ -30,3 +33,29 @@
 {{ if $ligazon }}
 </a>
 {{ end }}
+
+{{ if or $autor }}
+<a href="{{ .Site.Language.Lang }}/x/{{ $autor }}">
+<svg stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" style="margin-left: -13; padding: 2; color: var(--color-text);" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="{{ 20 }}" height="{{ 20 }}" >
+    <title>{{ $autor }}</title>
+    <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+    <circle cx="12" cy="7" r="4"></circle>
+</svg>
+</a>
+{{ end }}
+
+{{ if or $autores }}
+<a href="{{ .Site.Language.Lang }}/x/{{ $autores }}">
+<svg stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" style="margin-left: -11; padding: 2; color: var(--color-text);" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="{{ 20 }}" height="{{ 20 }}" >
+    <title>{{ $autores }}</title>
+    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+    <circle cx="9" cy="7" r="4"></circle>
+    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+</svg>
+</a>
+{{ end }}
+
+
+&nbsp;
+&nbsp;

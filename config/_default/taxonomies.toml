@@ -6,3 +6,4 @@ eqt-franquia = "eqt-franquias"
 # pelicula, serie, documental, anime
 eqt-tipo = "eqt-tipos"
 
+eqt-autor = "eqt-autores"

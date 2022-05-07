@@ -73,7 +73,7 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/dNPh1bEZGT5ygptQVGFmF0ovJ4v.jpg">
+<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/fkJjHKGBP6GWG1gB3dP6zcuqaOq.jpg">
 
 <br>
 
@@ -88,6 +88,8 @@ eqt-autores: [
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
 {{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
 </div>
+
+## Finalmente da froitos!! Bon por ti, Douki-Chan
 <br>
 
-{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-11.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="Finalmente da froitos!! Bon por ti, Douki-Chan" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-11.gz.ass" autor="Fansubgalego" >}}

@@ -89,7 +89,7 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/h0tS0TcyMUrdLqqqs1Sstymf6nO.jpg">
+<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/xs9UcqTrfNb1VLqaAZgNONACLZj.jpg">
 
 <br>
 
@@ -104,6 +104,8 @@ eqt-autores: [
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
 {{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
 </div>
+
+## O meu colega que volveu para colher o que deixara atrás
 <br>
 
-{{< sub ancho="50" alto="50" titulo="Perda de conhecemento" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-04.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="O meu colega que volveu para colher o que deixara atrás" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-04.gz.ass" autor="Fansubgalego" >}}

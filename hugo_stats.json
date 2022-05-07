@@ -14,6 +14,10 @@
       "g",
       "h1",
       "h2",
+      "h3",
+      "h4",
+      "h5",
+      "h6",
       "head",
       "header",
       "html",
@@ -76,9 +80,12 @@
       "toolbox-btn"
     ],
     "ids": [
+      "13",
       "MathJax-script",
+      "chocan-o-colega-junior-vs-o-senpai-do-cliente-do-negocio",
       "content",
       "dark_mode_btn",
+      "debido-a-un-erro-no-hotel-dous-colegas-acaban-compartindo-unha-habitación-nunha-viaxe-de-trabalho",
       "deji-meets-girl--01",
       "deji-meets-girl--02",
       "deji-meets-girl--03",
@@ -91,7 +98,10 @@
       "deji-meets-girl--10",
       "deji-meets-girl--11",
       "deji-meets-girl--12",
+      "diso-estou-a-falar-douki-kun",
+      "episodio-13",
       "evangelion-3010",
+      "finalmente-da-froitos-bon-por-ti-douki-chan",
       "ganbare-douki-chan--01",
       "ganbare-douki-chan--02",
       "ganbare-douki-chan--03",
@@ -123,6 +133,10 @@
       "listaxe",
       "menu_icon",
       "navbar",
+      "o-junior-que-da-chocolate-no-trabalho-polo-día-dos-namorados",
+      "o-meu-colega-e-máis-eu-estabamos-no-ascensor-xuntos-e-entón-quedamonos-atrapados-dentro-xuntos",
+      "o-meu-colega-que-recibiu-unha-autofoto-vergonhenta",
+      "o-meu-colega-que-volveu-para-colher-o-que-deixara-atrás",
       "oreimo--01",
       "oreimo--02",
       "oreimo--03",
@@ -139,7 +153,11 @@
       "sidebar_btn",
       "sidebar_canvas_overlay",
       "theme_tool",
-      "translation_tool"
+      "translation_tool",
+      "un-colega-que-estaba-desexoso-dun-regalo-do-día-branco",
+      "un-colega-que-está-entusiasmado-coa-cita-á-carón-da-piscina",
+      "un-colega-que-está-obviamente-durmindo",
+      "unha-colega-que-o-da-todo-na-súa-roupa-interior-seductiva"
     ]
   }
 }

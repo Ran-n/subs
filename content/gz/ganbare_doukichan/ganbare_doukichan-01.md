@@ -89,7 +89,7 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/xWnUHvv5sCZtrP9TAyZ8blOedYq.jpg">
+<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/hzh8HhZ1j5mfBj796LcNSg7clse.jpg">
 
 <br>
 
@@ -101,6 +101,8 @@ eqt-autores: [
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
 {{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
 </div>
+
+## Debido a un erro no hotel, dous colegas acaban compartindo unha habitación nunha viaxe de trabalho
 <br>
 
-{{< sub ancho="50" alto="50" titulo="Primavera" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-01.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="Debido a un erro no hotel, dous colegas acaban compartindo unha habitación nunha viaxe de trabalho" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-01.gz.ass" autor="Fansubgalego" >}}

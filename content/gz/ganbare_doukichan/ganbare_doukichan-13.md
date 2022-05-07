@@ -72,23 +72,21 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/ehHKyPT2sxHtkBCr0CmPX2i2NNL.jpg">
+<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/7VRxeOG2lYGHG7ii7tpy2iEiYbU.jpg">
 
 <br>
 
 <div style="float: left">
 {{< icona ancho="30px" alto="30px" tipo="menor" ligazon="/gz/ganbare-doukichan/12/" >}}
 </div>
-<div style="float: right">
-{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/ganbare-doukichan/14/" >}}
-</div>
 
 {{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="131168" >}}
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
 {{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
 </div>
-<br>
 
+## Episodio 13
+<br>
 <!--
-{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-13.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="Episodio 13" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-13.gz.ass" autor="Fansubgalego" >}}
 -->

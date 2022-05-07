@@ -89,7 +89,7 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/6GaZm8yk2kWIMSZrE9a9ojU207a.jpg">
+<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/w500_and_h282_face/j7Whh6BLCU9JvJrlkJU1MDjYQyy.jpg">
 
 <br>
 
@@ -104,6 +104,8 @@ eqt-autores: [
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
 {{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
 </div>
+
+## O Junior que da chocolate no trabalho polo día dos namorados
 <br>
 
-{{< sub ancho="50" alto="50" titulo="Escape Nocturno" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-03.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="O Junior que da chocolate no trabalho polo día dos namorados" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-03.gz.ass" autor="Fansubgalego" >}}

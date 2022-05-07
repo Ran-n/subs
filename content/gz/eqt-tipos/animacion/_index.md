@@ -36,29 +36,6 @@ aliases: [
     '/gz/tipos/animacións/',
     '/gz/eqt-tipo/animacións/',
     '/gz/tipo/animacións/',
-
-    '/eqt-tipos/animacion/',
-    '/tipos/animacion/',
-    '/eqt-tipo/animacion/',
-    '/tipo/animacion/',
-    '/eqt-tipos/animacions/',
-    '/tipos/animacions/',
-    '/eqt-tipo/animacions/',
-    '/tipo/animacions/',
-
-    '/eqt-tipos/animación/',
-    '/tipos/animación/',
-    '/eqt-tipo/animación/',
-    '/tipo/animación/',
-    '/eqt-tipos/animacións/',
-    '/tipos/animacións/',
-    '/eqt-tipo/animacións/',
-    '/tipo/animacións/',
-
-    '/animacion/',
-    '/animación/',
-    '/animacions/',
-    '/animacións/',
 ]
 
 bookcase_cover_src: '/portada/tipo-animacion.png'

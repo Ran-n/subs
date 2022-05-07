@@ -27,16 +27,6 @@ aliases: [
     '/gz/franquias/Evangelion/',
     '/gz/eqt-franquia/Evangelion/',
     '/gz/franquia/Evangelion/',
-
-    '/eqt-franquias/evangelion/',
-    '/franquias/evangelion/',
-    '/eqt-franquia/evangelion/',
-    '/franquia/evangelion/',
-
-    '/eqt-franquias/Evangelion/',
-    '/franquias/Evangelion/',
-    '/eqt-franquia/Evangelion/',
-    '/franquia/Evangelion/',
 ]
 
 bookcase_cover_src: 'portada/franquia-evangelion.jpg'

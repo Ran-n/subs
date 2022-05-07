@@ -26,15 +26,6 @@ aliases: [
     '/gz/franquias/Oreimo/',
     '/gz/eqt-franquia/Oreimo/',
     '/gz/franquia/Oreimo/',
-
-    '/eqt-franquias/oreimo/',
-    '/franquias/oreimo/',
-    '/eqt-franquia/oreimo/',
-    '/franquia/oreimo/',
-    '/eqt-franquias/Oreimo/',
-    '/franquias/Oreimo/',
-    '/eqt-franquia/Oreimo/',
-    '/franquia/Oreimo/',
 ]
 
 bookcase_cover_src: '/portada/oreimo.jpg'

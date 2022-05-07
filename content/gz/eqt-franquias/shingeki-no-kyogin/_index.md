@@ -19,7 +19,17 @@ disqus: true
 url: '/franquias/shingeki-no-kyogin/'
 slug: 'shingeki-no-kyogin'
 aliases: [
+    '/gz/eqt-franquias/snk/',
+    '/gz/eqt-franquias/shingeki-no-kyogin/',
+    '/gz/eqt-franquias/shingeki_no_kyogin/',
+    '/gz/eqt-franquias/shingeki no kyogin/',
+    '/gz/eqt-franquias/shingekinokyogin/',
+
+    '/gz/franquias/snk/',
     '/gz/franquias/shingeki-no-kyogin/',
+    '/gz/franquias/shingeki_no_kyogin/',
+    '/gz/franquias/shingeki no kyogin/',
+    '/gz/franquias/shingekinokyogin/',
 ]
 
 bookcase_cover_src: '/portada/snk.jpg'

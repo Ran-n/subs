@@ -27,18 +27,6 @@ aliases: [
     '/gz/tipos/animes/',
     '/gz/eqt-tipo/animes/',
     '/gz/tipo/animes/',
-
-    '/eqt-tipos/anime/',
-    '/tipos/anime/',
-    '/eqt-tipo/anime/',
-    '/tipo/anime/',
-    '/eqt-tipos/animes/',
-    '/tipos/animes/',
-    '/eqt-tipo/animes/',
-    '/tipo/animes/',
-
-    '/anime/',
-    '/animes/',
 ]
 
 bookcase_cover_src: '/portada/tipo-anime.svg'

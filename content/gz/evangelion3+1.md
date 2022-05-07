@@ -54,7 +54,7 @@ eqt-franquias: [
 
 eqt-tipos: [
     'anime',
-    'peli anime',
+    'filme anime',
 ]
 
 eqt-autores: [

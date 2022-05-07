@@ -6,14 +6,15 @@ author: 'Ran#'
 #navbar_title: ''
 #footer: ''
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
+search_hidden: false
 zooming_js: false
 math: false
+
 ga: true
-#disqus: false
+disqus: true
 
 url: '/franquias/deji/'
 slug: 'deji'
@@ -57,6 +58,46 @@ aliases: [
     '/gz/franquias/Deji-meets-girl/',
     '/gz/eqt-franquia/Deji-meets-girl/',
     '/gz/franquia/Deji-meets-girl/',
+
+    '/gz/eqt-franquías/deji/',
+    '/gz/franquías/deji/',
+    '/gz/eqt-franquía/deji/',
+    '/gz/franquía/deji/',
+
+    '/gz/eqt-franquías/deji meets girl/',
+    '/gz/franquías/deji meets girl/',
+    '/gz/eqt-franquía/deji meets girl/',
+    '/gz/franquía/deji meets girl/',
+
+    '/gz/eqt-franquías/deji_meets_girl/',
+    '/gz/franquías/deji_meets_girl/',
+    '/gz/eqt-franquía/deji_meets_girl/',
+    '/gz/franquía/deji_meets_girl/',
+
+    '/gz/eqt-franquías/deji-meets-girl/',
+    '/gz/franquías/deji-meets-girl/',
+    '/gz/eqt-franquía/deji-meets-girl/',
+    '/gz/franquía/deji-meets-girl/',
+
+    '/gz/eqt-franquías/Deji/',
+    '/gz/franquías/Deji/',
+    '/gz/eqt-franquía/Deji/',
+    '/gz/franquía/Deji/',
+
+    '/gz/eqt-franquías/Deji meets girl/',
+    '/gz/franquías/Deji meets girl/',
+    '/gz/eqt-franquía/Deji meets girl/',
+    '/gz/franquía/Deji meets girl/',
+
+    '/gz/eqt-franquías/Deji_meets_girl/',
+    '/gz/franquías/Deji_meets_girl/',
+    '/gz/eqt-franquía/Deji_meets_girl/',
+    '/gz/franquía/Deji_meets_girl/',
+
+    '/gz/eqt-franquías/Deji-meets-girl/',
+    '/gz/franquías/Deji-meets-girl/',
+    '/gz/eqt-franquía/Deji-meets-girl/',
+    '/gz/franquía/Deji-meets-girl/',
 ]
 
 bookcase_cover_src: '/portada/deji_meets_girl.jpg'

@@ -6,14 +6,15 @@ author: 'Ran#'
 #navbar_title: ''
 #footer: ''
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
+search_hidden: false
 zooming_js: false
 math: false
+
 ga: true
-#disqus: false
+disqus: true
 
 url: '/franquias/evangelion/'
 slug: 'evangelion'
@@ -23,10 +24,40 @@ aliases: [
     '/gz/eqt-franquia/evangelion/',
     '/gz/franquia/evangelion/',
 
+    '/gz/eqt-franquias/eva/',
+    '/gz/franquias/eva/',
+    '/gz/eqt-franquia/eva/',
+    '/gz/franquia/eva/',
+
     '/gz/eqt-franquias/Evangelion/',
     '/gz/franquias/Evangelion/',
     '/gz/eqt-franquia/Evangelion/',
     '/gz/franquia/Evangelion/',
+
+    '/gz/eqt-franquias/Eva/',
+    '/gz/franquias/Eva/',
+    '/gz/eqt-franquia/Eva/',
+    '/gz/franquia/Evan/',
+
+    '/gz/eqt-franquías/evangelion/',
+    '/gz/franquías/evangelion/',
+    '/gz/eqt-franquía/evangelion/',
+    '/gz/franquía/evangelion/',
+
+    '/gz/eqt-franquías/eva/',
+    '/gz/franquías/eva/',
+    '/gz/eqt-franquía/eva/',
+    '/gz/franquía/eva/',
+
+    '/gz/eqt-franquías/Evangelion/',
+    '/gz/franquías/Evangelion/',
+    '/gz/eqt-franquía/Evangelion/',
+    '/gz/franquía/Evangelion/',
+
+    '/gz/eqt-franquías/Eva/',
+    '/gz/franquías/Eva/',
+    '/gz/eqt-franquía/Eva/',
+    '/gz/franquía/Evan/',
 ]
 
 bookcase_cover_src: 'portada/franquia-evangelion.jpg'

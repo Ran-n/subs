@@ -6,26 +6,38 @@ author: 'Ran#'
 #navbar_title: ''
 #footer: ''
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
+search_hidden: false
 zooming_js: false
 math: false
+
 ga: true
-#disqus: false
+disqus: true
 
 url: '/franquias/oreimo/'
 slug: 'oreimo'
 aliases: [
     '/gz/eqt-franquias/oreimo/',
-    '/gz/franquias/oreimo/',
     '/gz/eqt-franquia/oreimo/',
+    '/gz/franquias/oreimo/',
     '/gz/franquia/oreimo/',
+
     '/gz/eqt-franquias/Oreimo/',
-    '/gz/franquias/Oreimo/',
     '/gz/eqt-franquia/Oreimo/',
+    '/gz/franquias/Oreimo/',
     '/gz/franquia/Oreimo/',
+
+    '/gz/eqt-franquías/oreimo/',
+    '/gz/eqt-franquía/oreimo/',
+    '/gz/franquías/oreimo/',
+    '/gz/franquía/oreimo/',
+
+    '/gz/eqt-franquías/Oreimo/',
+    '/gz/eqt-franquía/Oreimo/',
+    '/gz/franquías/Oreimo/',
+    '/gz/franquía/Oreimo/',
 ]
 
 bookcase_cover_src: '/portada/oreimo.jpg'

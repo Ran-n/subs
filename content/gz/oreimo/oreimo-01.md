@@ -28,6 +28,7 @@ aliases : [
     '/gz/oreimo-1x01/',
     '/gz/oreimo/01/',
     '/gz/oreimo/1/',
+    '/gz/oreimo/1x01/',
     '/gz/oreimo01/',
     '/gz/oreimo1/',
     '/gz/oreimo1x01/',

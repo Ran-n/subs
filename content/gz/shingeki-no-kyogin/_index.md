@@ -20,7 +20,12 @@ disqus: true
 url: '/shingeki-no-kyojin/'
 slug: 'shingeki-no-kyojin'
 aliases : [
+    '/gz/aot/',
+    '/gz/shingeki no kyojin/',
     '/gz/shingeki-no-kyojin/',
+    '/gz/shingeki_no_kyojin/',
+    '/gz/shingekinokyojin/',
+    '/gz/snk/',
 ]
 
 weight: -20130407

@@ -52,9 +52,18 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
 <div style="text-align: center">
-    <img style="border: 3px solid currentColor" height=400 title="oreimo" alt="oreimo" src="/portada/oreimo.jpg">
+<img style="border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/original/v1XCHO12C9STcrDQYBymIMzAFE.jpg">
+
+<br>
+
+<div style="float: right">
+{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/oreimo/02/" >}}
 </div>
 
+{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="56353" >}}
+{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt1751305" >}}
+{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/List_of_Oreimo_episodes" >}}
+</div>
 <br>
 
 <!-- {{< sub ancho="50" alto="50" titulo="Non Hai Xeito Que Namorara Da Minha Irmá" ligazon="/sub/oreimo/oreimo-01.gz.ass" texto_tamanho="34px" texto_x="106" texto_y="164" texto="01" autor="Fansubgalego" >}} -->

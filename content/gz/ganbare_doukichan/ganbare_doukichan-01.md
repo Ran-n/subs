@@ -89,9 +89,10 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" height=400 title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/xWnUHvv5sCZtrP9TAyZ8blOedYq.jpg">
+<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/xWnUHvv5sCZtrP9TAyZ8blOedYq.jpg">
 
 <br>
+
 <div style="float: right">
 {{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/ganbare-doukichan/02/" >}}
 </div>

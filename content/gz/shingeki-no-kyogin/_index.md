@@ -47,5 +47,5 @@ eqt-tipos: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-    <img height=400 title="oreimo" alt="oreimo" src="/portada/snk.jpg">
+    <img style="border: 3px solid currentColor" height=400 title="oreimo" alt="oreimo" src="/portada/snk.jpg">
 </div>

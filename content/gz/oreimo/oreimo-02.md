@@ -1,5 +1,5 @@
 ---
-title: "02"
+title: "Oreimo | 02"
 date: 2022-05-07T00:06:00+02:00
 #draft: true
 author: 'Ran#'
@@ -17,8 +17,8 @@ math: false
 ga: true
 disqus: true
 
-url: '/oreimo-02/'
-slug: 'oreimo-02'
+url: '/oreimo/02/'
+slug: '02'
 aliases : [
     '/gz/oreimo/02/',
     '/gz/oreimo/2/',
@@ -68,12 +68,12 @@ eqt-autores: [
 
 ---
 
-# Oreimo 02
+# Oreimo | 02
 
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
 <div style="text-align: center">
-    <img height=400 title="oreimo" alt="oreimo" src="/portada/oreimo.jpg">
+    <img style="border: 3px solid currentColor" height=400 title="oreimo" alt="oreimo" src="/portada/oreimo.jpg">
 </div>
 
 <br>

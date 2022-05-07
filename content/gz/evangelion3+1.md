@@ -21,12 +21,22 @@ url: '/evangelion3.0+1.0/'
 slug: 'evangelion3.0+1.0'
 aliases : [
     '/gz/evangelion3.0+1.0/',
+    '/gz/eva3.0+1.0/',
     '/gz/evangelion3.01.0/',
+    '/gz/eva3.01.0/',
     '/gz/evangelion3+1/',
+    '/gz/eva3+1/',
+    '/gz/evangelion4/',
+    '/gz/eva4/',
 
     '/evangelion3.0+1.0/',
+    '/eva3.0+1.0/',
     '/evangelion3.01.0/',
+    '/eva3.01.0/',
     '/evangelion3+1/',
+    '/eva3+1/',
+    '/evangelion4/',
+    '/eva4/',
 ]
 
 weight: -20210308
@@ -47,6 +57,10 @@ eqt-tipos: [
     'peli anime',
 ]
 
+eqt-autores: [
+    'Fansubgalego',
+]
+
 ---
 
 # Evangelion: 3.0+1.0
@@ -54,9 +68,9 @@ eqt-tipos: [
 {{< icona ancho="24" alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-    <img height="400" title="oreimo" alt="oreimo" src="/portada/evangelion3+1.jpg">
+    <img style="border: 3px solid currentColor" height="400" title="oreimo" alt="oreimo" src="/portada/evangelion3+1.jpg">
 </div>
 
 <br>
 
-{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/evangelion-3.0+1.0.gz.ass" >}}
+{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/evangelion-3.0+1.0.gz.ass" autor="Fansubgalego" >}}

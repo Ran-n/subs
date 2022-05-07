@@ -37,9 +37,9 @@ aliases : [
     '/gz/oreimo_1x01/',
 ]
 
-weight: 01
-bookcase_cover_src: '/capi/01-claro.svg'
-bookcase_cover_src_dark: '/capi/01-escuro.svg'
+weight: 101
+bookcase_cover_src: '/capi/1x01-claro.svg'
+bookcase_cover_src_dark: '/capi/1x01-escuro.svg'
 
 eqt-autores: [
     'Fansubgalego',
@@ -64,7 +64,9 @@ eqt-autores: [
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt1751305" >}}
 {{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/List_of_Oreimo_episodes" >}}
 </div>
+
+## Non hai xeito que namorara da minha irmá
 <br>
 
 <!-- {{< sub ancho="50" alto="50" titulo="Non Hai Xeito Que Namorara Da Minha Irmá" ligazon="/sub/oreimo/oreimo-01.gz.ass" texto_tamanho="34px" texto_x="106" texto_y="164" texto="01" autor="Fansubgalego" >}} -->
-{{< sub ancho="50" alto="50" titulo="Non Hai Xeito Que Namorara Da Minha Irmá" ligazon="/sub/oreimo/oreimo-01.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="Non hai xeito que namorara da minha irmá" ligazon="/sub/oreimo/oreimo-01.gz.ass" autor="Fansubgalego" >}}

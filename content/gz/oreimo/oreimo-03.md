@@ -36,9 +36,9 @@ aliases : [
     '/gz/oreimo_3x03/',
 ]
 
-weight: 03
-bookcase_cover_src: '/capi/03-claro.svg'
-bookcase_cover_src_dark: '/capi/03-escuro.svg'
+weight: 103
+bookcase_cover_src: '/capi/1x03-claro.svg'
+bookcase_cover_src_dark: '/capi/1x03-escuro.svg'
 
 eqt-autores: [
     'Fansubgalego',
@@ -51,9 +51,23 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
 <div style="text-align: center">
-    <img style="border: 3px solid currentColor" height=400 title="oreimo" alt="oreimo" src="/portada/oreimo.jpg">
-</div>
+<img style="border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/original/pdGYtFsJ82sG1XAVGWHChFaJgH1.jpg">
 
 <br>
 
-{{< sub ancho="50" alto="50" titulo="Non Hai Xeito Que A Minha Irmá Pequena Sexa Tan Bonitinha" ligazon="/sub/oreimo/oreimo-03.gz.ass" autor="Fansubgalego" >}}
+<div style="float: left">
+{{< icona ancho="30px" alto="30px" tipo="menor" ligazon="/gz/oreimo/02/" >}}
+</div>
+<!--div style="float: right">
+{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/oreimo/04/" >}}
+</div-->
+
+{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="56353" >}}
+{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt1751305" >}}
+{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/List_of_Oreimo_episodes" >}}
+</div>
+
+## Non hai xeito que a minha irmá pequena sexa tan bonitinha
+<br>
+
+{{< sub ancho="50" alto="50" titulo="Non hai xeito que a minha irmá pequena sexa tan bonitinha" ligazon="/sub/oreimo/oreimo-03.gz.ass" autor="Fansubgalego" >}}

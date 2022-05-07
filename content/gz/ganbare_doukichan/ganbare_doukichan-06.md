@@ -95,6 +95,5 @@ eqt-autores: [
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
 {{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
 </div>
-<br>
 
 {{< sub ancho="50" alto="50" titulo="" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-06.gz.ass" autor="Fansubgalego" >}}

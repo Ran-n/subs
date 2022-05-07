@@ -34,6 +34,7 @@
       "svg",
       "text",
       "title",
+      "title/",
       "ul"
     ],
     "classes": [
@@ -106,15 +107,6 @@
       "golden-time--01",
       "golden-time--02",
       "golden-time--03",
-      "golden-time--04",
-      "golden-time--05",
-      "golden-time--06",
-      "golden-time--07",
-      "golden-time--08",
-      "golden-time--09",
-      "golden-time--10",
-      "golden-time--11",
-      "golden-time--12",
       "light_mode_btn",
       "listaxe",
       "menu_icon",

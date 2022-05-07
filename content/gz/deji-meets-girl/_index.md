@@ -7,12 +7,13 @@ author: 'Ran#'
 #navbar_title: ""
 footer: "Deji Meets Girl ❤️"
 
-search_hidden: false
 toc: false
 collapsible_toc: false
 
-zooming_js: false
+search_hidden: false
+zooming_js: true
 math: false
+
 ga: true
 disqus: false
 

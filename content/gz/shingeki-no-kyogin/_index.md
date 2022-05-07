@@ -11,7 +11,7 @@ toc: false
 collapsible_toc: false
 
 search_hidden: false
-zooming_js: false
+zooming_js: true
 math: false
 
 ga: true

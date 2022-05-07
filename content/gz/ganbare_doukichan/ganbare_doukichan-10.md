@@ -18,27 +18,40 @@ ga: true
 disqus: true
 
 url: '/ganbare-doukichan/10/'
-slug: '01'
+slug: '10'
 aliases : [
-    '/gz/ganbare-doukichan/10/',
-    '/gz/ganbare-douki-chan/10/',
-    '/gz/ganbare-douki chan/10/',
-    '/gz/ganbare-douki_chan/10/',
-
-    '/gz/ganbare_doukichan/10/',
-    '/gz/ganbare_douki-chan/10/',
-    '/gz/ganbare_douki_chan/10/',
-    '/gz/ganbare_douki chan/10/',
-
-    '/gz/ganbare doukichan/10/',
-    '/gz/ganbare douki-chan/10/',
-    '/gz/ganbare douki_chan/10/',
     '/gz/ganbare douki chan/10/',
-
-    '/gz/ganbaredoukichan/10/',
-    '/gz/ganbaredouki-chan/10/',
-    '/gz/ganbaredouki_chan/10/',
+    '/gz/ganbare douki chan/1x10/',
+    '/gz/ganbare douki-chan/10/',
+    '/gz/ganbare douki-chan/1x10/',
+    '/gz/ganbare douki_chan/10/',
+    '/gz/ganbare douki_chan/1x10/',
+    '/gz/ganbare doukichan/10/',
+    '/gz/ganbare doukichan/1x10/',
+    '/gz/ganbare-douki chan/10/',
+    '/gz/ganbare-douki chan/1x10/',
+    '/gz/ganbare-douki-chan/10/',
+    '/gz/ganbare-douki-chan/1x10/',
+    '/gz/ganbare-douki_chan/10/',
+    '/gz/ganbare-douki_chan/1x10/',
+    '/gz/ganbare-doukichan/10/',
+    '/gz/ganbare-doukichan/1x10/',
+    '/gz/ganbare_douki chan/10/',
+    '/gz/ganbare_douki chan/1x10/',
+    '/gz/ganbare_douki-chan/10/',
+    '/gz/ganbare_douki-chan/1x10/',
+    '/gz/ganbare_douki_chan/10/',
+    '/gz/ganbare_douki_chan/1x10/',
+    '/gz/ganbare_doukichan/10/',
+    '/gz/ganbare_doukichan/1x10/',
     '/gz/ganbaredouki chan/10/',
+    '/gz/ganbaredouki chan/1x10/',
+    '/gz/ganbaredouki-chan/10/',
+    '/gz/ganbaredouki-chan/1x10/',
+    '/gz/ganbaredouki_chan/10/',
+    '/gz/ganbaredouki_chan/1x10/',
+    '/gz/ganbaredoukichan/10/',
+    '/gz/ganbaredoukichan/1x10/',
 ]
 
 weight: 10
@@ -55,12 +68,12 @@ eqt-autores: [
 
 ---
 
-# Golden Time | 10
+# Ganbare Douki-chan | 10
 
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" height=400 title="Golden Time" alt="Golden Time" src="/portada/ganbare_doukichan.jpg">
+<img style="border: 3px solid currentColor" height=400 title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="/portada/ganbare_doukichan.jpg">
 
 {{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="131168" >}}
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
@@ -68,4 +81,4 @@ eqt-autores: [
 </div>
 <br>
 
-{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/golden_time/ganbare_doukichan-10.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-10.gz.ass" autor="Fansubgalego" >}}

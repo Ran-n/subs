@@ -18,14 +18,10 @@ url: '/tipos/'
 slug: 'tipos'
 aliases: [
     '/gz/eqt-tipos/',
-    '/gz/tipos/',
     '/gz/eqt-tipo/',
-    '/gz/tipo/',
 
-    '/eqt-tipos/',
-    '/tipos/',
-    '/eqt-tipo/',
-    '/tipo/',
+    '/gz/tipos/',
+    '/gz/tipo/',
 ]
 
 type: 'bookcase'

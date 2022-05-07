@@ -26,3 +26,8 @@
         name = "Anime"
         url = "/gz/eqt-tipos/anime/"
         weight = 3
+[[navbar]]
+    identifier = "autores_gz"
+    name = "Autores"
+    url = "/gz/eqt-autores/"
+    weight = 3

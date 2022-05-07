@@ -76,7 +76,16 @@ eqt-autores: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/golden-time/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" height=400 title="Golden Time" alt="Golden Time" src="/portada/golden-time.jpg">
+<img style="border: 3px solid currentColor" title="Golden Time" alt="Golden Time" src="https://www.themoviedb.org/t/p/original/tAcsYKKLNwWfkVvtev7EYVVC0Bz.jpg">
+
+<br>
+
+<div style="float: left">
+{{< icona ancho="30px" alto="30px" tipo="menor" ligazon="/gz/golden-time/01/" >}}
+</div>
+<div style="float: right">
+{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/golden-time/03/" >}}
+</div>
 
 {{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="67389" >}}
 {{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt3105452" >}}

@@ -1,5 +1,8 @@
 tag = "tags"
 
+# contidos
+eqt-contido = "eqt-contidos"
+
 # nome
 eqt-franquia = "eqt-franquias"
 

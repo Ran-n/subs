@@ -1,9 +1,10 @@
 ---
-title: 'Franquias'
+title: 'Autores'
+draft: false
 author: 'Ran#'
 
 #navbar_title: ''
-#footer: ''
+footer: 'Autores'
 
 search_hidden: false
 toc: false
@@ -14,17 +15,15 @@ math: false
 ga: true
 #disqus: false
 
-url: '/franquias/'
-slug: 'franquias'
+url: '/x/'
+slug: 'x'
 aliases: [
-    '/gz/eqt-franquia/',
-    '/gz/eqt-franquias/',
-    '/gz/eqt-franquía/',
-    '/gz/eqt-franquías/',
-    '/gz/franquia/',
-    '/gz/franquias/',
-    '/gz/franquía/',
-    '/gz/franquías/',
+    '/gz/autor/',
+    '/gz/autores/',
+    '/gz/eqt-autor/',
+    '/gz/eqt-autores/',
+    '/gz/x/',
+    '/gz/xs/',
 ]
 
 type: 'bookcase'

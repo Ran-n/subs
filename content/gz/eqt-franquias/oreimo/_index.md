@@ -19,25 +19,22 @@ disqus: true
 url: '/franquias/oreimo/'
 slug: 'oreimo'
 aliases: [
-    '/gz/eqt-franquias/oreimo/',
-    '/gz/eqt-franquia/oreimo/',
-    '/gz/franquias/oreimo/',
-    '/gz/franquia/oreimo/',
-
-    '/gz/eqt-franquias/Oreimo/',
     '/gz/eqt-franquia/Oreimo/',
-    '/gz/franquias/Oreimo/',
-    '/gz/franquia/Oreimo/',
-
-    '/gz/eqt-franquías/oreimo/',
-    '/gz/eqt-franquía/oreimo/',
-    '/gz/franquías/oreimo/',
-    '/gz/franquía/oreimo/',
-
-    '/gz/eqt-franquías/Oreimo/',
+    '/gz/eqt-franquia/oreimo/',
+    '/gz/eqt-franquias/Oreimo/',
+    '/gz/eqt-franquias/oreimo/',
     '/gz/eqt-franquía/Oreimo/',
-    '/gz/franquías/Oreimo/',
+    '/gz/eqt-franquía/oreimo/',
+    '/gz/eqt-franquías/Oreimo/',
+    '/gz/eqt-franquías/oreimo/',
+    '/gz/franquia/Oreimo/',
+    '/gz/franquia/oreimo/',
+    '/gz/franquias/Oreimo/',
+    '/gz/franquias/oreimo/',
     '/gz/franquía/Oreimo/',
+    '/gz/franquía/oreimo/',
+    '/gz/franquías/Oreimo/',
+    '/gz/franquías/oreimo/',
 ]
 
 bookcase_cover_src: '/portada/oreimo.jpg'

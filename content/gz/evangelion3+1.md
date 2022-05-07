@@ -20,23 +20,14 @@ disqus: true
 url: '/evangelion3.0+1.0/'
 slug: 'evangelion3.0+1.0'
 aliases : [
-    '/gz/evangelion3.0+1.0/',
-    '/gz/eva3.0+1.0/',
-    '/gz/evangelion3.01.0/',
-    '/gz/eva3.01.0/',
-    '/gz/evangelion3+1/',
     '/gz/eva3+1/',
-    '/gz/evangelion4/',
+    '/gz/eva3.0+1.0/',
+    '/gz/eva3.01.0/',
     '/gz/eva4/',
-
-    '/evangelion3.0+1.0/',
-    '/eva3.0+1.0/',
-    '/evangelion3.01.0/',
-    '/eva3.01.0/',
-    '/evangelion3+1/',
-    '/eva3+1/',
-    '/evangelion4/',
-    '/eva4/',
+    '/gz/evangelion3+1/',
+    '/gz/evangelion3.0+1.0/',
+    '/gz/evangelion3.01.0/',
+    '/gz/evangelion4/',
 ]
 
 weight: -20210308

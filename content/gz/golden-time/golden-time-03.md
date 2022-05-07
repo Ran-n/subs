@@ -18,26 +18,23 @@ ga: true
 disqus: true
 
 url: '/golden-time/03/'
-slug: '02'
+slug: '03'
 aliases : [
-    '/gz/golden-time/03/',
-    '/gz/golden_time/03/',
     '/gz/golden time/03/',
-    '/gz/goldentime/03/',
-
-    '/gz/golden-time/3/',
-    '/gz/golden_time/3/',
     '/gz/golden time/3/',
-    '/gz/goldentime/3/',
-
-    '/gz/golden-time03/',
-    '/gz/golden_time03/',
     '/gz/golden time03/',
-    '/gz/goldentime03/',
-
-    '/gz/golden-time3/',
-    '/gz/golden_time3/',
     '/gz/golden time3/',
+    '/gz/golden-time/03/',
+    '/gz/golden-time/3/',
+    '/gz/golden-time03/',
+    '/gz/golden-time3/',
+    '/gz/golden_time/03/',
+    '/gz/golden_time/3/',
+    '/gz/golden_time03/',
+    '/gz/golden_time3/',
+    '/gz/goldentime/03/',
+    '/gz/goldentime/3/',
+    '/gz/goldentime03/',
     '/gz/goldentime3/',
 ]
 

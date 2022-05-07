@@ -20,111 +20,26 @@ disqus: true
 url: '/deji-meets-girl/12/'
 slug: '12'
 aliases : [
-    '/gz/deji/12/',
-    '/gz/deji/12/',
-
-    '/gz/deji12/',
     '/gz/deji 12/',
+    '/gz/deji meets girl 12/',
+    '/gz/deji meets girl-12/',
+    '/gz/deji meets girl/12/',
+    '/gz/deji meets girl12/',
+    '/gz/deji meets girl_12/',
     '/gz/deji-12/',
-    '/gz/deji_12/',
-
+    '/gz/deji-meets-girl 12/',
+    '/gz/deji-meets-girl-12/',
+    '/gz/deji-meets-girl/12/',
+    '/gz/deji-meets-girl12/',
+    '/gz/deji-meets-girl_12/',
+    '/gz/deji/12/',
     '/gz/deji12/',
-    '/gz/deji 12/',
-    '/gz/deji-12/',
     '/gz/deji_12/',
-
-    '/deji/12/',
-    '/deji/12/',
-
-    '/deji12/',
-    '/deji 12/',
-    '/deji-12/',
-    '/deji_12/',
-
-    '/deji12/',
-    '/deji 12/',
-    '/deji-12/',
-    '/deji_12/',
-
-    '/gz/deji meets girl/12/',
-    '/gz/deji_meets_girl/12/',
-    '/gz/deji-meets-girl/12/',
-
-    '/gz/deji meets girl/12/',
-    '/gz/deji_meets_girl/12/',
-    '/gz/deji-meets-girl/12/',
-
-    '/gz/deji meets girl 12/',
     '/gz/deji_meets_girl 12/',
-    '/gz/deji-meets-girl 12/',
-
-    '/gz/deji meets girl-12/',
     '/gz/deji_meets_girl-12/',
-    '/gz/deji-meets-girl-12/',
-
-    '/gz/deji meets girl_12/',
-    '/gz/deji_meets_girl_12/',
-    '/gz/deji-meets-girl_12/',
-
-    '/gz/deji meets girl12/',
+    '/gz/deji_meets_girl/12/',
     '/gz/deji_meets_girl12/',
-    '/gz/deji-meets-girl12/',
-
-    '/gz/deji meets girl 12/',
-    '/gz/deji_meets_girl 12/',
-    '/gz/deji-meets-girl 12/',
-
-    '/gz/deji meets girl-12/',
-    '/gz/deji_meets_girl-12/',
-    '/gz/deji-meets-girl-12/',
-
-    '/gz/deji meets girl_12/',
     '/gz/deji_meets_girl_12/',
-    '/gz/deji-meets-girl_12/',
-
-    '/gz/deji meets girl12/',
-    '/gz/deji_meets_girl12/',
-    '/gz/deji-meets-girl12/',
-
-    '/deji meets girl/12/',
-    '/deji_meets_girl/12/',
-    '/deji-meets-girl/12/',
-
-    '/deji meets girl/12/',
-    '/deji_meets_girl/12/',
-    '/deji-meets-girl/12/',
-
-    '/deji meets girl 12/',
-    '/deji_meets_girl 12/',
-    '/deji-meets-girl 12/',
-
-    '/deji meets girl-12/',
-    '/deji_meets_girl-12/',
-    '/deji-meets-girl-12/',
-
-    '/deji meets girl_12/',
-    '/deji_meets_girl_12/',
-    '/deji-meets-girl_12/',
-
-    '/deji meets girl12/',
-    '/deji_meets_girl12/',
-    '/deji-meets-girl12/',
-
-    '/deji meets girl 12/',
-    '/deji_meets_girl 12/',
-    '/deji-meets-girl 12/',
-
-    '/deji meets girl-12/',
-    '/deji_meets_girl-12/',
-    '/deji-meets-girl-12/',
-
-    '/deji meets girl_12/',
-    '/deji_meets_girl_12/',
-    '/deji-meets-girl_12/',
-
-    '/deji meets girl12/',
-    '/deji_meets_girl12/',
-    '/deji-meets-girl12/',
 ]
 
 weight: 12

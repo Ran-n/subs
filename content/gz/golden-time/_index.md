@@ -20,9 +20,9 @@ disqus: true
 url: '/golden-time/'
 slug: 'golden-time'
 aliases : [
+    '/gz/golden time/',
     '/gz/golden-time/',
     '/gz/golden_time/',
-    '/gz/golden time/',
     '/gz/goldentime/',
 ]
 

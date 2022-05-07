@@ -19,18 +19,16 @@ disqus: true
 url: '/tipos/hentai/'
 slug: 'hentai'
 aliases: [
-    '/gz/eqt-tipos/hentai/',
     '/gz/eqt-tipo/hentai/',
-    '/gz/tipos/hentai/',
-    '/gz/tipo/hentai/',
-
-    '/gz/eqt-tipos/hentais/',
     '/gz/eqt-tipo/hentais/',
-    '/gz/tipos/hentais/',
-    '/gz/tipo/hentais/',
-
-    '/gz/hentais/',
+    '/gz/eqt-tipos/hentai/',
+    '/gz/eqt-tipos/hentais/',
     '/gz/hentai/',
+    '/gz/hentais/',
+    '/gz/tipo/hentai/',
+    '/gz/tipo/hentais/',
+    '/gz/tipos/hentai/',
+    '/gz/tipos/hentais/',
 ]
 
 bookcase_cover_src: '/portada/+18.svg'

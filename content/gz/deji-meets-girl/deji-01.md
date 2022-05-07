@@ -20,111 +20,46 @@ disqus: true
 url: '/deji-meets-girl/01/'
 slug: '01'
 aliases : [
+    '/gz/deji 01/',
+    '/gz/deji 1/',
+    '/gz/deji meets girl 01/',
+    '/gz/deji meets girl 1/',
+    '/gz/deji meets girl-01/',
+    '/gz/deji meets girl-1/',
+    '/gz/deji meets girl/01/',
+    '/gz/deji meets girl/1/',
+    '/gz/deji meets girl01/',
+    '/gz/deji meets girl1/',
+    '/gz/deji meets girl_01/',
+    '/gz/deji meets girl_1/',
+    '/gz/deji-01/',
+    '/gz/deji-1/',
+    '/gz/deji-meets-girl 01/',
+    '/gz/deji-meets-girl 1/',
+    '/gz/deji-meets-girl-01/',
+    '/gz/deji-meets-girl-1/',
+    '/gz/deji-meets-girl/01/',
+    '/gz/deji-meets-girl/1/',
+    '/gz/deji-meets-girl01/',
+    '/gz/deji-meets-girl1/',
+    '/gz/deji-meets-girl_01/',
+    '/gz/deji-meets-girl_1/',
     '/gz/deji/01/',
     '/gz/deji/1/',
-
     '/gz/deji01/',
-    '/gz/deji 01/',
-    '/gz/deji-01/',
-    '/gz/deji_01/',
-
     '/gz/deji1/',
-    '/gz/deji 1/',
-    '/gz/deji-1/',
+    '/gz/deji_01/',
     '/gz/deji_1/',
-
-    '/deji/01/',
-    '/deji/1/',
-
-    '/deji01/',
-    '/deji 01/',
-    '/deji-01/',
-    '/deji_01/',
-
-    '/deji1/',
-    '/deji 1/',
-    '/deji-1/',
-    '/deji_1/',
-
-    '/gz/deji meets girl/01/',
-    '/gz/deji_meets_girl/01/',
-    '/gz/deji-meets-girl/01/',
-
-    '/gz/deji meets girl/1/',
-    '/gz/deji_meets_girl/1/',
-    '/gz/deji-meets-girl/1/',
-
-    '/gz/deji meets girl 01/',
     '/gz/deji_meets_girl 01/',
-    '/gz/deji-meets-girl 01/',
-
-    '/gz/deji meets girl-01/',
-    '/gz/deji_meets_girl-01/',
-    '/gz/deji-meets-girl-01/',
-
-    '/gz/deji meets girl_01/',
-    '/gz/deji_meets_girl_01/',
-    '/gz/deji-meets-girl_01/',
-
-    '/gz/deji meets girl01/',
-    '/gz/deji_meets_girl01/',
-    '/gz/deji-meets-girl01/',
-
-    '/gz/deji meets girl 1/',
     '/gz/deji_meets_girl 1/',
-    '/gz/deji-meets-girl 1/',
-
-    '/gz/deji meets girl-1/',
+    '/gz/deji_meets_girl-01/',
     '/gz/deji_meets_girl-1/',
-    '/gz/deji-meets-girl-1/',
-
-    '/gz/deji meets girl_1/',
-    '/gz/deji_meets_girl_1/',
-    '/gz/deji-meets-girl_1/',
-
-    '/gz/deji meets girl1/',
+    '/gz/deji_meets_girl/01/',
+    '/gz/deji_meets_girl/1/',
+    '/gz/deji_meets_girl01/',
     '/gz/deji_meets_girl1/',
-    '/gz/deji-meets-girl1/',
-
-    '/deji meets girl/01/',
-    '/deji_meets_girl/01/',
-    '/deji-meets-girl/01/',
-
-    '/deji meets girl/1/',
-    '/deji_meets_girl/1/',
-    '/deji-meets-girl/1/',
-
-    '/deji meets girl 1/',
-    '/deji_meets_girl 1/',
-    '/deji-meets-girl 1/',
-
-    '/deji meets girl-1/',
-    '/deji_meets_girl-1/',
-    '/deji-meets-girl-1/',
-
-    '/deji meets girl_1/',
-    '/deji_meets_girl_1/',
-    '/deji-meets-girl_1/',
-
-    '/deji meets girl1/',
-    '/deji_meets_girl1/',
-    '/deji-meets-girl1/',
-
-    '/deji meets girl 01/',
-    '/deji_meets_girl 01/',
-    '/deji-meets-girl 01/',
-
-    '/deji meets girl-01/',
-    '/deji_meets_girl-01/',
-    '/deji-meets-girl-01/',
-
-    '/deji meets girl_01/',
-    '/deji_meets_girl_01/',
-    '/deji-meets-girl_01/',
-
-    '/deji meets girl01/',
-    '/deji_meets_girl01/',
-    '/deji-meets-girl01/',
+    '/gz/deji_meets_girl_01/',
+    '/gz/deji_meets_girl_1/',
 ]
 
 weight: 01

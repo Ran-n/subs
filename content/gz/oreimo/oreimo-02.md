@@ -20,42 +20,20 @@ disqus: true
 url: '/oreimo/02/'
 slug: '02'
 aliases : [
+    '/gz/oreimo 02/',
+    '/gz/oreimo 2/',
+    '/gz/oreimo 2x02/',
+    '/gz/oreimo-02/',
+    '/gz/oreimo-2/',
+    '/gz/oreimo-2x02/',
     '/gz/oreimo/02/',
     '/gz/oreimo/2/',
-
-    '/oreimo/02/',
-    '/oreimo/2/',
-
-
-    '/gz/oreimo-02/',
-    '/gz/oreimo_02/',
-    '/gz/oreimo 02/',
     '/gz/oreimo02/',
-
-    '/gz/oreimo-2/',
-    '/gz/oreimo_2/',
-    '/gz/oreimo 2/',
     '/gz/oreimo2/',
-
-    '/gz/oreimo-2x02/',
-    '/gz/oreimo_2x02/',
-    '/gz/oreimo 2x02/',
     '/gz/oreimo2x02/',
-
-    '/oreimo-02/',
-    '/oreimo_02/',
-    '/oreimo 02/',
-    '/oreimo02/',
-
-    '/oreimo-2/',
-    '/oreimo_2/',
-    '/oreimo 2/',
-    '/oreimo2/',
-
-    '/oreimo-1x02/',
-    '/oreimo_1x02/',
-    '/oreimo 1x02/',
-    '/oreimo1x02/',
+    '/gz/oreimo_02/',
+    '/gz/oreimo_2/',
+    '/gz/oreimo_2x02/',
 ]
 
 weight: 02

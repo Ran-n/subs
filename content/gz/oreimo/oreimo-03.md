@@ -20,42 +20,20 @@ disqus: true
 url: '/oreimo/03/'
 slug: '03'
 aliases : [
+    '/gz/oreimo 03/',
+    '/gz/oreimo 3/',
+    '/gz/oreimo 3x03/',
+    '/gz/oreimo-03/',
+    '/gz/oreimo-3/',
+    '/gz/oreimo-3x03/',
     '/gz/oreimo/03/',
     '/gz/oreimo/3/',
-
-    '/oreimo/03/',
-    '/oreimo/3/',
-
-
-    '/gz/oreimo-03/',
-    '/gz/oreimo_03/',
-    '/gz/oreimo 03/',
     '/gz/oreimo03/',
-
-    '/gz/oreimo-3/',
-    '/gz/oreimo_3/',
-    '/gz/oreimo 3/',
     '/gz/oreimo3/',
-
-    '/gz/oreimo-3x03/',
-    '/gz/oreimo_3x03/',
-    '/gz/oreimo 3x03/',
     '/gz/oreimo3x03/',
-
-    '/oreimo-03/',
-    '/oreimo_03/',
-    '/oreimo 03/',
-    '/oreimo03/',
-
-    '/oreimo-3/',
-    '/oreimo_3/',
-    '/oreimo 3/',
-    '/oreimo3/',
-
-    '/oreimo-1x03/',
-    '/oreimo_1x03/',
-    '/oreimo 1x03/',
-    '/oreimo1x03/',
+    '/gz/oreimo_03/',
+    '/gz/oreimo_3/',
+    '/gz/oreimo_3x03/',
 ]
 
 weight: 03

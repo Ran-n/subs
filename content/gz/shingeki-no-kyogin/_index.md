@@ -21,8 +21,6 @@ url: '/shingeki-no-kyojin/'
 slug: 'shingeki-no-kyojin'
 aliases : [
     '/gz/shingeki-no-kyojin/',
-
-    '/shingeki-no-kyojin/',
 ]
 
 weight: -20130407

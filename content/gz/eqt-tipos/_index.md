@@ -17,11 +17,10 @@ ga: true
 url: '/tipos/'
 slug: 'tipos'
 aliases: [
-    '/gz/eqt-tipos/',
     '/gz/eqt-tipo/',
-
-    '/gz/tipos/',
+    '/gz/eqt-tipos/',
     '/gz/tipo/',
+    '/gz/tipos/',
 ]
 
 type: 'bookcase'

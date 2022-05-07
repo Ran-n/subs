@@ -19,23 +19,22 @@ disqus: true
 url: '/tipos/animacion/'
 slug: 'animacion'
 aliases: [
-    '/gz/eqt-tipos/animacion/',
-    '/gz/tipos/animacion/',
     '/gz/eqt-tipo/animacion/',
-    '/gz/tipo/animacion/',
-    '/gz/eqt-tipos/animacions/',
-    '/gz/tipos/animacions/',
     '/gz/eqt-tipo/animacions/',
-    '/gz/tipo/animacions/',
-
-    '/gz/eqt-tipos/animación/',
-    '/gz/tipos/animación/',
     '/gz/eqt-tipo/animación/',
-    '/gz/tipo/animación/',
-    '/gz/eqt-tipos/animacións/',
-    '/gz/tipos/animacións/',
     '/gz/eqt-tipo/animacións/',
+    '/gz/eqt-tipos/animacion/',
+    '/gz/eqt-tipos/animacions/',
+    '/gz/eqt-tipos/animación/',
+    '/gz/eqt-tipos/animacións/',
+    '/gz/tipo/animacion/',
+    '/gz/tipo/animacions/',
+    '/gz/tipo/animación/',
     '/gz/tipo/animacións/',
+    '/gz/tipos/animacion/',
+    '/gz/tipos/animacions/',
+    '/gz/tipos/animación/',
+    '/gz/tipos/animacións/',
 ]
 
 bookcase_cover_src: '/portada/tipo-animacion.png'

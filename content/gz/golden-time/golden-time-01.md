@@ -20,24 +20,21 @@ disqus: true
 url: '/golden-time/01/'
 slug: '01'
 aliases : [
-    '/gz/golden-time/01/',
-    '/gz/golden_time/01/',
     '/gz/golden time/01/',
-    '/gz/goldentime/01/',
-
-    '/gz/golden-time/1/',
-    '/gz/golden_time/1/',
     '/gz/golden time/1/',
-    '/gz/goldentime/1/',
-
-    '/gz/golden-time01/',
-    '/gz/golden_time01/',
     '/gz/golden time01/',
-    '/gz/goldentime01/',
-
-    '/gz/golden-time1/',
-    '/gz/golden_time1/',
     '/gz/golden time1/',
+    '/gz/golden-time/01/',
+    '/gz/golden-time/1/',
+    '/gz/golden-time01/',
+    '/gz/golden-time1/',
+    '/gz/golden_time/01/',
+    '/gz/golden_time/1/',
+    '/gz/golden_time01/',
+    '/gz/golden_time1/',
+    '/gz/goldentime/01/',
+    '/gz/goldentime/1/',
+    '/gz/goldentime01/',
     '/gz/goldentime1/',
 ]
 

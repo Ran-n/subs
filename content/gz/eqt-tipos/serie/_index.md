@@ -19,18 +19,16 @@ disqus: true
 url: '/tipos/serie/'
 slug: 'serie'
 aliases: [
-    '/gz/eqt-tipos/series/',
+    '/gz/eqt-tipo/serie/',
     '/gz/eqt-tipo/series/',
     '/gz/eqt-tipos/serie/',
-    '/gz/eqt-tipo/serie/',
-
-    '/gz/tipos/series/',
+    '/gz/eqt-tipos/series/',
+    '/gz/serie/',
+    '/gz/series/',
+    '/gz/tipo/serie/',
     '/gz/tipo/series/',
     '/gz/tipos/serie/',
-    '/gz/tipo/serie/',
-
-    '/gz/series/',
-    '/gz/serie/',
+    '/gz/tipos/series/',
 ]
 
 bookcase_cover_src: '/portada/tipo-serie2.jpg'

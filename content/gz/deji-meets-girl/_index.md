@@ -20,16 +20,10 @@ disqus: false
 url: '/deji-meets-girl/'
 slug: 'deji-meets-girl'
 aliases : [
-    '/gz/deji/',
-    '/deji/',
-
     '/gz/deji meets girl/',
-    '/gz/deji_meets_girl/',
     '/gz/deji-meets-girl/',
-
-    '/deji meets girl/',
-    '/deji_meets_girl/',
-    '/deji-meets-girl/',
+    '/gz/deji/',
+    '/gz/deji_meets_girl/',
 ]
 
 weight: -20211030

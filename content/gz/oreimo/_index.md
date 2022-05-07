@@ -21,8 +21,6 @@ url: '/oreimo/'
 slug: 'oreimo'
 aliases : [
     '/gz/oreimo/',
-
-    '/oreimo/',
 ]
 
 weight: -20090130

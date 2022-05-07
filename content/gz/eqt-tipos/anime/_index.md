@@ -19,14 +19,14 @@ disqus: true
 url: '/tipos/anime/'
 slug: 'anime'
 aliases: [
-    '/gz/eqt-tipos/anime/',
-    '/gz/tipos/anime/',
     '/gz/eqt-tipo/anime/',
-    '/gz/tipo/anime/',
-    '/gz/eqt-tipos/animes/',
-    '/gz/tipos/animes/',
     '/gz/eqt-tipo/animes/',
+    '/gz/eqt-tipos/anime/',
+    '/gz/eqt-tipos/animes/',
+    '/gz/tipo/anime/',
     '/gz/tipo/animes/',
+    '/gz/tipos/anime/',
+    '/gz/tipos/animes/',
 ]
 
 bookcase_cover_src: '/portada/tipo-anime.svg'

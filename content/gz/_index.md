@@ -32,6 +32,17 @@ bookcase_list_sections: true
 
 Páxina web con subtítulos en galego e outros idiomas.
 
+## Como engadir contidos?
+
+Precisarás dunha conta de [github](https://github.com/).
+Con ela accede ó seguinte repositorio [Ran-n/subs](https://github.com/Ran-n/subs).
+Pulsando no botón *Fork* poderás facer unha copia local modificable por ti na que incluirás os cambios.
+Para crear e modificar arquivos sigue o estilo que xa existe.
+
+Unha vez rematados, retornando ó respositorio inicial, daráselle ó botón de *Pull requests* e iniciarase unha nova *pull request* (dándolle á ligazón *compare across forks*) onde o *base repository* será Ran-n/subs e o *head repository* será o recén modificado por ti).
+
+Se tes problemas contactame no correo.
+
 ## Doazóns
 
 {{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}

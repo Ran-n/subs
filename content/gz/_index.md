@@ -53,21 +53,17 @@ Se tes problemas contactame no correo.
 <br>
 {{< moeda moeda="wownero" dir="WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm" cor="si" ancho="24px" alto="24px" >}}
 
-## Creador
+## Contacto
 
+{{< icon name="mail" link="mailto:ran-n@tutanota.com" >}}
 {{< icon name="github" link="https://github.com/Ran-n" >}}
 {{< icon name="" link="https://stackoverflow.com/users/16545423/ran" >}}
 {{< icon name="" link="https://stackexchange.com/users/22323027/ran?tab=accounts" >}}
 {{< icon name="" link="https://pypi.org/user/ran-n/" >}}
 
-<img height=150px title="Ran#" alt="Ran#" src="/autor/kanagawa2.png">
+<!--img height=150px title="Ran#" alt="Ran#" src="/autor/kanagawa2.png"-->
 
-Páxina web feita por Ran#.
-
-### Contacto
-
-{{< icon name="mail" link="mailto:ran-n@tutanota.com" >}}
-
+Páxina web feita por Ran#.\
 Para consultas de negocios mandar correo a: ran-n@tutanota.com
 
 ## Listaxe de todos os contidos

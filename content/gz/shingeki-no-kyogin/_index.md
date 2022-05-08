@@ -42,7 +42,9 @@ eqt-franquias: [
 
 eqt-tipos: [
     'anime',
+    'serie',
     'serie anime',
+    'serie debuxo',
 ]
 
 ---

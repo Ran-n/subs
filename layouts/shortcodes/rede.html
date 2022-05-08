@@ -1,22 +1,37 @@
+{{ $dimenbase := "24" }}
+
 {{ $ligazon := .Get "ligazon" }}
 <!--
     Youtube, Odysee, Twitch, Twitter, Patreon, Instagram, Reddit, Discord, Paypal, Facebook, TikTok
 -->
 {{ $tipo := .Get "tipo" }}
+{{ $subtipo := .Get "subtipo" }}
 {{ $titulo := .Get "titulo" }}
 {{ $cor := .Get "cor" }}
 
 {{ $ancho := .Get "ancho" }}
 {{ $alto := .Get "alto" }}
 
+{{ if not $ancho }}
+    {{ if $alto }}
+        {{ $ancho = $alto }}
+    {{ else }}
+        {{ $ancho = $dimenbase }}
+    {{ end }}
+{{ end }}
+
+{{ if not $alto }}
+    {{ $alto = $ancho }}
+{{ end }}
+
 
 {{ if and $ligazon $tipo $ancho $alto }}
 {{ if eq $tipo "youtube" }}
-<a rel="noopener" target="_blank" href="https://www.youtube.com/channel/{{ $ligazon }}">
-{{ else if eq $tipo "youtube2" }}
-<a rel="noopener" target="_blank" href="https://www.youtube.com/c/{{ $ligazon }}">
-{{ else if eq $tipo "youtube3" }}
-<a rel="noopener" target="_blank" href="https://www.youtube.com/user/{{ $ligazon }}">
+    {{ if $subtipo }}
+    <a rel="noopener" target="_blank" href="https://www.youtube.com/{{ $subtipo }}/{{ $ligazon }}">
+    {{ else }}
+<a rel="noopener" target="_blank" href="{{ $ligazon }}">
+    {{ end }}
 {{ else if eq $tipo "odysee" }}
 <a rel="noopener" target="_blank" href="https://odysee.com/{{ $ligazon }}">
 {{ else if eq $tipo "twitch" }}
@@ -42,11 +57,15 @@
 {{ else if eq $tipo "web" }}
 <a rel="noopener" target="_blank" href="{{ $ligazon }}">
 {{ else if eq $tipo "tmdb" }}
-<a rel="noopener" target="_blank" href="https://www.themoviedb.org/tv/{{ $ligazon }}">
+<a rel="noopener" target="_blank" href="https://www.themoviedb.org/{{ $subtipo }}/{{ $ligazon }}">
 {{ else if eq $tipo "imdb" }}
 <a rel="noopener" target="_blank" href="https://www.imdb.com/title/{{ $ligazon }}">
 {{ else if eq $tipo "wikipedia" }}
+    {{ if $subtipo }}
+<a rel="noopener" target="_blank" href="https://{{ $subtipo }}.wikipedia.org/wiki/{{ $ligazon }}">
+    {{ else }}
 <a rel="noopener" target="_blank" href="{{ $ligazon }}">
+    {{ end }}
 {{ end }}
     <svg fill="currentColor" style="padding: 2px; color: var(--color-text)" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="{{ $ancho }}" height="{{ $alto }}">
         {{ if $titulo }}

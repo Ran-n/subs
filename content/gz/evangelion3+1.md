@@ -11,7 +11,7 @@ toc: false
 collapsible_toc: false
 
 search_hidden: false
-zooming_js: false
+zooming_js: true
 math: false
 
 ga: true
@@ -40,12 +40,13 @@ bookcase_list_sections: false
 
 eqt-franquias: [
     'evangelion',
-#    'evangelion3.0+1.0',
 ]
 
 eqt-tipos: [
     'anime',
+    'filme',
     'filme anime',
+    'filme debuxo',
 ]
 
 eqt-autores: [
@@ -54,14 +55,18 @@ eqt-autores: [
 
 ---
 
-# Evangelion: 3.0+1.0
+# Evangelion: 3.0+1.0 Tres veces no tempo
 
 {{< icona ancho="24" alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-    <img style="border: 3px solid currentColor" height="400" title="oreimo" alt="oreimo" src="/portada/evangelion3+1.jpg">
+<img style="border: 3px solid currentColor" height="400" title="oreimo" alt="oreimo" src="/portada/evangelion3+1.jpg">
+
+{{< rede alto="40" tipo="tmdb" subtipo="movie" titulo="TMDB" ligazon="283566" >}}
+{{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt2458948" >}}
+{{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Evangelion:_3.0%2B1.0\_Thrice_Upon_a_Time" >}}
 </div>
 
 <br>
 
-{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/evangelion-3.0+1.0.gz.ass" autor="Fansubgalego" >}}
+{{< sub ancho="50" alto="50" titulo="Evangelion: 3.0+1.0 Tres veces no tempo" ligazon="/sub/evangelion-3.0+1.0.gz.ass" autor="Fansubgalego" >}}

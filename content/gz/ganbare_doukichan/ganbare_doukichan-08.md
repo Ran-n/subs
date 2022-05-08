@@ -136,6 +136,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## Chocan!! O colega junior vs o senpai do cliente do negocio
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/1aexewXnhFELrpLxC8V0W8dUC1H.jpg">
 
@@ -153,7 +155,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## Chocan!! O colega junior vs o senpai do cliente do negocio
 <br>
 
 {{< sub alto="50" titulo="Chocan!! O colega junior vs o senpai do cliente do negocio" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-08.gz.ass" autor="Fansubgalego" >}}

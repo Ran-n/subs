@@ -136,6 +136,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## O meu colega que recibiu unha autofoto vergonhenta
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/9oVfcc1R4eRGwh9YR9PQZCOYwIp.jpg">
 
@@ -153,7 +155,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## O meu colega que recibiu unha autofoto vergonhenta
 <br>
 
 {{< sub alto="50" titulo="O meu colega que recibiu unha autofoto vergonhenta" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-06.gz.ass" autor="Fansubgalego" >}}

@@ -75,6 +75,8 @@ eqt-autores: [
 
 {{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/golden-time/" >}}
 
+## Escapada nocturna
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Golden Time" alt="Golden Time" src="https://www.themoviedb.org/t/p/original/6GaZm8yk2kWIMSZrE9a9ojU207a.jpg">
 
@@ -94,4 +96,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub alto="50" titulo="" ligazon="/sub/golden_time/golden_time-03.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Escapada nocturna" ligazon="/sub/golden_time/golden_time-03.gz.ass" autor="Fansubgalego" >}}

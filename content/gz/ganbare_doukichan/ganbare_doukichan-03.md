@@ -136,6 +136,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## O Junior que da chocolate no trabalho polo día dos namorados
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/w500_and_h282_face/j7Whh6BLCU9JvJrlkJU1MDjYQyy.jpg">
 
@@ -153,7 +155,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## O Junior que da chocolate no trabalho polo día dos namorados
 <br>
 
 {{< sub alto="50" titulo="O Junior que da chocolate no trabalho polo día dos namorados" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-03.gz.ass" autor="Fansubgalego" >}}

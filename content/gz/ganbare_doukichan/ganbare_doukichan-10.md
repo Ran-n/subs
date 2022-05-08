@@ -104,6 +104,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## Un colega que está entusiasmado coa cita á carón da piscina
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/hiwPjIFDfz204DCmgQKU0hs21s8.jpg">
 
@@ -121,7 +123,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## Un colega que está entusiasmado coa cita á carón da piscina
 <br>
 
 {{< sub alto="50" titulo="Un colega que está entusiasmado coa cita á carón da piscina" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-10.gz.ass" autor="Fansubgalego" >}}

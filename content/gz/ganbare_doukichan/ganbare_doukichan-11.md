@@ -104,6 +104,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## Finalmente da froitos!! Bon por ti, Douki-Chan
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/fkJjHKGBP6GWG1gB3dP6zcuqaOq.jpg">
 
@@ -121,7 +123,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## Finalmente da froitos!! Bon por ti, Douki-Chan
 <br>
 
 {{< sub alto="50" titulo="Finalmente da froitos!! Bon por ti, Douki-Chan" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-11.gz.ass" autor="Fansubgalego" >}}

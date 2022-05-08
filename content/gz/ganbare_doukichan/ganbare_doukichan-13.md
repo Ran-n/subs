@@ -103,6 +103,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## Episodio 13
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/7VRxeOG2lYGHG7ii7tpy2iEiYbU.jpg">
 
@@ -117,7 +119,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## Episodio 13
 <br>
 <!--
 {{< sub alto="50" titulo="Episodio 13" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-13.gz.ass" autor="Fansubgalego" >}}

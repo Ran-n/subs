@@ -136,6 +136,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## Un colega que estaba desexoso dun regalo do día branco
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/w500_and_h282_face/l7NHE4dFjkVh9qY5tWg1eAIVJnp.jpg">
 
@@ -153,7 +155,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## Un colega que estaba desexoso dun regalo do día branco
 <br>
 
 {{< sub alto="50" titulo="Un colega que estaba desexoso dun regalo do día branco" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-05.gz.ass" autor="Fansubgalego" >}}

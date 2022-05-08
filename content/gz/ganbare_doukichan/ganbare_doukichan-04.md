@@ -136,6 +136,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## O meu colega que volveu para colher o que deixara atrás
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/xs9UcqTrfNb1VLqaAZgNONACLZj.jpg">
 
@@ -153,7 +155,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## O meu colega que volveu para colher o que deixara atrás
 <br>
 
 {{< sub alto="50" titulo="O meu colega que volveu para colher o que deixara atrás" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-04.gz.ass" autor="Fansubgalego" >}}

@@ -75,6 +75,8 @@ eqt-autores: [
 
 {{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/golden-time/" >}}
 
+## Primavera
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Golden Time" alt="Golden Time" src="https://www.themoviedb.org/t/p/original/xWnUHvv5sCZtrP9TAyZ8blOedYq.jpg">
 
@@ -91,4 +93,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub alto="50" titulo="" ligazon="/sub/golden_time/golden_time-01.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Primavera" ligazon="/sub/golden_time/golden_time-01.gz.ass" autor="Fansubgalego" >}}

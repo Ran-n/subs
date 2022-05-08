@@ -136,6 +136,8 @@ eqt-autores: [
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
+## Debido a un erro no hotel, dous colegas acaban compartindo unha habitación nunha viaxe de trabalho
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/hzh8HhZ1j5mfBj796LcNSg7clse.jpg">
 
@@ -150,7 +152,6 @@ eqt-autores: [
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
-## Debido a un erro no hotel, dous colegas acaban compartindo unha habitación nunha viaxe de trabalho
 <br>
 
 {{< sub alto="50" titulo="Debido a un erro no hotel, dous colegas acaban compartindo unha habitación nunha viaxe de trabalho" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-01.gz.ass" autor="Fansubgalego" >}}

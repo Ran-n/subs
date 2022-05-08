@@ -76,7 +76,7 @@ eqt-autores: [
 {{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/golden-time/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Golden Time" alt="Golden Time" src="https://www.themoviedb.org/t/p/original/6GaZm8yk2kWIMSZrE9a9ojU207a.jpg">
+<img style="width: 100%; border: 3px solid currentColor" title="Golden Time" alt="Golden Time" src="https://www.themoviedb.org/t/p/original/6GaZm8yk2kWIMSZrE9a9ojU207a.jpg">
 
 <br>
 

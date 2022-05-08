@@ -42,7 +42,7 @@ eqt-autores: [
 {{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/original/v1XCHO12C9STcrDQYBymIMzAFE.jpg">
+<img style="width: 100%; border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/original/v1XCHO12C9STcrDQYBymIMzAFE.jpg">
 
 <br>
 

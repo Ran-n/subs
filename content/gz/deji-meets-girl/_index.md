@@ -1,5 +1,5 @@
 ---
-title: "\"Deji\" Meets Girl"
+title: '"Deji" Meets Girl'
 date: 2022-05-04T17:30:00+02:00
 #draft: true
 author: 'Ran#'
@@ -40,13 +40,19 @@ eqt-franquias: [
 
 eqt-tipos: [
     'anime',
+    'serie',
     'serie anime',
+    'serie debuxo',
 ]
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
+{{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-    <img style="border: 3px solid currentColor" height=400 title="deji meets girl" alt="deji meets girl" src="/portada/deji_meets_girl.jpg">
+<img style="border: 3px solid currentColor" height=400 title='"Deji" Meets Girl' alt='"Deji" Meets Girl' src="/portada/deji_meets_girl.jpg">
+
+{{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="130112" >}}
+{{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt15202838" >}}
+{{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon='"Deji"_Meets_Girl' >}}
 </div>

@@ -1,5 +1,5 @@
 ---
-title: "Oreimo | 03"
+title: "Oreimo | 1x03"
 date: 2022-05-07T00:06:00+02:00
 #draft: true
 author: 'Ran#'
@@ -17,23 +17,14 @@ math: false
 ga: true
 disqus: true
 
-url: '/oreimo/03/'
-slug: '03'
+url: '/oreimo/1x03/'
+slug: '1x03'
 aliases : [
-    '/gz/oreimo 03/',
-    '/gz/oreimo 3/',
-    '/gz/oreimo 3x03/',
-    '/gz/oreimo-03/',
-    '/gz/oreimo-3/',
-    '/gz/oreimo-3x03/',
-    '/gz/oreimo/03/',
-    '/gz/oreimo/3/',
-    '/gz/oreimo03/',
-    '/gz/oreimo3/',
-    '/gz/oreimo3x03/',
-    '/gz/oreimo_03/',
-    '/gz/oreimo_3/',
-    '/gz/oreimo_3x03/',
+    '/gz/oreimo 1x03/',
+    '/gz/oreimo-1x03/',
+    '/gz/oreimo/1x03/',
+    '/gz/oreimo1x03/',
+    '/gz/oreimo_1x03/',
 ]
 
 weight: 103
@@ -46,21 +37,21 @@ eqt-autores: [
 
 ---
 
-# Oreimo | 03
+# Oreimo | 1x03
 
 {{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/original/pdGYtFsJ82sG1XAVGWHChFaJgH1.jpg">
+<img style="border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/w500_and_h282_face/pdGYtFsJ82sG1XAVGWHChFaJgH1.jpg">
 
 <br>
 
 <div style="float: left">
-{{< icona alto="30px" tipo="menor" ligazon="/gz/oreimo/02/" >}}
+{{< icona alto="30px" tipo="menor" ligazon="/gz/oreimo/1x02/" >}}
 </div>
-<!--div style="float: right">
-{{< icona alto="30px" tipo="maior" ligazon="/gz/oreimo/04/" >}}
-</div-->
+<div style="float: right">
+{{< icona alto="30px" tipo="maior" ligazon="/gz/oreimo/1x04/" >}}
+</div>
 
 {{< rede alto="40px" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="56353" >}}
 {{< rede alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt1751305" >}}

@@ -1,5 +1,5 @@
 ---
-title: "Oreimo | 01"
+title: "Oreimo | 1x01"
 date: 2022-05-07T00:06:00+02:00
 #draft: true
 author: 'Ran#'
@@ -17,23 +17,13 @@ math: false
 ga: true
 disqus: true
 
-url: '/oreimo/01/'
-slug: '01'
+url: '/oreimo/1x01/'
+slug: '1x01'
 aliases : [
-    '/gz/oreimo 01/',
-    '/gz/oreimo 1/',
     '/gz/oreimo 1x01/',
-    '/gz/oreimo-01/',
-    '/gz/oreimo-1/',
     '/gz/oreimo-1x01/',
-    '/gz/oreimo/01/',
-    '/gz/oreimo/1/',
     '/gz/oreimo/1x01/',
-    '/gz/oreimo01/',
-    '/gz/oreimo1/',
     '/gz/oreimo1x01/',
-    '/gz/oreimo_01/',
-    '/gz/oreimo_1/',
     '/gz/oreimo_1x01/',
 ]
 
@@ -47,7 +37,7 @@ eqt-autores: [
 
 ---
 
-# Oreimo | 01
+# Oreimo | 1x01
 
 {{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
@@ -57,7 +47,7 @@ eqt-autores: [
 <br>
 
 <div style="float: right">
-{{< icona alto="30px" tipo="maior" ligazon="/gz/oreimo/02/" >}}
+{{< icona alto="30px" tipo="maior" ligazon="/gz/oreimo/1x02/" >}}
 </div>
 
 {{< rede alto="40px" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="56353" >}}

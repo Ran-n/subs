@@ -69,4 +69,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub ancho="50" alto="50" titulo="Evangelion: 3.0+1.0 Tres veces no tempo" ligazon="/sub/evangelion-3.0+1.0.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Evangelion: 3.0+1.0 Tres veces no tempo" ligazon="/sub/evangelion-3.0+1.0.gz.ass" autor="Fansubgalego" >}}

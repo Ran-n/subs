@@ -1,9 +1,19 @@
+{{ $dimenbase := "24" }}
+
 {{ $ligazon := .Get "ligazon" }}
 {{ $tipo := .Get "tipo" }}
 {{ $titulo := .Get "titulo" }}
+
 {{ $ancho := .Get "ancho" }}
 {{ $alto := .Get "alto" }}
 
+{{ if not $ancho }}
+    {{ if $alto }}
+        {{ $ancho = $alto }}
+    {{ else }}
+        {{ $ancho = $dimenbase }}
+    {{ end }}
+{{ end }}
 <!--
 {{ $trazo := .Get "trazo" }}
 {{ $trazo_ancho := .Get "trazo-ancho" }}

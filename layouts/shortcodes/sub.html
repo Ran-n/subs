@@ -1,8 +1,23 @@
+{{ $dimenbase := "24" }}
+
 {{ $tipo := .Get "tipo" }}
 {{ $titulo := .Get "titulo" }}
 {{ $ligazon := .Get "ligazon" }}
+
 {{ $ancho := .Get "ancho" }}
 {{ $alto := .Get "alto" }}
+
+{{ if not $ancho }}
+    {{ if $alto }}
+        {{ $ancho = $alto }}
+    {{ else }}
+        {{ $ancho = $dimenbase }}
+    {{ end }}
+{{ end }}
+
+{{ if not $alto }}
+    {{ $alto = $ancho }}
+{{ end }}
 
 {{ $texto := .Get "texto" }}
 {{ $texto_tamanho := .Get "texto_tamanho" }}

@@ -48,7 +48,7 @@ eqt-autores: [
 
 # Oreimo | 02
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
+{{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
 <div style="text-align: center">
 <img style="border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/original/1JpYAjz9bbqw08FypJpKv7q5FOS.jpg">
@@ -56,18 +56,18 @@ eqt-autores: [
 <br>
 
 <div style="float: left">
-{{< icona ancho="30px" alto="30px" tipo="menor" ligazon="/gz/oreimo/01/" >}}
+{{< icona alto="30px" tipo="menor" ligazon="/gz/oreimo/01/" >}}
 </div>
 <div style="float: right">
-{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/oreimo/03/" >}}
+{{< icona alto="30px" tipo="maior" ligazon="/gz/oreimo/03/" >}}
 </div>
 
-{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="56353" >}}
-{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt1751305" >}}
-{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/List_of_Oreimo_episodes" >}}
+{{< rede alto="40px" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="56353" >}}
+{{< rede alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt1751305" >}}
+{{< rede alto="40px" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="List_of_Oreimo_episodes" >}}
 </div>
 
 ## Non hai xeito que vaia a unha quedada coa minha irmá
 <br>
 
-{{< sub ancho="50" alto="50" titulo="Non hai xeito que vaia a unha quedada coa minha irmá" ligazon="/sub/oreimo/oreimo-02.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Non hai xeito que vaia a unha quedada coa minha irmá" ligazon="/sub/oreimo/oreimo-02.gz.ass" autor="Fansubgalego" >}}

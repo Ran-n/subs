@@ -341,8 +341,8 @@ aliases: [
     '/gz/tipos/pelisanimación/',
 ]
 
-bookcase_cover_src: '/portada/tipo-filme-animacion.jpg'
-bookcase_cover_src_dark: '/portada/tipo-filme-animacion.jpg'
+bookcase_cover_src: '/portada/tipo-filme.jpg'
+bookcase_cover_src_dark: '/portada/tipo-filme.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

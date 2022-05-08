@@ -181,8 +181,8 @@ aliases: [
   '/gz/tipos/pelisanime/',
 ]
 
-bookcase_cover_src: '/portada/tipo-peli-anime.jpg'
-bookcase_cover_src_dark: '/portada/tipo-peli-anime.jpg'
+bookcase_cover_src: '/portada/tipo-filme.jpg'
+bookcase_cover_src_dark: '/portada/tipo-filme.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

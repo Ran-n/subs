@@ -181,8 +181,8 @@ aliases: [
     '/gz/tipos/seriesdeanimación/',
 ]
 
-bookcase_cover_src: '/portada/tipo-serie-animacion.jpg'
-bookcase_cover_src_dark: '/portada/tipo-serie-animacion.jpg'
+bookcase_cover_src: '/portada/tipo-serie2.jpg'
+bookcase_cover_src_dark: '/portada/tipo-serie2.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

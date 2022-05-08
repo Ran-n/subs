@@ -101,8 +101,8 @@ aliases: [
     '/gz/tipos/seriesdeanime/',
 ]
 
-bookcase_cover_src: '/portada/tipo-serie-anime.jpg'
-bookcase_cover_src_dark: '/portada/tipo-serie-anime.jpg'
+bookcase_cover_src: '/portada/tipo-serie2.jpg'
+bookcase_cover_src_dark: '/portada/tipo-serie2.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

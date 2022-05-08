@@ -11,7 +11,7 @@ toc: false
 collapsible_toc: false
 
 search_hidden: false
-zooming_js: false
+zooming_js: true
 math: false
 
 ga: true
@@ -23,51 +23,99 @@ aliases : [
     '/gz/ganbare douki chan/02/',
     '/gz/ganbare douki chan/1x02/',
     '/gz/ganbare douki chan/2/',
+    '/gz/ganbare douki chan02/',
+    '/gz/ganbare douki chan1x02/',
+    '/gz/ganbare douki chan2/',
     '/gz/ganbare douki-chan/02/',
     '/gz/ganbare douki-chan/1x02/',
     '/gz/ganbare douki-chan/2/',
+    '/gz/ganbare douki-chan02/',
+    '/gz/ganbare douki-chan1x02/',
+    '/gz/ganbare douki-chan2/',
     '/gz/ganbare douki_chan/02/',
     '/gz/ganbare douki_chan/1x02/',
     '/gz/ganbare douki_chan/2/',
+    '/gz/ganbare douki_chan02/',
+    '/gz/ganbare douki_chan1x02/',
+    '/gz/ganbare douki_chan2/',
     '/gz/ganbare doukichan/02/',
     '/gz/ganbare doukichan/1x02/',
     '/gz/ganbare doukichan/2/',
+    '/gz/ganbare doukichan02/',
+    '/gz/ganbare doukichan1x02/',
+    '/gz/ganbare doukichan2/',
     '/gz/ganbare-douki chan/02/',
     '/gz/ganbare-douki chan/1x02/',
     '/gz/ganbare-douki chan/2/',
+    '/gz/ganbare-douki chan02/',
+    '/gz/ganbare-douki chan1x02/',
+    '/gz/ganbare-douki chan2/',
     '/gz/ganbare-douki-chan/02/',
     '/gz/ganbare-douki-chan/1x02/',
     '/gz/ganbare-douki-chan/2/',
+    '/gz/ganbare-douki-chan02/',
+    '/gz/ganbare-douki-chan1x02/',
+    '/gz/ganbare-douki-chan2/',
     '/gz/ganbare-douki_chan/02/',
     '/gz/ganbare-douki_chan/1x02/',
     '/gz/ganbare-douki_chan/2/',
+    '/gz/ganbare-douki_chan02/',
+    '/gz/ganbare-douki_chan1x02/',
+    '/gz/ganbare-douki_chan2/',
     '/gz/ganbare-doukichan/02/',
     '/gz/ganbare-doukichan/1x02/',
     '/gz/ganbare-doukichan/2/',
+    '/gz/ganbare-doukichan02/',
+    '/gz/ganbare-doukichan1x02/',
+    '/gz/ganbare-doukichan2/',
     '/gz/ganbare_douki chan/02/',
     '/gz/ganbare_douki chan/1x02/',
     '/gz/ganbare_douki chan/2/',
+    '/gz/ganbare_douki chan02/',
+    '/gz/ganbare_douki chan1x02/',
+    '/gz/ganbare_douki chan2/',
     '/gz/ganbare_douki-chan/02/',
     '/gz/ganbare_douki-chan/1x02/',
     '/gz/ganbare_douki-chan/2/',
+    '/gz/ganbare_douki-chan02/',
+    '/gz/ganbare_douki-chan1x02/',
+    '/gz/ganbare_douki-chan2/',
     '/gz/ganbare_douki_chan/02/',
     '/gz/ganbare_douki_chan/1x02/',
     '/gz/ganbare_douki_chan/2/',
+    '/gz/ganbare_douki_chan02/',
+    '/gz/ganbare_douki_chan1x02/',
+    '/gz/ganbare_douki_chan2/',
     '/gz/ganbare_doukichan/02/',
     '/gz/ganbare_doukichan/1x02/',
     '/gz/ganbare_doukichan/2/',
+    '/gz/ganbare_doukichan02/',
+    '/gz/ganbare_doukichan1x02/',
+    '/gz/ganbare_doukichan2/',
     '/gz/ganbaredouki chan/02/',
     '/gz/ganbaredouki chan/1x02/',
     '/gz/ganbaredouki chan/2/',
+    '/gz/ganbaredouki chan02/',
+    '/gz/ganbaredouki chan1x02/',
+    '/gz/ganbaredouki chan2/',
     '/gz/ganbaredouki-chan/02/',
     '/gz/ganbaredouki-chan/1x02/',
     '/gz/ganbaredouki-chan/2/',
+    '/gz/ganbaredouki-chan02/',
+    '/gz/ganbaredouki-chan1x02/',
+    '/gz/ganbaredouki-chan2/',
     '/gz/ganbaredouki_chan/02/',
     '/gz/ganbaredouki_chan/1x02/',
     '/gz/ganbaredouki_chan/2/',
+    '/gz/ganbaredouki_chan02/',
+    '/gz/ganbaredouki_chan1x02/',
+    '/gz/ganbaredouki_chan2/',
     '/gz/ganbaredoukichan/02/',
     '/gz/ganbaredoukichan/1x02/',
     '/gz/ganbaredoukichan/2/',
+    '/gz/ganbaredoukichan02/',
+    '/gz/ganbaredoukichan1x02/',
+    '/gz/ganbaredoukichan2/',
 ]
 
 weight: 02
@@ -86,26 +134,26 @@ eqt-autores: [
 
 # Ganbare Douki-chan | 02
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
+{{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/jsyvQHlur2EahPyxlT6MTLanH3p.jpg">
+<img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/jsyvQHlur2EahPyxlT6MTLanH3p.jpg">
 
 <br>
 
 <div style="float: left">
-{{< icona ancho="30px" alto="30px" tipo="menor" ligazon="/gz/ganbare-doukichan/01/" >}}
+{{< icona alto="30" tipo="menor" ligazon="/gz/ganbare-doukichan/01/" >}}
 </div>
 <div style="float: right">
-{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/ganbare-doukichan/03/" >}}
+{{< icona alto="30" tipo="maior" ligazon="/gz/ganbare-doukichan/03/" >}}
 </div>
 
-{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="131168" >}}
-{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
-{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
+{{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="131168" >}}
+{{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
+{{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
 ## O meu colega e máis eu estabamos no ascensor xuntos e entón quedamonos atrapados dentro xuntos
 <br>
 
-{{< sub ancho="50" alto="50" titulo="O meu colega e máis eu estabamos no ascensor xuntos e entón quedamonos atrapados dentro xuntos" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-02.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="O meu colega e máis eu estabamos no ascensor xuntos e entón quedamonos atrapados dentro xuntos" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-02.gz.ass" autor="Fansubgalego" >}}

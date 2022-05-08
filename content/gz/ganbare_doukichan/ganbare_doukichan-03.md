@@ -11,7 +11,7 @@ toc: false
 collapsible_toc: false
 
 search_hidden: false
-zooming_js: false
+zooming_js: true
 math: false
 
 ga: true
@@ -23,51 +23,99 @@ aliases : [
     '/gz/ganbare douki chan/03/',
     '/gz/ganbare douki chan/1x03/',
     '/gz/ganbare douki chan/3/',
+    '/gz/ganbare douki chan03/',
+    '/gz/ganbare douki chan1x03/',
+    '/gz/ganbare douki chan3/',
     '/gz/ganbare douki-chan/03/',
     '/gz/ganbare douki-chan/1x03/',
     '/gz/ganbare douki-chan/3/',
+    '/gz/ganbare douki-chan03/',
+    '/gz/ganbare douki-chan1x03/',
+    '/gz/ganbare douki-chan3/',
     '/gz/ganbare douki_chan/03/',
     '/gz/ganbare douki_chan/1x03/',
     '/gz/ganbare douki_chan/3/',
+    '/gz/ganbare douki_chan03/',
+    '/gz/ganbare douki_chan1x03/',
+    '/gz/ganbare douki_chan3/',
     '/gz/ganbare doukichan/03/',
     '/gz/ganbare doukichan/1x03/',
     '/gz/ganbare doukichan/3/',
+    '/gz/ganbare doukichan03/',
+    '/gz/ganbare doukichan1x03/',
+    '/gz/ganbare doukichan3/',
     '/gz/ganbare-douki chan/03/',
     '/gz/ganbare-douki chan/1x03/',
     '/gz/ganbare-douki chan/3/',
+    '/gz/ganbare-douki chan03/',
+    '/gz/ganbare-douki chan1x03/',
+    '/gz/ganbare-douki chan3/',
     '/gz/ganbare-douki-chan/03/',
     '/gz/ganbare-douki-chan/1x03/',
     '/gz/ganbare-douki-chan/3/',
+    '/gz/ganbare-douki-chan03/',
+    '/gz/ganbare-douki-chan1x03/',
+    '/gz/ganbare-douki-chan3/',
     '/gz/ganbare-douki_chan/03/',
     '/gz/ganbare-douki_chan/1x03/',
     '/gz/ganbare-douki_chan/3/',
+    '/gz/ganbare-douki_chan03/',
+    '/gz/ganbare-douki_chan1x03/',
+    '/gz/ganbare-douki_chan3/',
     '/gz/ganbare-doukichan/03/',
     '/gz/ganbare-doukichan/1x03/',
     '/gz/ganbare-doukichan/3/',
+    '/gz/ganbare-doukichan03/',
+    '/gz/ganbare-doukichan1x03/',
+    '/gz/ganbare-doukichan3/',
     '/gz/ganbare_douki chan/03/',
     '/gz/ganbare_douki chan/1x03/',
     '/gz/ganbare_douki chan/3/',
+    '/gz/ganbare_douki chan03/',
+    '/gz/ganbare_douki chan1x03/',
+    '/gz/ganbare_douki chan3/',
     '/gz/ganbare_douki-chan/03/',
     '/gz/ganbare_douki-chan/1x03/',
     '/gz/ganbare_douki-chan/3/',
+    '/gz/ganbare_douki-chan03/',
+    '/gz/ganbare_douki-chan1x03/',
+    '/gz/ganbare_douki-chan3/',
     '/gz/ganbare_douki_chan/03/',
     '/gz/ganbare_douki_chan/1x03/',
     '/gz/ganbare_douki_chan/3/',
+    '/gz/ganbare_douki_chan03/',
+    '/gz/ganbare_douki_chan1x03/',
+    '/gz/ganbare_douki_chan3/',
     '/gz/ganbare_doukichan/03/',
     '/gz/ganbare_doukichan/1x03/',
     '/gz/ganbare_doukichan/3/',
+    '/gz/ganbare_doukichan03/',
+    '/gz/ganbare_doukichan1x03/',
+    '/gz/ganbare_doukichan3/',
     '/gz/ganbaredouki chan/03/',
     '/gz/ganbaredouki chan/1x03/',
     '/gz/ganbaredouki chan/3/',
+    '/gz/ganbaredouki chan03/',
+    '/gz/ganbaredouki chan1x03/',
+    '/gz/ganbaredouki chan3/',
     '/gz/ganbaredouki-chan/03/',
     '/gz/ganbaredouki-chan/1x03/',
     '/gz/ganbaredouki-chan/3/',
+    '/gz/ganbaredouki-chan03/',
+    '/gz/ganbaredouki-chan1x03/',
+    '/gz/ganbaredouki-chan3/',
     '/gz/ganbaredouki_chan/03/',
     '/gz/ganbaredouki_chan/1x03/',
     '/gz/ganbaredouki_chan/3/',
+    '/gz/ganbaredouki_chan03/',
+    '/gz/ganbaredouki_chan1x03/',
+    '/gz/ganbaredouki_chan3/',
     '/gz/ganbaredoukichan/03/',
     '/gz/ganbaredoukichan/1x03/',
     '/gz/ganbaredoukichan/3/',
+    '/gz/ganbaredoukichan03/',
+    '/gz/ganbaredoukichan1x03/',
+    '/gz/ganbaredoukichan3/',
 ]
 
 weight: 02
@@ -86,26 +134,26 @@ eqt-autores: [
 
 # Ganbare Douki-chan | 03
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
+{{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/w500_and_h282_face/j7Whh6BLCU9JvJrlkJU1MDjYQyy.jpg">
+<img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/w500_and_h282_face/j7Whh6BLCU9JvJrlkJU1MDjYQyy.jpg">
 
 <br>
 
 <div style="float: left">
-{{< icona ancho="30px" alto="30px" tipo="menor" ligazon="/gz/ganbare-doukichan/02/" >}}
+{{< icona alto="30" tipo="menor" ligazon="/gz/ganbare-doukichan/02/" >}}
 </div>
 <div style="float: right">
-{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/ganbare-doukichan/04/" >}}
+{{< icona alto="30" tipo="maior" ligazon="/gz/ganbare-doukichan/04/" >}}
 </div>
 
-{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="131168" >}}
-{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
-{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
+{{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="131168" >}}
+{{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
+{{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
 ## O Junior que da chocolate no trabalho polo día dos namorados
 <br>
 
-{{< sub ancho="50" alto="50" titulo="O Junior que da chocolate no trabalho polo día dos namorados" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-03.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="O Junior que da chocolate no trabalho polo día dos namorados" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-03.gz.ass" autor="Fansubgalego" >}}

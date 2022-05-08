@@ -11,7 +11,7 @@ toc: false
 collapsible_toc: false
 
 search_hidden: false
-zooming_js: false
+zooming_js: true
 math: false
 
 ga: true
@@ -52,6 +52,38 @@ aliases : [
     '/gz/ganbaredouki_chan/1x12/',
     '/gz/ganbaredoukichan/12/',
     '/gz/ganbaredoukichan/1x12/',
+    '/gz/ganbare douki chan12/',
+    '/gz/ganbare douki chan1x12/',
+    '/gz/ganbare douki-chan12/',
+    '/gz/ganbare douki-chan1x12/',
+    '/gz/ganbare douki_chan12/',
+    '/gz/ganbare douki_chan1x12/',
+    '/gz/ganbare doukichan12/',
+    '/gz/ganbare doukichan1x12/',
+    '/gz/ganbare-douki chan12/',
+    '/gz/ganbare-douki chan1x12/',
+    '/gz/ganbare-douki-chan12/',
+    '/gz/ganbare-douki-chan1x12/',
+    '/gz/ganbare-douki_chan12/',
+    '/gz/ganbare-douki_chan1x12/',
+    '/gz/ganbare-doukichan12/',
+    '/gz/ganbare-doukichan1x12/',
+    '/gz/ganbare_douki chan12/',
+    '/gz/ganbare_douki chan1x12/',
+    '/gz/ganbare_douki-chan12/',
+    '/gz/ganbare_douki-chan1x12/',
+    '/gz/ganbare_douki_chan12/',
+    '/gz/ganbare_douki_chan1x12/',
+    '/gz/ganbare_doukichan12/',
+    '/gz/ganbare_doukichan1x12/',
+    '/gz/ganbaredouki chan12/',
+    '/gz/ganbaredouki chan1x12/',
+    '/gz/ganbaredouki-chan12/',
+    '/gz/ganbaredouki-chan1x12/',
+    '/gz/ganbaredouki_chan12/',
+    '/gz/ganbaredouki_chan1x12/',
+    '/gz/ganbaredoukichan12/',
+    '/gz/ganbaredoukichan1x12/',
 ]
 
 weight: 12
@@ -70,26 +102,26 @@ eqt-autores: [
 
 # Ganbare Douki-chan | 12
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan/" >}}
+{{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/ganbare-doukichan" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/ofjl8ZtC9rXPzjID9LCWepf39Od.jpg">
+<img style="width: 100%; border: 3px solid currentColor" title="Ganbare Douki-chan" alt="Ganbare Douki-chan" src="https://www.themoviedb.org/t/p/original/ofjl8ZtC9rXPzjID9LCWepf39Od.jpg">
 
 <br>
 
 <div style="float: left">
-{{< icona ancho="30px" alto="30px" tipo="menor" ligazon="/gz/ganbare-doukichan/11/" >}}
+{{< icona alto="30px" tipo="menor" ligazon="/gz/ganbare-doukichan/11/" >}}
 </div>
 <div style="float: right">
-{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/ganbare-doukichan/13/" >}}
+{{< icona alto="30px" tipo="maior" ligazon="/gz/ganbare-doukichan/13/" >}}
 </div>
 
-{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="131168" >}}
-{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
-{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/Ganbare_D%C5%8Dki-chan" >}}
+{{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="131168" >}}
+{{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
+{{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>
 
 ## Diso estou a falar, Douki-kun
 <br>
 
-{{< sub ancho="50" alto="50" titulo="Diso estou a falar, Douki-kun" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-12.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Diso estou a falar, Douki-kun" ligazon="/sub/ganbare_doukichan/ganbare_doukichan-12.gz.ass" autor="Fansubgalego" >}}

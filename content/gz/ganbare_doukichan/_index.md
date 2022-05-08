@@ -20,25 +20,22 @@ disqus: true
 url: '/ganbare-doukichan/'
 slug: 'ganbare-doukichan'
 aliases : [
-    '/gz/ganbare-doukichan/',
-    '/gz/ganbare-douki-chan/',
-    '/gz/ganbare-douki chan/',
-    '/gz/ganbare-douki_chan/',
-
-    '/gz/ganbare_doukichan/',
-    '/gz/ganbare_douki-chan/',
-    '/gz/ganbare_douki_chan/',
-    '/gz/ganbare_douki chan/',
-
-    '/gz/ganbare doukichan/',
+    '/gz/ganbare douki chan/',
     '/gz/ganbare douki-chan/',
     '/gz/ganbare douki_chan/',
-    '/gz/ganbare douki chan/',
-
-    '/gz/ganbaredoukichan/',
+    '/gz/ganbare doukichan/',
+    '/gz/ganbare-douki chan/',
+    '/gz/ganbare-douki-chan/',
+    '/gz/ganbare-douki_chan/',
+    '/gz/ganbare-doukichan/',
+    '/gz/ganbare_douki chan/',
+    '/gz/ganbare_douki-chan/',
+    '/gz/ganbare_douki_chan/',
+    '/gz/ganbare_doukichan/',
+    '/gz/ganbaredouki chan/',
     '/gz/ganbaredouki-chan/',
     '/gz/ganbaredouki_chan/',
-    '/gz/ganbaredouki chan/',
+    '/gz/ganbaredoukichan/',
 ]
 
 weight: -20211220
@@ -55,17 +52,19 @@ eqt-franquias: [
 
 eqt-tipos: [
     'anime',
+    'serie',
     'serie anime',
+    'serie debuxo',
 ]
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
+{{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
 <img style="border: 3px solid currentColor" height=400 title="Golden Time" alt="Golden Time" src="/portada/ganbare_doukichan.jpg">
 
-{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="67389" >}}
-{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt3105452" >}}
-{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/List_of_Golden_Time_episodes" >}}
+{{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="131168" >}}
+{{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt15379212" >}}
+{{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Ganbare_Dōki-chan" >}}
 </div>

@@ -11,7 +11,7 @@ toc: false
 collapsible_toc: false
 
 search_hidden: false
-zooming_js: false
+zooming_js: true
 math: false
 
 ga: true
@@ -73,7 +73,7 @@ eqt-autores: [
 
 # Golden Time | 01
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/golden-time/" >}}
+{{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/golden-time/" >}}
 
 <div style="text-align: center">
 <img style="border: 3px solid currentColor" title="Golden Time" alt="Golden Time" src="https://www.themoviedb.org/t/p/original/xWnUHvv5sCZtrP9TAyZ8blOedYq.jpg">
@@ -81,14 +81,14 @@ eqt-autores: [
 <br>
 
 <div style="float: right">
-{{< icona ancho="30px" alto="30px" tipo="maior" ligazon="/gz/golden-time/02/" >}}
+{{< icona alto="30px" tipo="maior" ligazon="/gz/golden-time/02/" >}}
 </div>
 
-{{< rede ancho="40px" alto="40px" tipo="tmdb" titulo="TMDB" ligazon="67389" >}}
-{{< rede ancho="40px" alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt3105452" >}}
-{{< rede ancho="40px" alto="40px" tipo="wikipedia" titulo="Wikipedia" ligazon="https://en.wikipedia.org/wiki/List_of_Golden_Time_episodes" >}}
+{{< rede alto="40px" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="67389" >}}
+{{< rede alto="40px" tipo="imdb" titulo="IMDb" ligazon="tt3105452" >}}
+{{< rede alto="40px" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="List_of_Golden_Time_episodes" >}}
 </div>
 
 <br>
 
-{{< sub ancho="50" alto="50" titulo="" ligazon="/sub/golden_time/golden_time-01.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="" ligazon="/sub/golden_time/golden_time-01.gz.ass" autor="Fansubgalego" >}}

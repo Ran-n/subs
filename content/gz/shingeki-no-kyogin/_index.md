@@ -52,5 +52,9 @@ eqt-tipos: [
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-    <img style="border: 3px solid currentColor" height=400 title="oreimo" alt="oreimo" src="/portada/snk.jpg">
+<img style="border: 3px solid currentColor" height=400 title="Shingeki no Kyojin" alt="Shingeki no Kyojin" src="/portada/snk.jpg">
+
+{{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="1429" >}}
+{{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt2560140" >}}
+{{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Attack_on_Titan_(TV_series)" >}}
 </div>

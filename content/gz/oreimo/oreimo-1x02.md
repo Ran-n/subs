@@ -11,7 +11,7 @@ toc: false
 collapsible_toc: false
 
 search_hidden: false
-zooming_js: false
+zooming_js: true
 math: false
 
 ga: true
@@ -41,6 +41,8 @@ eqt-autores: [
 
 {{< icona alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
 
+## Non hai xeito que vaia a unha quedada coa minha irmá
+
 <div style="text-align: center">
 <img style="width: 100%; border: 3px solid currentColor" title="oreimo" alt="oreimo" src="https://www.themoviedb.org/t/p/w500_and_h282_face/1JpYAjz9bbqw08FypJpKv7q5FOS.jpg">
 
@@ -58,7 +60,6 @@ eqt-autores: [
 {{< rede alto="40px" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="List_of_Oreimo_episodes" >}}
 </div>
 
-## Non hai xeito que vaia a unha quedada coa minha irmá
 <br>
 
 {{< sub alto="50" titulo="Non hai xeito que vaia a unha quedada coa minha irmá" ligazon="/sub/oreimo/oreimo-02.gz.ass" autor="Fansubgalego" >}}

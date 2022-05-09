@@ -14,6 +14,10 @@
         {{ $ancho = $dimenbase }}
     {{ end }}
 {{ end }}
+
+{{ if not $alto }}
+    {{ $alto = $ancho }}
+{{ end }}
 <!--
 {{ $trazo := .Get "trazo" }}
 {{ $trazo_ancho := .Get "trazo-ancho" }}

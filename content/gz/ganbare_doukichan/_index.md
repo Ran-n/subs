@@ -50,6 +50,12 @@ eqt-franquias: [
     'ganbare doukichan',
 ]
 
+eqt-titulos: [
+    'がんばれ同期ちゃん',
+    'ganbare dōki-chan',
+    'ganbare douki-chan',
+]
+
 eqt-tipos: [
     'anime',
     'serie',

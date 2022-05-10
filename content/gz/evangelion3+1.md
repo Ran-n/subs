@@ -42,6 +42,13 @@ eqt-franquias: [
     'evangelion',
 ]
 
+eqt-titulos: [
+    'シン・エヴァンゲリオン劇場版:||',
+    'Shin Evangelion Gekijôban',
+    'evangelion: 3.0+1.0 Tres veces nun tempo',
+    'evangelion: 3.0+1.0 Thrice Upon a Time',
+]
+
 eqt-tipos: [
     'anime',
     'filme',
@@ -55,12 +62,12 @@ eqt-autores: [
 
 ---
 
-# Evangelion: 3.0+1.0 Tres veces no tempo
+# Evangelion: 3.0+1.0 Tres veces nun tempo
 
 {{< icona ancho="24" alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" height="400" title="oreimo" alt="oreimo" src="/portada/evangelion3+1.jpg">
+<img style="border: 3px solid currentColor" height="400" title="Evangelion: 3.0+1.0" alt="Evangelion: 3.0+1.0" src="/portada/evangelion3+1.jpg">
 
 {{< rede alto="40" tipo="tmdb" subtipo="movie" titulo="TMDB" ligazon="283566" >}}
 {{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt2458948" >}}

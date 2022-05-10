@@ -38,6 +38,15 @@ eqt-franquias: [
     'golden time',
 ]
 
+eqt-titulos: [
+    'ゴールデンタイム',
+    'gôruden taimu',
+    'golden time',
+    "tempo d'ouro",
+    'tempo douro',
+    'tempo de ouro',
+]
+
 eqt-tipos: [
     'anime',
     'serie',

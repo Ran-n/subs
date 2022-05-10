@@ -1,6 +1,6 @@
 ---
 title: '"Deji" Meets Girl'
-date: 2022-05-04T17:30:00+02:00
+#date: 2022-05-04T17:30:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -36,6 +36,12 @@ bookcase_list_sections: false
 
 eqt-franquias: [
     'deji meets girl',
+]
+
+eqt-titulos: [
+    'でーじミーツガール',
+    'deji meets girl',
+    '"deji" meets girl',
 ]
 
 eqt-tipos: [

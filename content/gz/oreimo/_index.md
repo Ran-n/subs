@@ -35,6 +35,12 @@ eqt-franquias: [
     'oreimo',
 ]
 
+eqt-titulos: [
+    '俺の妹がこんなに可愛いわけがない',
+    'ore no imouto ga konna ni kawaii wake ga nai',
+    'oreimo',
+]
+
 eqt-tipos: [
     'anime',
     'serie',

@@ -1,6 +1,6 @@
 ---
 title: '"Deji" Meets Girl | 08'
-date: 2022-05-07T11:50:00+02:00
+#date: 2022-05-07T11:50:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -82,9 +82,9 @@ aliases : [
     '/gz/deji_meets_girl_8/',
 ]
 
-weight: 08
-bookcase_cover_src: '/capi/08-claro.svg'
-bookcase_cover_src_dark: '/capi/08-escuro.svg'
+#weight: 8
+bookcase_cover_src: '/capi/08-claro.svg/'
+bookcase_cover_src_dark: '/capi/08-escuro.svg/'
 
 type: 'bookcase'
 bookcase_list_pages: true

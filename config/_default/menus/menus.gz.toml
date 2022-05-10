@@ -1,6 +1,6 @@
 [[navbar]]
     identifier = "franquias_gz"
-    name = "Franquias"
+    name = "Franquías"
     url = "/gz/eqt-franquias/"
     weight = 1
 [[navbar]]
@@ -31,3 +31,8 @@
     name = "Autores"
     url = "/gz/eqt-autores/"
     weight = 3
+[[navbar]]
+    identifier = "titulos_gz"
+    name = "Títulos"
+    url = "/gz/eqt-titulos/"
+    weight = 4

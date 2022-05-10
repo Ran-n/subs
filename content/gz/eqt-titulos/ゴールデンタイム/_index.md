@@ -1,5 +1,5 @@
 ---
-title: 'Golden Time'
+title: 'ゴールデンタイム'
 #date: 2022-05-09T19:25:00+02:00
 author: 'Ran#'
 
@@ -149,7 +149,6 @@ aliases: [
     '/gz/títulos/goldentime/',
 ]
 
-#weight: 1
 bookcase_cover_src: '/portada/golden-time.jpg/'
 bookcase_cover_src_dark: '/portada/golden-time.jpg/'
 

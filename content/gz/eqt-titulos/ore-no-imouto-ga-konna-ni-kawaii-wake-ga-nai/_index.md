@@ -1,5 +1,5 @@
 ---
-title: 'Oreimo'
+title: 'ore no imouto ga konna ni kawaii wake ga nai'
 #date: 2022-05-09T19:25:00+02:00
 author: 'Ran#'
 

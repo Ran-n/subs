@@ -42,8 +42,6 @@ eqt-titulos: [
     'ゴールデンタイム',
     'gôruden taimu',
     'golden time',
-    "tempo d'ouro",
-    'tempo douro',
     'tempo de ouro',
 ]
 

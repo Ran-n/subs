@@ -1,5 +1,5 @@
 ---
-title: 'Deji Meets Girl'
+title: 'でーじミーツガール'
 #date: 2022-05-09T19:25:00+02:00
 author: 'Ran#'
 

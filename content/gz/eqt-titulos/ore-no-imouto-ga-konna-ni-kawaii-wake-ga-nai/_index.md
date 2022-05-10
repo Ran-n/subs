@@ -18,6 +18,8 @@ ga: true
 disqus: true
 twitter_cards: false
 
+#url: '/titulo/oreimo/'
+#slug: 'oreimo'
 aliases: [
     '/gz/eqt-titulo/Oreimo/',
     '/gz/eqt-titulo/oreimo/',

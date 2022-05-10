@@ -18,6 +18,8 @@ ga: true
 disqus: true
 twitter_cards: false
 
+#url: '/titulo/shingeki-no-kyogin/'
+#slug: 'shingeki-no-kyogin'
 aliases: [
     '/gz/eqt-titulo/aot/',
     '/gz/eqt-titulo/shingeki no kyogin/',

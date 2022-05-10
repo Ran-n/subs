@@ -17,6 +17,8 @@ ga: true
 disqus: true
 twitter_cards: false
 
+#url: '/titulo/deji/'
+#slug: 'deji'
 aliases: [
     '/gz/eqt-titulo/Deji meets girl/',
     '/gz/eqt-titulo/Deji-meets-girl/',

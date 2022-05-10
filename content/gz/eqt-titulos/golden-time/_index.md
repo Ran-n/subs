@@ -18,6 +18,8 @@ ga: true
 disqus: true
 twitter_cards: false
 
+#url: '/titulo/golden-time/'
+#slug: 'golden-time'
 aliases: [
     '/gz/eqt-titulo/Golden Time/',
     '/gz/eqt-titulo/Golden time/',

@@ -511,8 +511,8 @@ aliases : [
 ]
 
 #weight: 2
-bookcase_cover_src: '/capi/02-claro.svg/'
-bookcase_cover_src_dark: '/capi/02-escuro.svg/'
+bookcase_cover_src: '/capi/02-claro.svg'
+bookcase_cover_src_dark: '/capi/02-escuro.svg'
 
 eqt-autores: [
     'Fansubgalego',

@@ -31,8 +31,8 @@ aliases : [
 ]
 
 weight: -20130407
-bookcase_cover_src: '/portada/snk.jpg/'
-bookcase_cover_src_dark: '/portada/snk.jpg/'
+bookcase_cover_src: '/portada/snk.jpg'
+bookcase_cover_src_dark: '/portada/snk.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

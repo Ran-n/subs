@@ -83,8 +83,8 @@ aliases : [
 ]
 
 #weight: 8
-bookcase_cover_src: '/capi/08-claro.svg/'
-bookcase_cover_src_dark: '/capi/08-escuro.svg/'
+bookcase_cover_src: '/capi/08-claro.svg'
+bookcase_cover_src_dark: '/capi/08-escuro.svg'
 
 type: 'bookcase'
 bookcase_list_pages: true

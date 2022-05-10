@@ -62,9 +62,9 @@ aliases : [
     '/gz/deji_meets_girl_1x12/',
 ]
 
-#weight: 2
-bookcase_cover_src: '/capi/12-claro.svg/'
-bookcase_cover_src_dark: '/capi/12-escuro.svg/'
+#weight: 12
+bookcase_cover_src: '/capi/12-claro.svg'
+bookcase_cover_src_dark: '/capi/12-escuro.svg'
 
 type: 'bookcase'
 bookcase_list_pages: true

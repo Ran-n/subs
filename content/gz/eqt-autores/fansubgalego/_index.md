@@ -30,7 +30,7 @@ aliases: [
 ]
 
 #weight: 0
-bookcase_cover_src: ''
+bookcase_cover_src: '/autor/fansubgalego.jpg'
 bookcase_cover_src_dark: '/autor/fansubgalego.jpg'
 
 type: 'bookcase'

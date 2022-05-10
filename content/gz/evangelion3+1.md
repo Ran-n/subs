@@ -45,8 +45,8 @@ eqt-franquias: [
 eqt-titulos: [
     'シン・エヴァンゲリオン劇場版:||',
     'Shin Evangelion Gekijôban',
-    'evangelion: 3.0+1.0 Tres veces nun tempo',
-    'evangelion: 3.0+1.0 Thrice Upon a Time',
+    'Evangelion: 3.0+1.0 Tres veces nun tempo',
+    'Evangelion: 3.0+1.0 Thrice Upon a Time',
 ]
 
 eqt-tipos: [

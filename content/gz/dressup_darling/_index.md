@@ -116,8 +116,9 @@ eqt-franquias: [
 
 eqt-titulos: [
     'その着せ替え人形は恋をする',
-    'sono bisque doll wa koi wo suru',
-    'my dress-up darling',
+    'Sono Bisque Doll wa Koi wo Suru',
+    'My Dress-Up Darling',
+    'My DressUp Darling',
 ]
 
 eqt-tipos: [

@@ -9,13 +9,15 @@ footer: "Ganbare Dōki-chan ❤️"
 
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
 search_hidden: false
-zooming_js: true
 math: false
+zooming_js: true
 
 ga: true
 disqus: true
+twitter_cards: false
 
 url: '/ganbare-doukichan/'
 slug: 'ganbare-doukichan'
@@ -39,8 +41,8 @@ aliases : [
 ]
 
 weight: -20211220
-bookcase_cover_src: '/portada/ganbare_doukichan.jpg'
-bookcase_cover_src_dark: '/portada/ganbare_doukichan.jpg'
+bookcase_cover_src: '/portada/ganbare_doukichan.jpg/'
+bookcase_cover_src_dark: '/portada/ganbare_doukichan.jpg/'
 
 type: 'bookcase'
 bookcase_list_pages: true
@@ -54,6 +56,7 @@ eqt-titulos: [
     'がんばれ同期ちゃん',
     'ganbare dōki-chan',
     'ganbare douki-chan',
+    'ganbare doukichan',
 ]
 
 eqt-tipos: [

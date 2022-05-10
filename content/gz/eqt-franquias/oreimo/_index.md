@@ -8,13 +8,15 @@ author: 'Ran#'
 
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
 search_hidden: false
-zooming_js: false
 math: false
+zooming_js: false
 
 ga: true
 disqus: true
+twitter_cards: true
 
 url: '/franquias/oreimo/'
 slug: 'oreimo'

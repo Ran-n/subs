@@ -53,8 +53,8 @@ aliases: [
     '/gz/franquías/evangelion/',
 ]
 
-bookcase_cover_src: 'portada/franquia-evangelion.jpg'
-bookcase_cover_src_dark: 'portada/franquia-evangelion.jpg'
+bookcase_cover_src: 'portada/franquia_evangelion.jpg'
+bookcase_cover_src_dark: 'portada/franquia_evangelion.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

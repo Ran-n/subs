@@ -152,8 +152,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/portada/golden-time.jpg/'
-bookcase_cover_src_dark: '/portada/golden-time.jpg/'
+bookcase_cover_src: '/portada/golden-time.jpg'
+bookcase_cover_src_dark: '/portada/golden-time.jpg'
 
 type: 'blank'
 

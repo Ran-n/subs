@@ -183,8 +183,8 @@ aliases: [
     '/gz/títulos/mydressupdarling/',
 ]
 
-bookcase_cover_src: '/portada/dressup-darling.jpg/'
-bookcase_cover_src_dark: '/portada/dressup-darling.jpg/'
+bookcase_cover_src: '/portada/dressup-darling.jpg'
+bookcase_cover_src_dark: '/portada/dressup-darling.jpg'
 
 type: 'blank'
 

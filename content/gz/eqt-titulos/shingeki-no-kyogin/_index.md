@@ -71,8 +71,8 @@ aliases: [
     '/gz/títulos/snk/',
 ]
 
-bookcase_cover_src: '/portada/snk.jpg/'
-bookcase_cover_src_dark: '/portada/snk.jpg/'
+bookcase_cover_src: '/portada/snk.jpg'
+bookcase_cover_src_dark: '/portada/snk.jpg'
 
 type: 'blank'
 

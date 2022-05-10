@@ -119,8 +119,8 @@ aliases: [
     '/gz/títulos/ganbaredoukichan/',
 ]
 
-bookcase_cover_src: '/portada/ganbare_doukichan.jpg/'
-bookcase_cover_src_dark: '/portada/ganbare_doukichan.jpg/'
+bookcase_cover_src: '/portada/ganbare_doukichan.jpg'
+bookcase_cover_src_dark: '/portada/ganbare_doukichan.jpg'
 
 type: 'blank'
 

@@ -6,7 +6,7 @@
 <script>
     {{ if $base }}
     if (window.location.href.indexOf({{ $base }}) >= 0)
-        window.location.href = "{{ $base }}/{{ $ligazon }}";
+        window.location.href = "/{{ $base }}/{{ $ligazon }}";
     else
         window.location.href = "{{ $ligazon }}";
     {{ else }}

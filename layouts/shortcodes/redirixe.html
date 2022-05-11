@@ -1,12 +1,16 @@
 {{ $base := .Get "base" }}
 {{ $ligazon := .Get "ligazon" }}
 
+<!-- Non elimino as / para poder controlar url relativas das raíz -->
 {{ if $ligazon }}
 <script>
     {{ if $base }}
-    window.location.href = "/{{ $base }}/{{ $ligazon }}/";
+    if (window.location.href.indexOf({{ $base }}) >= 0)
+        window.location.href = "{{ $base }}/{{ $ligazon }}";
+    else
+        window.location.href = "{{ $ligazon }}";
     {{ else }}
-    window.location.href = "/{{ $ligazon }}/";
+    window.location.href = "{{ $ligazon }}";
     {{ end }}
 </script>
 {{ end }}

@@ -41,7 +41,7 @@ wikipedia: 'https://twitter.com/Fansubgalego'
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-subituladores/" >}}
+{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-subtituladores/" >}}
 
 <br>
 <br>

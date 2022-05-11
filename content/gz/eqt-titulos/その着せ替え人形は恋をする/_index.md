@@ -190,6 +190,4 @@ type: 'blank'
 
 ---
 
-<script>
-    window.location.href = "/gz/dressup-darling/";
-</script>
+{{< redirixe base="/subs" ligazon="/gz/dressup-darling" >}}

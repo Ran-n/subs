@@ -93,6 +93,4 @@ type: 'blank'
 
 ---
 
-<script>
-    window.location.href = "/gz/deji/";
-</script>
+{{< redirixe base="/subs" ligazon="/gz/deji" >}}

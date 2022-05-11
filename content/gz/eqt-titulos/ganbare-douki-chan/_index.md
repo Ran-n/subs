@@ -126,4 +126,4 @@ type: 'blank'
 
 ---
 
-{{< redirixe base="subs" ligazon="/gz/ganbare-doukichan" >}}
+{{< redirixe base="/subs" ligazon="/gz/ganbare-doukichan" >}}

@@ -94,6 +94,4 @@ type: 'blank'
 
 ---
 
-<script>
-    window.location.href = "/gz/evangelion3+1/";
-</script>
+{{< redirixe base="/subs" ligazon="/gz/evangelion3+1" >}}

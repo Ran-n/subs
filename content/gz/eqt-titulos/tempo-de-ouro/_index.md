@@ -158,6 +158,4 @@ type: 'blank'
 
 ---
 
-<script>
-    window.location.href = "/gz/golden-time/";
-</script>
+{{< redirixe base="/subs" ligazon="/gz/golden-time" >}}

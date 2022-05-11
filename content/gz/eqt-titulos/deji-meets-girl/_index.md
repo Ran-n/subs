@@ -93,4 +93,4 @@ type: 'blank'
 
 ---
 
-{{< redirixe base="subs" ligazon="/gz/deji" >}}
+{{< redirixe base="/subs" ligazon="/gz/deji" >}}

@@ -126,6 +126,4 @@ type: 'blank'
 
 ---
 
-<script>
-    window.location.href = "/gz/ganbare-doukichan/";
-</script>
+{{< redirixe base="/subs" ligazon="/gz/ganbare-doukichan" >}}

@@ -46,6 +46,4 @@ type: 'blank'
 
 ---
 
-<script>
-    window.location.href = "/gz/oreimo/";
-</script>
+{{< redirixe base="/subs" ligazon="/gz/oreimo" >}}

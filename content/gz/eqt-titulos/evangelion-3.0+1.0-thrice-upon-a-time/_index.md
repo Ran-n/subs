@@ -94,4 +94,4 @@ type: 'blank'
 
 ---
 
-{{< redirixe base="subs" ligazon="/gz/evangelion3+1" >}}
+{{< redirixe base="/subs" ligazon="/gz/evangelion3+1" >}}

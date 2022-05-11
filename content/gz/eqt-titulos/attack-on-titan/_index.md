@@ -78,4 +78,4 @@ type: 'blank'
 
 ---
 
-{{< redirixe base="subs" ligazon="/gz/snk" >}}
+{{< redirixe base="/subs" ligazon="/gz/snk" >}}

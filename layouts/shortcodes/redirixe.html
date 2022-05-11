@@ -1,0 +1,12 @@
+{{ $base := .Get "base" }}
+{{ $ligazon := .Get "ligazon" }}
+
+{{ if $ligazon }}
+<script>
+    {{ if $base }}
+    window.location.href = "/{{ $base }}/{{ $ligazon }}/";
+    {{ else }}
+    window.location.href = "/{{ $ligazon }}/";
+    {{ end }}
+</script>
+{{ end }}

@@ -79,5 +79,5 @@ type: 'blank'
 ---
 
 <script>
-    window.location.href = "/gz/snk/";
+    window.location.href = "/subs/gz/snk/";
 </script>

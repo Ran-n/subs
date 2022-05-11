@@ -1,10 +1,11 @@
 ---
-title: 'Autores'
-draft: false
+title: 'Subtituladores'
+#date: 2022-05-11T17:55:00+02:00
+#draft: true
 author: 'Ran#'
 
 #navbar_title: ''
-footer: 'Autores'
+footer: 'Subtituladores '
 
 toc: false
 collapsible_toc: false
@@ -18,13 +19,15 @@ ga: true
 #disqus: true
 twitter_cards: false
 
-url: '/autores/'
-slug: 'autores'
+url: '/x/'
+slug: 'x'
 aliases: [
-    '/gz/autor/',
-    '/gz/autores/',
-    '/gz/eqt-autor/',
-    '/gz/eqt-autores/',
+    '/gz/subtitulador/',
+    '/gz/subtituladores/',
+    '/gz/eqt-subtitulador/',
+    '/gz/eqt-subtituladores/',
+    '/gz/x/',
+    '/gz/xs/',
 ]
 
 type: 'bookcase'

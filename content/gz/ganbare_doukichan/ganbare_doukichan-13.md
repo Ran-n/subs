@@ -1,6 +1,6 @@
 ---
 title: "Ganbare Douki-chan | 13"
-date: 2022-05-07T16:14:00+02:00
+#date: 2022-05-07T16:14:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -86,7 +86,7 @@ aliases : [
     '/gz/ganbaredoukichan1x13/',
 ]
 
-weight: 13
+#weight: 13
 bookcase_cover_src: '/capi/13-claro.svg'
 bookcase_cover_src_dark: '/capi/13-escuro.svg'
 
@@ -94,7 +94,11 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
+eqt-subtituladores: [
+]
+
 eqt-autores: [
+    'Ran#',
 ]
 
 ---

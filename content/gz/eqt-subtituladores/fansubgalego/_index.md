@@ -19,10 +19,10 @@ disqus: true
 url: '/x/fansubgalego/'
 slug: 'fansubgalego'
 aliases: [
-    '/gz/eqt-autore/Fansubgalego/',
-    '/gz/eqt-autore/fansubgalego/',
-    '/gz/eqt-autores/Fansubgalego/',
-    '/gz/eqt-autores/fansubgalego/',
+    '/gz/eqt-subtitulador/Fansubgalego/',
+    '/gz/eqt-subtitulador/fansubgalego/',
+    '/gz/eqt-subtituladores/Fansubgalego/',
+    '/gz/eqt-subtituladores/fansubgalego/',
     '/gz/x/Fansubgalego/',
     '/gz/x/fansubgalego/',
     '/gz/xs/Fansubgalego/',
@@ -41,7 +41,7 @@ wikipedia: 'https://twitter.com/Fansubgalego'
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-autores/" >}}
+{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-subituladores/" >}}
 
 <br>
 <br>

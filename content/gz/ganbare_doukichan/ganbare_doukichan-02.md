@@ -1,6 +1,6 @@
 ---
 title: "Ganbare Douki-chan | 02"
-date: 2022-05-07T16:14:00+02:00
+#date: 2022-05-07T16:14:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -118,7 +118,7 @@ aliases : [
     '/gz/ganbaredoukichan2/',
 ]
 
-weight: 02
+#weight: 02
 bookcase_cover_src: '/capi/02-claro.svg'
 bookcase_cover_src_dark: '/capi/02-escuro.svg'
 
@@ -126,8 +126,12 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-autores: [
+eqt-subtituladores: [
     'Fansubgalego',
+]
+
+eqt-autores: [
+    'Ran#',
 ]
 
 ---

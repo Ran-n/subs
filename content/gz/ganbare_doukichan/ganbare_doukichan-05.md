@@ -1,6 +1,6 @@
 ---
 title: "Ganbare Douki-chan | 05"
-date: 2022-05-07T16:14:00+02:00
+#date: 2022-05-07T16:14:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -118,7 +118,7 @@ aliases : [
     '/gz/ganbaredoukichan5/',
 ]
 
-weight: 02
+#weight: 05
 bookcase_cover_src: '/capi/05-claro.svg'
 bookcase_cover_src_dark: '/capi/05-escuro.svg'
 
@@ -126,8 +126,12 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-autores: [
+eqt-subtituladores: [
     'Fansubgalego',
+]
+
+eqt-autores: [
+    'Ran#',
 ]
 
 ---

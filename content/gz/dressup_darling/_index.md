@@ -128,6 +128,10 @@ eqt-tipos: [
     'serie debuxo',
 ]
 
+eqt-autores: [
+    'Ran#',
+]
+
 ---
 
 {{< icona alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}

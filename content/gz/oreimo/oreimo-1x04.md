@@ -1,6 +1,6 @@
 ---
 title: "Oreimo | 1x04"
-date: 2022-05-08T12:03:00+02:00
+#date: 2022-05-08T12:03:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -27,12 +27,16 @@ aliases : [
     '/gz/oreimo_1x04/',
 ]
 
-weight: 104
+#weight: 104
 bookcase_cover_src: '/capi/1x04-claro.svg'
 bookcase_cover_src_dark: '/capi/1x04-escuro.svg'
 
-eqt-autores: [
+eqt-subtituladores: [
     'Fansubgalego',
+]
+
+eqt-autores: [
+    'Ran#',
 ]
 
 ---

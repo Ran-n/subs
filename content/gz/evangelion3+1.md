@@ -9,13 +9,15 @@ footer: "Evangelion ❤️"
 
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
 search_hidden: false
 zooming_js: true
 math: false
 
 ga: true
-disqus: true
+#disqus: true
+twitter_cards: false
 
 url: '/evangelion3.0+1.0/'
 slug: 'evangelion3.0+1.0'
@@ -56,8 +58,12 @@ eqt-tipos: [
     'filme debuxo',
 ]
 
-eqt-autores: [
+eqt-subtituladores: [
     'Fansubgalego',
+]
+
+eqt-autores: [
+    'Ran#',
 ]
 
 ---

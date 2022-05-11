@@ -1,13 +1,8 @@
 [[navbar]]
-    identifier = "franquias_gz"
-    name = "Franquías"
-    url = "/gz/eqt-franquias/"
-    weight = 1
-[[navbar]]
     identifier = "tipos_gz"
     name = "Tipos"
     url = "/gz/eqt-tipos/"
-    weight = 2
+    weight = 1
     [[navbar]]
         parent = "tipos_gz"
         identifier = "serie_gz"
@@ -27,12 +22,23 @@
         url = "/gz/eqt-tipos/anime/"
         weight = 3
 [[navbar]]
-    identifier = "autores_gz"
-    name = "Autores"
-    url = "/gz/eqt-autores/"
-    weight = 3
-[[navbar]]
     identifier = "titulos_gz"
     name = "Títulos"
     url = "/gz/eqt-titulos/"
+    weight = 2
+
+[[navbar]]
+    identifier = "franquias_gz"
+    name = "Franquías"
+    url = "/gz/eqt-franquias/"
     weight = 4
+[[navbar]]
+    identifier = "subtituladores_gz"
+    name = "Subtituladores"
+    url = "/gz/eqt-subtituladores/"
+    weight = 5
+[[navbar]]
+    identifier = "autores_gz"
+    name = "Autores"
+    url = "/gz/eqt-autores/"
+    weight = 6

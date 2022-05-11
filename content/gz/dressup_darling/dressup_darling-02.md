@@ -514,8 +514,12 @@ aliases : [
 bookcase_cover_src: '/capi/02-claro.svg'
 bookcase_cover_src_dark: '/capi/02-escuro.svg'
 
-eqt-autores: [
+eqt-subtituladores: [
     'Fansubgalego',
+]
+
+eqt-autores: [
+    'Ran#',
 ]
 
 ---

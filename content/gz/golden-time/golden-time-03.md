@@ -1,6 +1,6 @@
 ---
 title: "Golden Time | 03"
-date: 2022-05-07T15:06:00+02:00
+#date: 2022-05-07T15:06:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -57,7 +57,7 @@ aliases : [
     '/gz/goldentime_1x03/',
 ]
 
-weight: 03
+#weight: 03
 bookcase_cover_src: '/capi/03-claro.svg'
 bookcase_cover_src_dark: '/capi/03-escuro.svg'
 
@@ -65,8 +65,12 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-autores: [
+eqt-subtituladores: [
     'Fansubgalego',
+]
+
+eqt-autores: [
+    'Ran#',
 ]
 
 ---

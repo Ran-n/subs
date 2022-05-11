@@ -78,6 +78,4 @@ type: 'blank'
 
 ---
 
-<script>
-    window.location.href = "/gz/snk/";
-</script>
+{{< redirixe base="subs" ligazon="/gz/snk" >}}

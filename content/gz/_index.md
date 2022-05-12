@@ -61,8 +61,6 @@ Se tes problemas contactame no correo.
 {{< icon name="" link="https://stackexchange.com/users/22323027/ran?tab=accounts" >}}
 {{< icon name="" link="https://pypi.org/user/ran-n/" >}}
 
-<!--img height=150px title="Ran#" alt="Ran#" src="/autor/kanagawa2.png"-->
-
 Páxina web feita por Ran#.\
 Para consultas de negocios mandar correo a: ran-n@tutanota.com
 

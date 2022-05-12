@@ -1,4 +1,4 @@
-{{ $dimenbase := "24" }}
+{{ $dimenbase := .Get "dimenbase" | default "24" }}
 
 {{ $moeda := .Get "moeda" }}
 {{ $dir := .Get "dir" }}

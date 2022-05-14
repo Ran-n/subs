@@ -52,6 +52,7 @@ wikipedia: 'https://twitter.com/Fansubgalego'
 
 <div style="text-align: center">
 <img style="border: 3px solid currentColor" height=100 title="Fansubgalego" alt="Fansubgalego" src="/autor/fansubgalego.jpg">
+<div>Fansubgalego</div>
 </div>
 
 <br>

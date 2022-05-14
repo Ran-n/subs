@@ -1,6 +1,6 @@
 ---
 title: "Oreimo | 1x04"
-#date: 2022-05-08T12:03:00+02:00
+#date: 2022-05-14T12:21:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -15,15 +15,24 @@ zooming_js: true
 math: false
 
 ga: true
-disqus: true
+#disqus: true
+twitter_cards: false
+
+#code_copy: true
+#open_graph: true
 
 url: '/oreimo/1x04/'
 slug: '1x04'
 aliases : [
+    '/gz/oreimo 04/',
     '/gz/oreimo 1x04/',
+    '/gz/oreimo-04/',
     '/gz/oreimo-1x04/',
+    '/gz/oreimo/04/',
     '/gz/oreimo/1x04/',
+    '/gz/oreimo04/',
     '/gz/oreimo1x04/',
+    '/gz/oreimo_04/',
     '/gz/oreimo_1x04/',
 ]
 
@@ -66,6 +75,4 @@ eqt-autores: [
 
 <br>
 
-<!--
-{{< sub alto="50" titulo="O rival da minha irmá pequena non poder vir a Xapón" ligazon="/sub/oreimo/oreimo-03.gz.ass" autor="Fansubgalego" >}}
--->
+{{< sub alto="50" titulo="O rival da minha irmá pequena non poder vir a Xapón" ligazon="/sub/oreimo/oreimo-04.gz.ass" autor="Fansubgalego" >}}

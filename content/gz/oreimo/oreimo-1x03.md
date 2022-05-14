@@ -20,10 +20,15 @@ disqus: true
 url: '/oreimo/1x03/'
 slug: '1x03'
 aliases : [
+    '/gz/oreimo 03/',
     '/gz/oreimo 1x03/',
+    '/gz/oreimo-03/',
     '/gz/oreimo-1x03/',
+    '/gz/oreimo/03/',
     '/gz/oreimo/1x03/',
+    '/gz/oreimo03/',
     '/gz/oreimo1x03/',
+    '/gz/oreimo_03/',
     '/gz/oreimo_1x03/',
 ]
 

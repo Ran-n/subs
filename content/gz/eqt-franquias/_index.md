@@ -1,18 +1,25 @@
 ---
-title: 'Franquias'
+title: 'Franquías'
+#draft: true
 author: 'Ran#'
 
-#navbar_title: ''
-#footer: ''
+#navbar_title: ""
+footer: "Franquías ❤️"
 
-search_hidden: false
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
-zooming_js: false
+search_hidden: false
 math: false
+zooming_js: true
+
 ga: true
-#disqus: false
+#disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
 
 url: '/franquias/'
 slug: 'franquias'

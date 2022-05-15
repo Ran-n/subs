@@ -78,4 +78,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Elementos" ligazon="/gz/eqt-franquias/" >}}
+{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Franquías" ligazon="/gz/eqt-franquias/" >}}

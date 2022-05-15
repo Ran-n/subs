@@ -84,6 +84,7 @@ bookcase_list_sections: true
 
 <div style="text-align: center">
 <img style="border: 3px solid currentColor" height=100 title="Ran#" alt="Ran#" src="/autor/kanagawa2.png">
+<div>Ran#</div>
 </div>
 
 <br>

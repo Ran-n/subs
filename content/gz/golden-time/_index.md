@@ -52,6 +52,10 @@ eqt-tipos: [
     'serie debuxo',
 ]
 
+eqt-paises: [
+    'xapon',
+]
+
 eqt-autores: [
     'Ran#',
 ]

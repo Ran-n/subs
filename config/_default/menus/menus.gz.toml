@@ -32,13 +32,21 @@
     name = "Franquías"
     url = "/gz/eqt-franquias/"
     weight = 4
+
+[[navbar]]
+    identifier = "paises_gz"
+    name = "Países"
+    url = "/gz/eqt-paises/"
+    weight = 5
+
 [[navbar]]
     identifier = "subtituladores_gz"
     name = "Subtituladores"
     url = "/gz/eqt-subtituladores/"
-    weight = 5
+    weight = 50
+
 [[navbar]]
     identifier = "autores_gz"
     name = "Autores"
     url = "/gz/eqt-autores/"
-    weight = 6
+    weight = 60

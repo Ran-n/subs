@@ -57,6 +57,10 @@ eqt-tipos: [
     'filme debuxo',
 ]
 
+eqt-paises: [
+    'xapon',
+]
+
 eqt-subtituladores: [
     'Fansubgalego',
 ]

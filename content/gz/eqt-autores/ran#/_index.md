@@ -73,7 +73,7 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-autores/" >}}
+{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Autores" ligazon="/gz/eqt-autores/" >}}
 
 <br>
 <br>

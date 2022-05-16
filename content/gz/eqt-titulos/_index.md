@@ -1,23 +1,28 @@
 ---
 title: 'Títulos'
 author: 'Ran#'
+author: 'Ran#'
 
 #navbar_title: ''
 #footer: ''
 
-search_hidden: false
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
-zooming_js: false
+search_hidden: false
 math: false
+zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
-url: '/titulos/'
-slug: 'titulos'
+#code_copy: true
+#open_graph: true
+
+url: '/titulo/'
+slug: 'titulo'
 aliases: [
     '/gz/eqt-titulo/',
     '/gz/eqt-titulos/',

@@ -15,8 +15,11 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
+
+#code_copy: true
+#open_graph: true
 
 #url: '/titulo/oreimo/'
 #slug: 'oreimo'

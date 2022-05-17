@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/tipos/filme/'
+url: '/tipo/filme/'
 slug: 'filme'
 aliases: [
     '/gz/eqt-tipo/filme/',

@@ -1,5 +1,5 @@
 ---
-title: 'Países'
+title: 'Idades'
 #2022-05-16T22:00:00+02:00
 #draft: true
 author: 'Ran#'
@@ -22,17 +22,22 @@ twitter_cards: false
 #code_copy: true
 #open_graph: true
 
-url: '/pais/'
-slug: 'pais'
+url: '/idade/'
+slug: 'idade'
 aliases: [
-    '/gz/countries/',
-    '/gz/country/',
-    '/gz/eqt-pais/',
-    '/gz/eqt-paises/',
-    '/gz/pais/',
-    '/gz/paises/',
-    '/gz/país/',
-    '/gz/países/',
+    '/gz/certificacion/',
+    '/gz/certificaciones/',
+    '/gz/certificacions/',
+    '/gz/certificación/',
+    '/gz/certificacións/',
+    '/gz/certification/',
+    '/gz/certifications/',
+    '/gz/edad/',
+    '/gz/edades/',
+    '/gz/eqt-certificacion/',
+    '/gz/eqt-certificacions/',
+    '/gz/idade/',
+    '/gz/idades/',
 ]
 
 type: 'bookcase'

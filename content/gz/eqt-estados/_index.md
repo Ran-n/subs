@@ -1,11 +1,11 @@
 ---
-title: 'Países'
-#2022-05-16T22:00:00+02:00
+title: 'Estados'
+#2022-05-16T22:57:00+02:00
 #draft: true
 author: 'Ran#'
 
 #navbar_title: ''
-#footer: ''
+footer: 'Autores'
 
 toc: false
 collapsible_toc: false
@@ -22,17 +22,17 @@ twitter_cards: false
 #code_copy: true
 #open_graph: true
 
-url: '/pais/'
-slug: 'pais'
+url: '/estado/'
+slug: 'estado'
 aliases: [
-    '/gz/countries/',
-    '/gz/country/',
-    '/gz/eqt-pais/',
-    '/gz/eqt-paises/',
-    '/gz/pais/',
-    '/gz/paises/',
-    '/gz/país/',
-    '/gz/países/',
+    '/gz/eqt-estado/',
+    '/gz/eqt-estados/',
+    '/gz/eqt-state/',
+    '/gz/eqt-states/',
+    '/gz/estado/',
+    '/gz/estados/',
+    '/gz/state/',
+    '/gz/states/',
 ]
 
 type: 'bookcase'
@@ -42,5 +42,3 @@ bookcase_list_sections: true
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
-
-Listaxe de países de orixe dos diferentes contidos.

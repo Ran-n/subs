@@ -110,10 +110,6 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-franquias: [
-    'my dress-up darling',
-]
-
 eqt-titulos: [
     'その着せ替え人形は恋をする',
     'Sono Bisque Doll wa Koi wo Suru',

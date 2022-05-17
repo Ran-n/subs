@@ -48,10 +48,6 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-franquias: [
-    'ganbare doukichan',
-]
-
 eqt-titulos: [
     'がんばれ同期ちゃん',
     'ganbare dōki-chan',

@@ -35,6 +35,10 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
+eqt-estados: [
+    'rematado',
+]
+
 eqt-franquias: [
     'oreimo',
 ]
@@ -52,8 +56,35 @@ eqt-tipos: [
     'serie debuxo',
 ]
 
+eqt-xeneros: [
+    'animacion',
+    'comedia',
+    'drama',
+    'romance',
+]
+
+eqt-certificacions: [
+    'Australia:MA15+',
+    'Canada:PG ',
+    'Canada:PG-13',
+    'Malaysia:18',
+    'Philippines:PG-13',
+    'Singapore:NC16',
+    'South Korea:15',
+    'Thailand:15',
+    'Thailand:13',
+    'United Kingdom:15',
+    'United Kingdom:18',
+    'United States:TV-14',
+    'Vietnam:C18',
+]
+
 eqt-paises: [
     'xapon',
+]
+
+eqt-linguas: [
+    'xapones',
 ]
 
 eqt-autores: [

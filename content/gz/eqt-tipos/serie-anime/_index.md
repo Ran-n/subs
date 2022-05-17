@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/tipos/serie-anime/'
+url: '/tipo/serie-anime/'
 slug: 'serie-anime'
 aliases: [
     '/gz/eqt-tipo/serie anime/',

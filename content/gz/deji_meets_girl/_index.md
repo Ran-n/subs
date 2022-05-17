@@ -34,10 +34,6 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-franquias: [
-    'deji meets girl',
-]
-
 eqt-titulos: [
     'でーじミーツガール',
     'deji meets girl',

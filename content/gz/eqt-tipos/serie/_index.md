@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/tipos/serie/'
+url: '/tipo/serie/'
 slug: 'serie'
 aliases: [
     '/gz/eqt-tipo/serie/',

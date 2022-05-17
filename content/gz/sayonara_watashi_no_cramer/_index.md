@@ -37,10 +37,6 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-franquias: [
-    'oreimo',
-]
-
 eqt-titulos: [
     'さよなら私のクラマー',
     'Sayonara Watashi no Cramer',

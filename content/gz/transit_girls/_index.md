@@ -9,6 +9,7 @@ footer: "Transit Girls ❤️"
 
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
 search_hidden: false
 math: false
@@ -48,8 +49,7 @@ eqt-titulos: [
 eqt-tipos: [
     'anime',
     'serie',
-    'serie anime',
-    'serie debuxo',
+    'serie actuacion',
 ]
 
 eqt-paises: [

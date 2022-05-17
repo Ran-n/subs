@@ -34,10 +34,6 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-franquias: [
-    'golden time',
-]
-
 eqt-titulos: [
     'ゴールデンタイム',
     'gôruden taimu',

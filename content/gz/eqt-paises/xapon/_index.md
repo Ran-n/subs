@@ -5,19 +5,22 @@ title: 'Xapón'
 author: 'Ran#'
 
 #navbar_title: ''
-footer: 'Ran#'
+#footer: ''
 
 toc: false
 collapsible_toc: false
 collapsible_changelogs: true
 
 search_hidden: false
-zooming_js: false
 math: false
+zooming_js: false
 
 ga: true
 #disqus: true
 twitter_cards: false
+
+#code_copy: true
+#open_graph: true
 
 url: '/pais/xapon/'
 slug: 'xapon'

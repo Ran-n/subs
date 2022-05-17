@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/tipos/hentai/'
+url: '/tipo/hentai/'
 slug: 'hentai'
 aliases: [
     '/gz/eqt-tipo/hentai/',

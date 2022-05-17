@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/tipos/animacion/'
+url: '/tipo/animacion/'
 slug: 'animacion'
 aliases: [
     '/gz/eqt-tipo/animacion/',

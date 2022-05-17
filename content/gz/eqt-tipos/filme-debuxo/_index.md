@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/tipos/pelicula-debuxo/'
+url: '/tipo/pelicula-debuxo/'
 slug: 'pelicula-debuxo'
 aliases: [
     '/gz/eqt-tipo/filme de debuxo/',

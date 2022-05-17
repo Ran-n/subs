@@ -36,10 +36,6 @@ type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: false
 
-eqt-franquias: [
-    'mirai',
-]
-
 eqt-titulos: [
     '未来のミライ',
     'Mirai no Mirai',

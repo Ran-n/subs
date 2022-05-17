@@ -1,6 +1,6 @@
 ---
-title: 'Países'
-#2022-05-16T22:00:00+02:00
+title: 'Linguas'
+#2022-05-17T22:50:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -22,17 +22,17 @@ twitter_cards: false
 #code_copy: true
 #open_graph: true
 
-url: '/pais/'
-slug: 'pais'
+url: '/lingua/'
+slug: 'lingua'
 aliases: [
-    '/gz/countries/',
-    '/gz/country/',
-    '/gz/eqt-pais/',
-    '/gz/eqt-paises/',
-    '/gz/pais/',
-    '/gz/paises/',
-    '/gz/país/',
-    '/gz/países/',
+    '/gz/eqt-lingua/',
+    '/gz/eqt-linguas/',
+    '/gz/idioma/',
+    '/gz/idiomas/',
+    '/gz/language/',
+    '/gz/languages/',
+    '/gz/lingua/',
+    '/gz/linguas/',
 ]
 
 type: 'bookcase'
@@ -43,4 +43,4 @@ bookcase_list_sections: true
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
-Listaxe de países de orixe dos diferentes contidos.
+Listaxe das linguas que se poden escoitar na versión orixinal dos contidos.

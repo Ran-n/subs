@@ -14,8 +14,8 @@ math: false
 ga: true
 #disqus: false
 
-url: '/tipos/'
-slug: 'tipos'
+url: '/tipo/'
+slug: 'tipo'
 aliases: [
     '/gz/eqt-tipo/',
     '/gz/eqt-tipos/',

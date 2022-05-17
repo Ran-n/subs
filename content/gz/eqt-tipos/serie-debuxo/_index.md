@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/tipos/serie-debuxo/'
+url: '/tipo/serie-debuxo/'
 slug: 'serie-debuxo'
 aliases: [
     '/gz/eqt-tipo/serie de debuxo/',

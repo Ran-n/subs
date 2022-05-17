@@ -13,5 +13,9 @@ eqt-autor = "eqt-autores"
 eqt-subtitulador = "eqt-subtituladores"
 
 eqt-titulo = "eqt-titulos"
-
 eqt-pais = "eqt-paises"
+eqt-linguas = "eqt-linguas"
+
+eqt-estado = "eqt-estados"
+eqt-xenero = "eqt-xeneros"
+eqt-certificacion = "eqt-certificacions"

@@ -34,34 +34,40 @@
     weight = 4
 
 [[navbar]]
-    identifier = "xeneros_gz"
-    name = "Xéneros"
-    url = "/gz/eqt-xeneros/"
+    identifier = "clasificacions_gz"
+    name = "Clasificacións"
+    url = "/gz/clasificacion/"
     weight = 5
-
-[[navbar]]
-    identifier = "estado_gz"
-    name = "Estado"
-    url = "/gz/eqt-estados/"
-    weight = 6
-
-[[navbar]]
-    identifier = "paises_gz"
-    name = "Países"
-    url = "/gz/eqt-paises/"
-    weight = 7
-
-[[navbar]]
-    identifier = "linguas_gz"
-    name = "Linguas"
-    url = "/gz/eqt-linguas/"
-    weight = 8
-
-[[navbar]]
-    identifier = "idades_gz"
-    name = "Idades"
-    url = "/gz/eqt-certificacions/"
-    weight = 9
+    [[navbar]]
+        parent = "clasificacions_gz"
+        identifier = "estado_gz"
+        name = "Estado"
+        url = "/gz/eqt-estados/"
+        weight = 1
+    [[navbar]]
+        parent = "clasificacions_gz"
+        identifier = "xeneros_gz"
+        name = "Xéneros"
+        url = "/gz/eqt-xeneros/"
+        weight = 2
+    [[navbar]]
+        parent = "clasificacions_gz"
+        identifier = "idades_gz"
+        name = "Idades"
+        url = "/gz/eqt-certificacions/"
+        weight = 3
+    [[navbar]]
+        parent = "clasificacions_gz"
+        identifier = "paises_gz"
+        name = "Países"
+        url = "/gz/eqt-paises/"
+        weight = 4
+    [[navbar]]
+        parent = "clasificacions_gz"
+        identifier = "linguas_gz"
+        name = "Linguas"
+        url = "/gz/eqt-linguas/"
+        weight = 5
 
 [[navbar]]
     identifier = "subtituladores_gz"

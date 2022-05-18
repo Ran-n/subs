@@ -7,8 +7,8 @@ author: 'Ran#'
 #navbar_title: ""
 footer: "Implícate ❤️"
 
-toc: false
-collapsible_toc: false
+toc: true
+collapsible_toc: true
 collapsible_changelogs: true
 
 search_hidden: false

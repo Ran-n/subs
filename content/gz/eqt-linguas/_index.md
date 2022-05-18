@@ -41,6 +41,6 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/clasificacion/" >}}
 
 Listaxe das linguas que se poden escoitar na versión orixinal dos contidos.

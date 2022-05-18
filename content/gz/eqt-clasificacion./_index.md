@@ -13,7 +13,7 @@ collapsible_changelogs: true
 
 search_hidden: false
 math: false
-zooming_js: true
+zooming_js: false
 
 ga: true
 #disqus: true
@@ -34,14 +34,15 @@ aliases : [
     '/gz/clasifications/',
 ]
 
-weight: -20180516
+bookcase_hide: true
+#weight: -20180516
 #bookcase_cover_src: '/portada/mirai.jpg'
 #bookcase_cover_src_dark: '/portada/mirai.jpg'
 
 type: 'bookcase'
-bookcase_hide: true
-bookcase_list_pages: false
-bookcase_list_sections: false
+bookcase_list_pages: true
+bookcase_list_sections: true
 
 ---
 
+{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}

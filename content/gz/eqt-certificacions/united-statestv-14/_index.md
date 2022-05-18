@@ -106,8 +106,9 @@ aliases: [
 ]
 
 #weight: 0
-bookcase_cover_src: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Flag_of_the_United_States_%28Pantone%29.svg'
-bookcase_cover_src_dark: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Flag_of_the_United_States_%28Pantone%29.svg'
+#bookcase_cover_src: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/Flag_of_the_United_States_%28Pantone%29.svg'
+bookcase_cover_src: 'https://moviereelist.com/wp-content/uploads/2019/09/tv-14.png'
+bookcase_cover_src_dark: 'https://moviereelist.com/wp-content/uploads/2019/09/tv-14.png'
 
 type: 'bookcase'
 bookcase_list_pages: true

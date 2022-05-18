@@ -51,7 +51,7 @@ aliases: [
 ]
 
 bookcase_cover_src: ''
-bookcase_cover_src_dark: ''
+bookcase_cover_src_dark: 'https://cdn.hipwallpaper.com/i/67/3/w69xOu.png'
 
 type: 'bookcase'
 bookcase_list_pages: true

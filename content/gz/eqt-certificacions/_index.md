@@ -46,6 +46,6 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/clasificacion/" >}}
 
 Listaxe de países de orixe dos diferentes contidos.

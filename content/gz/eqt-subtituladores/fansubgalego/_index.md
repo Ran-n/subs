@@ -39,6 +39,10 @@ bookcase_list_sections: true
 
 wikipedia: 'https://twitter.com/Fansubgalego'
 
+eqt-autores: [
+    'Ran#',
+]
+
 ---
 
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-subtituladores/" >}}

@@ -39,6 +39,10 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: true
 
+eqt-autores: [
+    'Ran#',
+]
+
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/clasificacion/" >}}

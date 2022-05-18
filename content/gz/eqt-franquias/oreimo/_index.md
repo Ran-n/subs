@@ -46,6 +46,10 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: true
 
+eqt-autores: [
+    'Ran#',
+]
+
 ---
 
 {{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Franquías" ligazon="/gz/eqt-franquias/" >}}

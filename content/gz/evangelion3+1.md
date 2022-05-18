@@ -36,10 +36,6 @@ weight: -20210308
 bookcase_cover_src: 'portada/evangelion3+1.jpg'
 bookcase_cover_src_dark: 'portada/evangelion3+1.jpg'
 
-type: 'bookcase'
-bookcase_list_pages: false
-bookcase_list_sections: false
-
 eqt-franquias: [
     'evangelion',
 ]
@@ -70,7 +66,7 @@ eqt-autores: [
 
 # Evangelion: 3.0+1.0 Tres veces nun tempo
 
-{{< icona ancho="24" alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
 <img style="border: 3px solid currentColor" height="400" title="Evangelion: 3.0+1.0" alt="Evangelion: 3.0+1.0" src="/portada/evangelion3+1.jpg">

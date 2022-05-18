@@ -31,6 +31,10 @@ bookcase_cover_src_dark: 'https://external-content.duckduckgo.com/iu/?u=https%3A
 
 type: 'blank'
 
+eqt-autores: [
+    'Ran#',
+]
+
 ---
 
 {{< redirixe base="/subs" ligazon="/gz/eqt-xeneros" >}}

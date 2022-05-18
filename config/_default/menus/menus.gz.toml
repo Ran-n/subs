@@ -80,3 +80,9 @@
     name = "Autores"
     url = "/gz/eqt-autores/"
     weight = 60
+
+[[navbar]]
+    identifier = "info_gz"
+    name = "Implícate!"
+    url = "/gz/implicate/"
+    weight = 70

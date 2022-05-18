@@ -32,10 +32,6 @@ weight: -20180516
 bookcase_cover_src: '/portada/mirai.jpg'
 bookcase_cover_src_dark: '/portada/mirai.jpg'
 
-type: 'bookcase'
-bookcase_list_pages: false
-bookcase_list_sections: false
-
 eqt-titulos: [
     '未来のミライ',
     'Mirai no Mirai',
@@ -69,7 +65,7 @@ eqt-autores: [
 
 # Mirai
 
-{{< icona ancho="24" alto="24" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 <div style="text-align: center">
 <img style="border: 3px solid currentColor" height="400" title="Mirai" alt="Mirai" src="/portada/mirai.jpg">

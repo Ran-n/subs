@@ -49,7 +49,7 @@ eqt-titulos: [
 eqt-tipos: [
     'anime',
     'serie',
-    'serie actuacion',
+    'serie actuación',
 ]
 
 eqt-paises: [

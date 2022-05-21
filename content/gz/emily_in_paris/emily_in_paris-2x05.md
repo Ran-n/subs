@@ -106,4 +106,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub alto="50" titulo="Un inglés en París" ligazon="/sub/emily_in_paris/emily_in_paris-2x05.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Un inglés en París" ligazon="/sub/emily_in_paris/emily_in_paris-2x05.gz.srt" autor="Fansubgalego" >}}

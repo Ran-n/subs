@@ -106,4 +106,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub alto="50" titulo="Jules e Em" ligazon="/sub/emily_in_paris/emily_in_paris-2x04.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Jules e Em" ligazon="/sub/emily_in_paris/emily_in_paris-2x04.gz.srt" autor="Fansubgalego" >}}

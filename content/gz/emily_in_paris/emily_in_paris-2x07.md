@@ -106,4 +106,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub alto="50" titulo="O cocinheiro, o ladrón, a súa pantasma e o seu amante" ligazon="/sub/emily_in_paris/emily_in_paris-2x07.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="O cocinheiro, o ladrón, a súa pantasma e o seu amante" ligazon="/sub/emily_in_paris/emily_in_paris-2x07.gz.srt" autor="Fansubgalego" >}}

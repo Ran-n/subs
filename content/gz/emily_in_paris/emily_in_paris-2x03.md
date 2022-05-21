@@ -106,4 +106,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub alto="50" titulo="Bon Anniversaire!" ligazon="/sub/emily_in_paris/emily_in_paris-2x03.gz.ass" autor="Fansubgalego" >}}
+{{< sub alto="50" titulo="Bon Anniversaire!" ligazon="/sub/emily_in_paris/emily_in_paris-2x03.gz.srt" autor="Fansubgalego" >}}

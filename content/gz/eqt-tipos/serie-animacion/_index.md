@@ -1,5 +1,5 @@
 ---
-title: 'Serie de Animación'
+title: 'Serie de animación'
 #date: 2022-05-05T22:12:00+02:00
 author: 'Ran#'
 

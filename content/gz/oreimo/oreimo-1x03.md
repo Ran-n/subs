@@ -9,6 +9,7 @@ footer: "Oreimo ❤️"
 
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
 search_hidden: false
 math: false
@@ -62,10 +63,10 @@ eqt-autores: [
 <br>
 
 <div style="float: left">
-{{< icona alto="30" tipo="menor" ligazon="/gz/oreimo/1x02/" >}}
+{{< icona alto="30" tipo="menor" titulo="1x02" ligazon="/gz/oreimo/1x02/" >}}
 </div>
 <div style="float: right">
-{{< icona alto="30" tipo="maior" ligazon="/gz/oreimo/1x04/" >}}
+{{< icona alto="30" tipo="maior" titulo="1x04" ligazon="/gz/oreimo/1x04/" >}}
 </div>
 
 {{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="56353" >}}

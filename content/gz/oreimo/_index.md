@@ -9,6 +9,7 @@ footer: "Oreimo ❤️"
 
 toc: false
 collapsible_toc: false
+collapsible_changelogs: true
 
 search_hidden: false
 math: false

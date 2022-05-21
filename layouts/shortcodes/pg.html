@@ -1,0 +1,150 @@
+{{ $dimenbase := "24" }}
+
+{{ $ligazon := .Get "ligazon" }}
+{{ $tipo := .Get "tipo" }}
+{{ $titulo := .Get "titulo" }}
+
+{{ $ancho := .Get "ancho" }}
+{{ $alto := .Get "alto" }}
+
+{{ if not $ancho }}
+    {{ if $alto }}
+        {{ $ancho = $alto }}
+    {{ else }}
+        {{ $ancho = $dimenbase }}
+    {{ end }}
+{{ end }}
+
+{{ if not $alto }}
+    {{ $alto = $ancho }}
+{{ end }}
+
+<!--
+{{ $trazo := .Get "trazo" }}
+{{ $trazo_ancho := .Get "trazo-ancho" }}
+{{ $trazo_remate := .Get "trazo-remate" }}
+{{ $recheo := .Get "recheo" }}
+-->
+
+{{ if and $tipo }}
+{{ if and $ligazon }}
+<a rel="noopener" target="_self" href="{{ $ligazon }}">
+{{ end }}
+    <svg stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" style="padding: 2px; color: var(--color-text)" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="{{ $ancho }}" height="{{ $alto }}">
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title></title>
+        {{ end }}
+        {{ if eq $tipo "us-tv-ma" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/3/34/TV-MA_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-y" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/25/TV-Y_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-y7" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/5/5a/TV-Y7_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-y7-fv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/a/ac/TV-Y7-FV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-g" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/5/5e/TV-G_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/9/9a/TV-PG_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-d" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/3/38/TV-PG-D_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-dl" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/4/44/TV-PG-DL_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-dls" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/27/TV-PG-DLS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-dlsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/0/05/TV-PG-DLSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-dlv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/6/64/TV-PG-DLV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-ds" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e6/TV-PG-DS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-dsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/7/72/TV-PG-DSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-dv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/a/a5/TV-PG-DV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-l" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/29/TV-PG-L_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-ls" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/5/59/TV-PG-LS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-lsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/a/af/TV-PG-LSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-lv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/8/83/TV-PG-LV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-s" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/3/37/TV-PG-S_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-sv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/9/92/TV-PG-SV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-pg-v" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/6/61/TV-PG-V_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/c/c3/TV-14_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-d" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/7/70/TV-14-D_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-dl" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/a/aa/TV-14-DL_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-dls" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV-14-DLS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-dlsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/9/95/TV-14-DLSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-dlv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/4/44/TV-14-DLV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-ds" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/1/19/TV-14-DS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-dsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/c/cc/TV-14-DSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-dv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/1/10/TV-14-DV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-l" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/c/ce/TV-14-L_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-ls" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/6/66/TV-14-LS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-lsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/c/ca/TV-14-LSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-lv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/9/9c/TV-14-LV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-s" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/23/TV-14-S_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-sv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/e/e6/TV-14-SV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-14-v" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/7/70/TV-14-V_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/3/34/TV-MA_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-d" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/1/10/TV-MA-D_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-dl" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/f/f6/TV-MA-DL_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-dls" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/26/TV-MA-DLS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-dlsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/28/TV-MA-DLSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-dlv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/28/TV-MA-DLV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-ds" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/5/53/TV-MA-DS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-dsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/2/26/TV-MA-DSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-dv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/a/a1/TV-MA-DV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-l" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/9/9f/TV-MA-L_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-ls" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/c/cf/TV-MA-LS_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-lsv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/1/19/TV-MA-LSV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-lv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/8/80/TV-MA-LV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-s" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/0/06/TV-MA-S_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-sv" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/b/bd/TV-MA-SV_icon.svg" width="100%" height="100%"/>
+        {{ else if eq $tipo "us-tv-ma-v" }}
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/f/f5/TV-MA-V_icon.svg" width="100%" height="100%"/>
+        {{ end }}
+    </svg>
+{{ if and $ligazon }}
+</a>
+{{ end }}
+{{ end }}

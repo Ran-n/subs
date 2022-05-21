@@ -37,4 +37,4 @@ eqt-autores: [
 
 ---
 
-{{< redirixe base="/subs" ligazon="/gz/eqt-idades" >}}
+{{< redirixe base="/subs" ligazon="/gz/eqt-certificacions" >}}

@@ -432,3 +432,12 @@ eqt-autores: [
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Países" ligazon="/gz/eqt-certificacions/" >}}
+
+<br>
+
+<div style="text-align: center">
+<img style="border: 3px solid currentColor" height=100 title="EEUU: TV-14" alt="EEUU: TV-14" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/TV-14_icon.svg">
+<div>TV-14</div>
+</div>
+
+<br>

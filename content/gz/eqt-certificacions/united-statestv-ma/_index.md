@@ -436,7 +436,7 @@ eqt-autores: [
 <br>
 
 <div style="text-align: center">
-<img style="border: 3px solid currentColor" height=100 title="Ran#" alt="Ran#" src="https://upload.wikimedia.org/wikipedia/commons/3/34/TV-MA_icon.svg">
+<img style="border: 3px solid currentColor" height=100 title="EEUU: TV-MA" alt="EEUU: TV-MA" src="https://upload.wikimedia.org/wikipedia/commons/3/34/TV-MA_icon.svg">
 <div>TV-MA</div>
 </div>
 

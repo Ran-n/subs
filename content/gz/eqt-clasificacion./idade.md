@@ -26,8 +26,8 @@ twitter_cards: false
 #aliases: [
 #]
 
-bookcase_cover_src: ''
-bookcase_cover_src_dark: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe9%2FWhite_TV-PG-V_icon.png%2F1200px-White_TV-PG-V_icon.png'
+bookcase_cover_src: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/TV-PG_icon.svg'
+bookcase_cover_src_dark: 'https://upload.wikimedia.org/wikipedia/commons/9/9a/TV-PG_icon.svg'
 
 type: 'blank'
 

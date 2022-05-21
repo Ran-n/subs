@@ -432,3 +432,12 @@ eqt-autores: [
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Países" ligazon="/gz/eqt-certificacions/" >}}
+
+<br>
+
+<div style="text-align: center">
+<img style="border: 3px solid currentColor" height=100 title="EEUU: TV-Y7" alt="EEUU: TV-Y7" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/TV-Y7_icon.svg">
+<div>TV-Y7</div>
+</div>
+
+<br>

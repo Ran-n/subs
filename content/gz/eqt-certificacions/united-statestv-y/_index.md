@@ -432,3 +432,12 @@ eqt-autores: [
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Países" ligazon="/gz/eqt-certificacions/" >}}
+
+<br>
+
+<div style="text-align: center">
+<img style="border: 3px solid currentColor" height=100 title="EEUU: TV-Y" alt="EEUU: TV-Y" src="https://upload.wikimedia.org/wikipedia/commons/2/25/TV-Y_icon.svg">
+<div>TV-Y</div>
+</div>
+
+<br>

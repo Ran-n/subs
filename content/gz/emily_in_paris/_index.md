@@ -130,3 +130,5 @@ eqt-autores: [
 {{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt8962124" >}}
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="Emily_in_Paris" >}}
 </div>
+
+{{< pg alto="35" titulo="EEUU: TV-MA" ligazon="/gz/eqt-certificacions/united-states-tv-ma" tipo="us-tv-ma" >}}

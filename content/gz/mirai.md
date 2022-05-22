@@ -40,6 +40,7 @@ eqt-titulos: [
     'Mirai, a minha irmá pequena',
     'Mirai, a miña irmá pequena',
     'Mirai do futuro',
+    'Mirai mi hermana pequeña',
 ]
 
 eqt-tipos: [

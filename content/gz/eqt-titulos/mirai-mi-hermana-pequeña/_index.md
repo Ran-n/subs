@@ -1,5 +1,5 @@
 ---
-title: 'Mirai of the Future'
+title: 'Mirai mi hermana pequeña'
 #date: 2022-05-15T19:45:00+02:00
 #draft: true
 author: 'Ran#'
@@ -36,8 +36,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/tZPopkf1l7dqRwWAUqdI2T5zvVp.jpg'
-bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/tZPopkf1l7dqRwWAUqdI2T5zvVp.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/raj0bsOIqyp3lCyMhXKWZ6Z5SN.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/raj0bsOIqyp3lCyMhXKWZ6Z5SN.jpg'
 
 type: 'blank'
 

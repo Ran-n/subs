@@ -58,8 +58,8 @@ aliases: [
     '/gz/títulos/emilyinparis/',
 ]
 
-bookcase_cover_src: '/portada/emily_in_paris.jpg'
-bookcase_cover_src_dark: '/portada/emily_in_paris.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/jNm1HJe7va2xPes8NckQEyxRo4T.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/jNm1HJe7va2xPes8NckQEyxRo4T.jpg'
 
 type: 'blank'
 

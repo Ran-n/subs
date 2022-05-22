@@ -119,8 +119,8 @@ aliases: [
     '/gz/títulos/ganbaredoukichan/',
 ]
 
-bookcase_cover_src: '/portada/ganbare_doukichan.jpg'
-bookcase_cover_src_dark: '/portada/ganbare_doukichan.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/huCRzNvVPnc1xsCBCnfW201xF7o.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/huCRzNvVPnc1xsCBCnfW201xF7o.jpg'
 
 type: 'blank'
 

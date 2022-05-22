@@ -86,8 +86,8 @@ aliases: [
     '/gz/títulos/deji_meets_girl/',
 ]
 
-bookcase_cover_src: '/portada/deji_meets_girl.jpg'
-bookcase_cover_src_dark: '/portada/deji_meets_girl.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/iUelX1DqtgTDYvlsK3TzWcbn2Hb.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/iUelX1DqtgTDYvlsK3TzWcbn2Hb.jpg'
 
 type: 'blank'
 

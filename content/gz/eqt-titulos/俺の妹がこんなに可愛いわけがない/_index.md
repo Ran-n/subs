@@ -39,8 +39,8 @@ aliases: [
     '/gz/títulos/oreimo/',
 ]
 
-bookcase_cover_src: '/portada/oreimo.jpg'
-bookcase_cover_src_dark: '/portada/oreimo.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/b8k5tvVcSyh7tBtYqCQciV9GH8T.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/b8k5tvVcSyh7tBtYqCQciV9GH8T.jpg'
 
 type: 'blank'
 

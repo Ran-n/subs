@@ -23,8 +23,8 @@ twitter_cards: false
 aliases: [
 ]
 
-bookcase_cover_src: '/portada/sayonara_watashi_no_cramer.jpg'
-bookcase_cover_src_dark: '/portada/sayonara_watashi_no_cramer.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/uVpAnGQBGmTKtT3DzcWpG3P2jvj.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/uVpAnGQBGmTKtT3DzcWpG3P2jvj.jpg'
 
 type: 'blank'
 

@@ -87,8 +87,8 @@ aliases: [
     '/gz/títulos/evangelion3.0+1.0/',
 ]
 
-bookcase_cover_src: '/portada/evangelion3+1.jpg'
-bookcase_cover_src_dark: '/portada/evangelion3+1.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/mrAIxakQvQPGigFu9QCYbqoqIjF.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/mrAIxakQvQPGigFu9QCYbqoqIjF.jpg'
 
 type: 'blank'
 

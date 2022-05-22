@@ -183,8 +183,8 @@ aliases: [
     '/gz/títulos/mydressupdarling/',
 ]
 
-bookcase_cover_src: '/portada/dressup-darling.jpg'
-bookcase_cover_src_dark: '/portada/dressup-darling.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/i9TswU0pOi9MTi75qeFxKqIBwz2.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/i9TswU0pOi9MTi75qeFxKqIBwz2.jpg'
 
 type: 'blank'
 

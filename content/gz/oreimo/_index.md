@@ -58,7 +58,7 @@ eqt-tipos: [
 ]
 
 eqt-xeneros: [
-    'animacion',
+    'animación',
     'comedia',
     'drama',
     'romance',

@@ -71,8 +71,8 @@ aliases: [
     '/gz/títulos/snk/',
 ]
 
-bookcase_cover_src: '/portada/snk.jpg'
-bookcase_cover_src_dark: '/portada/snk.jpg'
+bookcase_cover_src: 'https://www.themoviedb.org/t/p/original/xtDs2WuiOyKYEn2bGax9TxX4GDo.jpg'
+bookcase_cover_src_dark: 'https://www.themoviedb.org/t/p/original/xtDs2WuiOyKYEn2bGax9TxX4GDo.jpg'
 
 type: 'blank'
 

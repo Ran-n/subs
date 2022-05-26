@@ -65,9 +65,9 @@ eqt-autores: [
 <div style="float: left">
 {{< icona alto="30" tipo="menor" titulo="1x03" ligazon="/gz/oreimo/03/" >}}
 </div>
-<!--div style="float: right">
+<div style="float: right">
 {{< icona alto="30" tipo="maior" titulo="1x05" ligazon="/gz/oreimo/05/" >}}
-</div-->
+</div>
 
 {{< rede alto="40" tipo="tmdb" subtipo="tv" titulo="TMDB" ligazon="56353" >}}
 {{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt1751305" >}}

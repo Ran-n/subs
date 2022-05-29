@@ -53,7 +53,7 @@ eqt-autores: [
 
 # Oreimo | 1x02
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Oreimo" ligazon="/gz/oreimo/" >}}
 
 ## Non hai xeito que vaia a unha quedada coa minha irmá
 

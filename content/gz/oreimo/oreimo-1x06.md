@@ -53,7 +53,7 @@ eqt-autores: [
 
 # Oreimo | 1x06
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Oreimo" ligazon="/gz/oreimo/" >}}
 
 ## A minha amiga da infancia non pode ser así de bonitinha
 

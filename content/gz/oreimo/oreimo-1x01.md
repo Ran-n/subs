@@ -53,7 +53,7 @@ eqt-autores: [
 
 # Oreimo | 1x01
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Oreimo" ligazon="/gz/oreimo/" >}}
 
 ## Non hai xeito que namorara da minha irmá
 

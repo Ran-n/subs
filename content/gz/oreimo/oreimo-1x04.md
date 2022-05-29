@@ -53,7 +53,7 @@ eqt-autores: [
 
 # Oreimo | 1x04
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Oreimo" ligazon="/gz/oreimo/" >}}
 
 ## O rival da minha irmá pequena non poder vir a Xapón
 

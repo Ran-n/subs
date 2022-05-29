@@ -53,7 +53,7 @@ eqt-autores: [
 
 # Oreimo | 1x05
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/oreimo/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Oreimo" ligazon="/gz/oreimo/" >}}
 
 ## A minha irmá pequena non pode ser esta XX
 

@@ -60,7 +60,7 @@ Para crear e modificar arquivos sigue o estilo que xa existe.
 
 Unha vez rematados, retornando ó respositorio inicial, daráselle ó botón de *Pull requests* e iniciarase unha nova *pull request* (dándolle á ligazón *compare across forks*) onde o *base repository* será Ran-n/subs e o *head repository* será o recén modificado por ti).
 
-Se tes problemas contactame no correo.
+Se tes problemas contactame no correo ou chíame no twitter.
 
 ## Axuda económica
 
@@ -76,9 +76,10 @@ Se tes problemas contactame no correo.
 
 {{< icon name="mail" link="mailto:ran-n@tutanota.com" >}}
 {{< icon name="github" link="https://github.com/Ran-n" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="anxo_ledo" >}}
 {{< icon name="" link="https://stackoverflow.com/users/16545423/ran" >}}
 {{< icon name="" link="https://stackexchange.com/users/22323027/ran?tab=accounts" >}}
 {{< icon name="" link="https://pypi.org/user/ran-n/" >}}
 
 Páxina web feita por Ran#.\
-Para consultas de negocios mandar correo a: ran-n@tutanota.com
+Para consultas de negocios mandar correo a: ran-n@tutanota.com ou contactar por twitter.

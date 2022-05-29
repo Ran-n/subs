@@ -77,12 +77,12 @@ eqt-autores: [
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Autores" ligazon="/gz/eqt-autores/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Autores" ligazon="/gz/eqt-autores/" >}}
 
 <br>
 <br>
 
-<!--{{< rede ancho="24px" alto="24px" cor="si" tipo="twitter" titulo="Twitter" ligazon="Fansubgalego" >}}-->
+{{< rede cor="si" tipo="twitter" titulo="Twitter" ligazon="anxo_ledo" >}}
 
 <br>
 

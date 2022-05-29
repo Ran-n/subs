@@ -45,12 +45,12 @@ eqt-autores: [
 
 ---
 
-{{< icona ancho="24px" alto="24px" tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-subtituladores/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/eqt-subtituladores/" >}}
 
 <br>
 <br>
 
-{{< rede ancho="24px" alto="24px" cor="si" tipo="twitter" titulo="Twitter" ligazon="Fansubgalego" >}}
+{{< rede cor="si" tipo="twitter" titulo="Twitter" ligazon="Fansubgalego" >}}
 
 <br>
 

@@ -54,6 +54,14 @@ eqt-tipos: [
     'filme debuxo',
 ]
 
+eqt-paises: [
+    'xapón',
+]
+
+eqt-linguas: [
+    'xaponés',
+]
+
 eqt-subtituladores: [
     'Fansubgalego',
 ]

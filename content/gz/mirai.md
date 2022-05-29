@@ -51,7 +51,11 @@ eqt-tipos: [
 ]
 
 eqt-paises: [
-    'xapon',
+    'xapón',
+]
+
+eqt-linguas: [
+    'xaponés',
 ]
 
 eqt-subtituladores: [

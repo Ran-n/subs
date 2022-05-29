@@ -81,11 +81,11 @@ eqt-certificacions: [
 ]
 
 eqt-paises: [
-    'xapon',
+    'xapón',
 ]
 
 eqt-linguas: [
-    'xapones',
+    'xaponés',
 ]
 
 eqt-autores: [

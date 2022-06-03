@@ -16,7 +16,7 @@ math: false
 ga: true
 disqus: true
 
-url: '/x/netflix/'
+url: '/x/Netflix/'
 slug: 'netflix'
 aliases: [
     '/gz/eqt-subtitulador/Netflix/',

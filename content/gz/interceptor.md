@@ -71,4 +71,4 @@ eqt-autores: [
 
 <br>
 
-{{< sub alto="50" titulo="Interceptor" ligazon="/sub/filme/interceptor.gz.srt" autor="Netflix" >}}
+{{< sub alto="50" titulo="Interceptor" ligazon="/sub/filme/interceptor.gz.srt" autor="netflix" >}}

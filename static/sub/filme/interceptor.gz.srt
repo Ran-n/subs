@@ -1,0 +1,4651 @@
+1
+00:00:29,375 --> 00:00:32,042
+<font color="white">NETFLIX PRESENTA</font>
+
+2
+00:00:40,667 --> 00:00:42,458
+<font color="white">ATENCIÓN</font>
+
+3
+00:00:42,542 --> 00:00:44,292
+<font color="white">ZONA RESTRINXIDA</font>
+
+4
+00:00:44,375 --> 00:00:48,042
+<font color="white">USO DA FORZA LETAL AUTORIZADO</font>
+
+5
+00:00:48,125 --> 00:00:50,583
+<i><font color="white">Mayday, atácannos!</font></i>
+
+6
+00:00:50,667 --> 00:00:52,792
+<i><font color="white">Estannos a atacar os nosos.</font></i>
+
+7
+00:00:54,167 --> 00:00:56,833
+<i><font color="white">Empezaron a disparar. Eliminaron a todos.</font></i>
+
+8
+00:00:56,917 --> 00:00:59,792
+<i><font color="white">Por que o fan?</font></i>
+<i><font color="white">Están do noso lado. Que ocorre?</font></i>
+
+9
+00:01:00,542 --> 00:01:04,667
+<font color="white">SE RUSIA LANZASE UN MÍSIL NUCLEAR,</font>
+<font color="white">ESTE TARDARÍA 24 MINUTOS</font>
+
+10
+00:01:04,750 --> 00:01:08,375
+<font color="white">EN IMPACTAR CO SEU OBXECTIVO NOS EUA.</font>
+
+11
+00:01:09,500 --> 00:01:12,792
+<font color="white">SE ISTO PASASE, O EXÉRCITO TERÍA</font>
+<font color="white">A METADE DESE TEMPO,</font>
+
+12
+00:01:12,875 --> 00:01:14,958
+<font color="white">12 MINUTOS,</font>
+
+13
+00:01:15,042 --> 00:01:18,875
+<font color="white">PARA DESTRUÍR OS MÍSILES DURANTE O VOO.</font>
+
+14
+00:01:19,792 --> 00:01:21,042
+<i><font color="white">Cantos son?</font></i>
+
+15
+00:01:21,125 --> 00:01:23,750
+<i><font color="white">Un monte deles. Van ao centro de comando.</font></i>
+
+16
+00:01:23,833 --> 00:01:26,167
+<i><font color="white">Van eliminar os interceptores.</font></i>
+
+17
+00:01:26,250 --> 00:01:29,083
+<font color="white">OS EUA TEÑEN SÓ</font>
+<font color="white">DÚAS ESTACIÓNS DE ALERTA PRECOZ</font>
+
+18
+00:01:29,167 --> 00:01:32,375
+<font color="white">CAPACES DE DETECTAR</font>
+<font color="white">E DERRIBAR MÍSILES NUCLEARES.</font>
+
+19
+00:01:32,458 --> 00:01:36,625
+<font color="white">UNHA ESTÁ EN ALASKA, EN FORT GREELY.</font>
+
+20
+00:01:40,417 --> 00:01:42,542
+<i><font color="white">Mátannos. Están a matar a todos!</font></i>
+
+21
+00:01:42,625 --> 00:01:45,167
+<i><font color="white">Xa chegaron. Non podo retelos!</font></i>
+
+22
+00:01:45,250 --> 00:01:47,625
+<i><font color="white">Que alguén nos axude! Enviade reforzos!</font></i>
+
+23
+00:01:50,500 --> 00:01:52,000
+<i><font color="white">Temos que chamar a SBX-1.</font></i>
+
+24
+00:01:52,083 --> 00:01:54,208
+<i><font color="white">Imposíbel! Destruíron o transmisor!</font></i>
+
+25
+00:01:54,292 --> 00:01:57,792
+<i><font color="white">Aquí Fort Greely. Derrotáronnos.</font></i>
+<i><font color="white">Fort Greely…</font></i>
+
+26
+00:02:01,083 --> 00:02:06,417
+<font color="white">A OUTRA É SBX-1,</font>
+<font color="white">UNHA PLATAFORMA MARÍTIMA.</font>
+
+27
+00:02:15,083 --> 00:02:18,875
+<font color="white">SON AS BASES INTERCEPTORAS DOS EUA.</font>
+
+28
+00:02:27,458 --> 00:02:32,250
+<font color="white">OCÉANO PACÍFICO</font>
+<font color="white">1500 MILLAS AO NOROESTE DE HAWAI</font>
+
+29
+00:02:32,333 --> 00:02:35,917
+<font color="white">LOCALIZACIÓN EXACTA: CLASIFICADA</font>
+
+30
+00:02:42,042 --> 00:02:44,167
+<i><font color="white">Estamos a chegar a SBX-1, capitá.</font></i>
+
+31
+00:02:56,750 --> 00:02:58,792
+<i><font color="white">SBX-1, aquí Aguia 6-7.</font></i>
+
+32
+00:02:58,875 --> 00:03:01,375
+<i><font color="white">Traio a nova experta</font></i>
+<i><font color="white">no sistema de mísiles.</font></i>
+
+33
+00:03:01,458 --> 00:03:03,708
+<i><font color="white">Permiso para iniciar a aproximación.</font></i>
+
+34
+00:03:03,792 --> 00:03:07,083
+<i><font color="white">Aguia 6-7, aquí SBX-1.</font></i>
+<i><font color="white">Ten permiso para aterrar.</font></i>
+
+35
+00:03:07,167 --> 00:03:08,958
+<i><font color="white">Benvidos ao medio da nada.</font></i>
+
+36
+00:03:49,292 --> 00:03:51,625
+<font color="white">Capitá Collins, son Ensign Washington.</font>
+
+37
+00:03:52,750 --> 00:03:54,792
+<font color="white">Benvida a SBX-1.</font>
+
+38
+00:03:55,333 --> 00:03:57,333
+<font color="white">Benvida de novo, en realidade.</font>
+
+39
+00:03:57,417 --> 00:03:58,458
+<font color="white">Grazas.</font>
+
+40
+00:03:58,542 --> 00:04:00,000
+<font color="white">O coronel espéraa.</font>
+
+41
+00:04:01,042 --> 00:04:04,875
+<font color="white">Seica se criou en España</font>
+<font color="white">na base onde estaba destinado o seu pai.</font>
+
+42
+00:04:07,667 --> 00:04:08,750
+<font color="white">Adiante.</font>
+
+43
+00:04:14,958 --> 00:04:16,667
+<font color="white">Capitá Collins ás súas ordes.</font>
+
+44
+00:04:18,875 --> 00:04:19,750
+<font color="white">Descanse.</font>
+
+45
+00:04:21,083 --> 00:04:23,000
+<font color="white">Alégrome de verte de novo, J. J.</font>
+
+46
+00:04:23,958 --> 00:04:25,375
+<font color="white">Lembras o capitán Welsh?</font>
+
+47
+00:04:26,125 --> 00:04:29,000
+<font color="white">Si, señor. Tomou o mando cando rotei.</font>
+
+48
+00:04:29,083 --> 00:04:30,417
+<font color="white">No será cando escapou?</font>
+
+49
+00:04:32,083 --> 00:04:33,292
+<font color="white">Escoita isto.</font>
+
+50
+00:04:36,125 --> 00:04:38,708
+<font color="white">- Podes deixarnos un momento, Lou?</font>
+<font color="white">- Abofé.</font>
+
+51
+00:04:39,458 --> 00:04:41,875
+<font color="white">A ver se hai novas do submarino ruso.</font>
+
+52
+00:04:46,333 --> 00:04:48,833
+<font color="white">Como ves,</font>
+
+53
+00:04:49,333 --> 00:04:51,542
+<font color="white">todo está como o deixaches.</font>
+
+54
+00:04:51,625 --> 00:04:54,250
+<font color="white">A mariña leva o barco,</font>
+<font color="white">o exercito os mísiles</font>
+
+55
+00:04:54,333 --> 00:04:56,250
+<font color="white">e ninguén quere estar aquí.</font>
+
+56
+00:04:56,333 --> 00:04:57,667
+<font color="white">Falou coa comisión?</font>
+
+57
+00:04:57,750 --> 00:04:58,833
+<font color="white">Tres veces.</font>
+
+58
+00:04:58,917 --> 00:05:00,875
+<font color="white">Mostroulle os meus informes?</font>
+
+59
+00:05:00,958 --> 00:05:01,958
+<font color="white">Todos.</font>
+
+60
+00:05:02,042 --> 00:05:03,458
+<font color="white">E xa está?</font>
+
+61
+00:05:07,500 --> 00:05:08,500
+<font color="white">Síntoo.</font>
+
+62
+00:05:09,000 --> 00:05:10,542
+<font color="white">Non pasa nada.</font>
+
+63
+00:05:11,500 --> 00:05:13,542
+<font color="white">Pensei que acabara con esta merda.</font>
+
+64
+00:05:13,625 --> 00:05:14,667
+<font color="white">Xa o sei.</font>
+
+65
+00:05:15,917 --> 00:05:17,667
+<font color="white">Nunca vai cambiar, verdade?</font>
+
+66
+00:05:21,083 --> 00:05:23,042
+<font color="white">Grazas por aceptarme de novo.</font>
+
+67
+00:05:23,125 --> 00:05:26,167
+<font color="white">Que o saibas: eu crinte desde o principio.</font>
+
+68
+00:05:30,875 --> 00:05:32,583
+<font color="white">Aquí abaixo estará ben.</font>
+
+69
+00:05:32,667 --> 00:05:34,917
+<font color="white">Un dos rapaces rouboulle o cuarto.</font>
+
+70
+00:05:35,000 --> 00:05:36,375
+<font color="white">Síntollo.</font>
+
+71
+00:05:49,292 --> 00:05:51,000
+<font color="white">Ah, señora?</font>
+
+72
+00:05:51,958 --> 00:05:53,000
+<font color="white">So quería dicir</font>
+
+73
+00:05:53,083 --> 00:05:56,250
+<font color="white">que todas as mozas</font>
+<font color="white">estamos orgullosas de vostede.</font>
+
+74
+00:05:57,250 --> 00:06:01,750
+<font color="white">O que lle pasou foi…</font>
+
+75
+00:06:01,833 --> 00:06:03,875
+<font color="white">Pasounos a moitas de nós.</font>
+
+76
+00:06:03,958 --> 00:06:06,708
+<font color="white">Só quería que o soubese.</font>
+
+77
+00:06:19,708 --> 00:06:23,458
+<font color="white">RECOMPENSA</font>
+
+78
+00:07:03,125 --> 00:07:04,333
+<font color="white">TI PODES!</font>
+
+79
+00:07:04,417 --> 00:07:07,375
+<font color="white">BOA SORTE, J. J.! CON CARIÑO, PAPÁ</font>
+
+80
+00:07:13,875 --> 00:07:16,917
+<font color="white">Ao centro de comando</font>
+<font color="white">coa arma secundaria. Xa.</font>
+
+81
+00:07:30,542 --> 00:07:33,250
+<font color="white">Hai un tirador activo en Fort Greely.</font>
+
+82
+00:07:33,333 --> 00:07:34,208
+<font color="white">De fóra?</font>
+
+83
+00:07:34,292 --> 00:07:36,667
+<font color="white">Non, dos nosos, parece que máis dun.</font>
+
+84
+00:07:37,375 --> 00:07:38,875
+<font color="white">Interceptores a salvo?</font>
+
+85
+00:07:38,958 --> 00:07:39,958
+<font color="white">Descoñécese.</font>
+
+86
+00:07:41,583 --> 00:07:42,750
+<font color="white">Como é de grave?</font>
+
+87
+00:07:43,333 --> 00:07:45,292
+<font color="white">Cortáronse as comunicacións.</font>
+
+88
+00:07:45,375 --> 00:07:47,708
+<font color="white">Estamos informándonos por Twitter.</font>
+
+89
+00:07:59,958 --> 00:08:01,917
+<font color="white">Contactamos con Fort Greely?</font>
+
+90
+00:08:02,000 --> 00:08:03,167
+<font color="white">Aínda non, señor.</font>
+
+91
+00:08:04,125 --> 00:08:05,542
+<font color="white">Xa sabes que facer.</font>
+
+92
+00:08:07,042 --> 00:08:08,417
+<font color="white">Son interferencias?</font>
+
+93
+00:08:08,500 --> 00:08:11,958
+<font color="white">Non, é coma se desactivaran</font>
+<font color="white">o sistema na orixe.</font>
+
+94
+00:08:12,042 --> 00:08:13,875
+<font color="white">Cabo Rahul Shah. Leva 6 meses.</font>
+
+95
+00:08:14,750 --> 00:08:15,708
+<font color="white">Capitá.</font>
+
+96
+00:08:15,792 --> 00:08:16,917
+<font color="white">Cabo.</font>
+
+97
+00:08:17,667 --> 00:08:19,083
+<font color="white">Lembras a Castor?</font>
+
+98
+00:08:19,625 --> 00:08:20,917
+<font color="white">Estrañáchesme?</font>
+
+99
+00:08:22,625 --> 00:08:23,875
+<font color="white">Nin un só día.</font>
+
+100
+00:08:24,458 --> 00:08:25,792
+<font color="white">Como vai o amigo ruso?</font>
+
+101
+00:08:26,542 --> 00:08:27,500
+<font color="white">Volveu.</font>
+
+102
+00:08:28,333 --> 00:08:31,542
+<font color="white">A 40 millas, flotando</font>
+<font color="white">coma un cagallón nunha piscina.</font>
+
+103
+00:08:31,625 --> 00:08:32,708
+<font color="white">Que amigo ruso?</font>
+
+104
+00:08:32,792 --> 00:08:35,292
+<font color="white">O submarino de ataque.</font>
+<font color="white">Leva meses axexando.</font>
+
+105
+00:08:35,375 --> 00:08:38,208
+<font color="white">Xa o escorrentamos, pero sempre volve.</font>
+
+106
+00:08:38,292 --> 00:08:40,167
+<font color="white">Que carallo pasa aí arriba?</font>
+
+107
+00:08:43,583 --> 00:08:46,125
+<font color="white">Sigue adiante o de hoxe á noite?</font>
+
+108
+00:08:46,792 --> 00:08:47,875
+<font color="white">Tío, que dis?</font>
+
+109
+00:08:47,958 --> 00:08:50,917
+<font color="white">O póker. Hei desplumar</font>
+<font color="white">os da limpeza outra vez.</font>
+
+110
+00:08:51,000 --> 00:08:53,125
+<font color="white">- Agora non, Castor.</font>
+<font color="white">- Que tes?</font>
+
+111
+00:08:53,208 --> 00:08:54,542
+<font color="white">Temos unha emerxencia.</font>
+
+112
+00:08:54,625 --> 00:08:56,708
+<font color="white">Meu, isto non é unha emerxencia,</font>
+
+113
+00:08:56,792 --> 00:08:58,667
+<font color="white">é só un tolainas rancoroso.</font>
+
+114
+00:09:00,875 --> 00:09:02,500
+<font color="white">Invitaríaa, señora,</font>
+
+115
+00:09:02,583 --> 00:09:05,417
+<font color="white">pero igual lle ofenden</font>
+<font color="white">as nosas charlas de homes.</font>
+
+116
+00:09:09,042 --> 00:09:12,375
+<font color="white">Estiven practicando</font>
+<font color="white">contra os mellores xogadores do mundo</font>
+
+117
+00:09:12,458 --> 00:09:13,792
+<font color="white">co meu colega verde.</font>
+
+118
+00:09:13,875 --> 00:09:16,667
+<font color="white">Ten máis potencia que toda esta sala.</font>
+
+119
+00:09:17,792 --> 00:09:20,167
+<font color="white">Unha historia apaixonante, Castor.</font>
+
+120
+00:09:20,250 --> 00:09:22,708
+<font color="white">En que capítulo é que calas a puta boca?</font>
+
+121
+00:09:24,125 --> 00:09:25,708
+<font color="white">Recibido, STRATCOM.</font>
+
+122
+00:09:26,250 --> 00:09:29,958
+<font color="white">Señor, a SBX-1 asignóuselle o estado</font>
+<font color="white">de alerta precoz principal</font>
+
+123
+00:09:30,042 --> 00:09:31,500
+<font color="white">até que Greely responda.</font>
+
+124
+00:09:31,583 --> 00:09:34,792
+<font color="white">Neste momento</font>
+<font color="white">somos a única plataforma interceptora</font>
+
+125
+00:09:34,875 --> 00:09:37,667
+<font color="white">que protexe os EUA dun ataque</font>
+<font color="white">cun mísil nuclear.</font>
+
+126
+00:09:37,750 --> 00:09:40,667
+<font color="white">Nada de parvadas</font>
+<font color="white">e centrádevos no traballo.</font>
+
+127
+00:09:40,750 --> 00:09:43,917
+<font color="white">Señor, seguro que non é</font>
+<font color="white">un simulacro ou unha proba?</font>
+
+128
+00:09:44,000 --> 00:09:44,875
+<font color="white">Cala.</font>
+
+129
+00:09:46,125 --> 00:09:48,125
+<font color="white">A NSA pásanos conversas de Rusia.</font>
+
+130
+00:09:48,208 --> 00:09:52,750
+<font color="white">A base de mísiles intercontinentais</font>
+<font color="white">de Tavlinka alertou ao Kremlin.</font>
+
+131
+00:09:52,833 --> 00:09:55,167
+<font color="white">Tavlinka sofre un ataque hostil.</font>
+
+132
+00:09:55,250 --> 00:09:56,792
+<font color="white">Múltiples baixas.</font>
+
+133
+00:09:57,958 --> 00:10:00,000
+<font color="white">Unha extracción non autorizada.</font>
+
+134
+00:10:01,500 --> 00:10:02,708
+<font color="white">Non pode ser.</font>
+
+135
+00:10:02,792 --> 00:10:06,167
+<font color="white">Faltan 16 mísiles móbiles Topol-M.</font>
+
+136
+00:10:06,250 --> 00:10:08,917
+<font color="white">Di que alguén roubou 16 mísiles?</font>
+
+137
+00:10:09,000 --> 00:10:11,583
+<font color="white">Eu non, os rusos.</font>
+
+138
+00:10:11,667 --> 00:10:12,875
+<font color="white">Primeiro o de Greely</font>
+
+139
+00:10:12,958 --> 00:10:15,708
+<font color="white">e minutos despois</font>
+<font color="white">desaparecen mísiles rusos?</font>
+
+140
+00:10:15,792 --> 00:10:18,833
+<font color="white">O de Greely é real,</font>
+<font color="white">pero isto debe ser un exercicio.</font>
+
+141
+00:10:18,917 --> 00:10:21,792
+<font color="white">Se fose real,</font>
+<font color="white">xa nos chamarían do Pentágono.</font>
+
+142
+00:10:29,208 --> 00:10:30,500
+<font color="white">SBX-1.</font>
+
+143
+00:10:31,750 --> 00:10:32,750
+<font color="white">Si, señor.</font>
+
+144
+00:10:32,833 --> 00:10:34,292
+<font color="white">Estámolo, señor.</font>
+
+145
+00:10:36,708 --> 00:10:38,042
+<font color="white">Chegou agora, señor.</font>
+
+146
+00:10:39,333 --> 00:10:40,458
+<font color="white">Farémolo, señor</font>
+
+147
+00:10:45,583 --> 00:10:52,250
+<font color="white">Temos 16 mísiles apuntando</font>
+<font color="white">a 16 cidades dos EUA.</font>
+
+148
+00:10:53,667 --> 00:10:58,083
+<font color="white">Despois deste día,</font>
+<font color="white">os EUA deixarán de existir.</font>
+
+149
+00:10:58,708 --> 00:10:59,750
+<font color="white">Vállame Deus.</font>
+
+150
+00:11:01,542 --> 00:11:03,542
+<font color="white">Como se rouban mísiles nucleares?</font>
+
+151
+00:11:04,125 --> 00:11:06,750
+<font color="white">Tivo que ser alguén de dentro.</font>
+<font color="white">Un non pode…</font>
+
+152
+00:11:06,833 --> 00:11:08,333
+<font color="white">Tanto ten como o fixeron.</font>
+
+153
+00:11:08,417 --> 00:11:10,375
+<font color="white">O que importa é que son móbiles.</font>
+
+154
+00:11:10,458 --> 00:11:12,083
+<font color="white">Poden agochalos facilmente.</font>
+
+155
+00:11:12,167 --> 00:11:14,125
+<font color="white">Non os detectaremos até que voen.</font>
+
+156
+00:11:14,208 --> 00:11:15,042
+<font color="white">Capitá.</font>
+
+157
+00:11:22,000 --> 00:11:23,042
+<font color="white">J. J.</font>
+
+158
+00:11:24,958 --> 00:11:26,708
+<font color="white">Agora todo depende de nós.</font>
+
+159
+00:11:26,792 --> 00:11:27,750
+<font color="white">Si, señor.</font>
+
+160
+00:11:27,833 --> 00:11:30,583
+<font color="white">Somos os únicos</font>
+<font color="white">que poden evitar o </font><i><font color="white">armageddon</font></i><font color="white">.</font>
+
+161
+00:11:31,292 --> 00:11:32,375
+<font color="white">Estás lista?</font>
+
+162
+00:11:32,458 --> 00:11:33,958
+<font color="white">Non tema por min, señor.</font>
+
+163
+00:11:34,833 --> 00:11:37,292
+<font color="white">Perdoa, tiña que preguntar.</font>
+
+164
+00:11:37,375 --> 00:11:39,083
+<font color="white">Iniciarei o confinamento.</font>
+
+165
+00:11:39,167 --> 00:11:40,125
+<font color="white">Faino.</font>
+
+166
+00:11:40,667 --> 00:11:43,333
+<font color="white">Buscarei a Welsh para asegurar os códigos.</font>
+
+167
+00:11:44,875 --> 00:11:47,708
+<font color="white">Señor, agarde.</font>
+
+168
+00:11:48,958 --> 00:11:50,875
+<font color="white">Se tiñan xente en Tavlinka</font>
+
+169
+00:11:50,958 --> 00:11:53,000
+<font color="white">e os de Greely eran dos nosos,</font>
+
+170
+00:11:53,792 --> 00:11:57,250
+<font color="white">pode que tamén haxa</font>
+<font color="white">algún infiltrado… aquí.</font>
+
+171
+00:11:58,792 --> 00:11:59,750
+<font color="white">Vamos.</font>
+
+172
+00:12:18,708 --> 00:12:19,667
+<font color="white">A tarxeta!</font>
+
+173
+00:12:21,375 --> 00:12:23,125
+<font color="white">A tarxeta! Collede a tarxeta!</font>
+
+174
+00:13:12,042 --> 00:13:14,958
+<font color="white">Mikael, a porta! Abre a porta!</font>
+
+175
+00:13:32,250 --> 00:13:33,958
+<font color="white">Carallo, si que es mangallón.</font>
+
+176
+00:14:21,375 --> 00:14:23,750
+<font color="white">ÁCIDO SULFÚRICO</font>
+
+177
+00:15:20,500 --> 00:15:21,708
+<font color="white">Mandaches o SOS?</font>
+
+178
+00:15:21,792 --> 00:15:24,083
+<font color="white">Cravoulle ao fulano a arma nun ollo?</font>
+
+179
+00:15:24,167 --> 00:15:25,542
+<font color="white">Ti mandaches o SOS?</font>
+
+180
+00:15:25,625 --> 00:15:28,375
+<font color="white">Si, dixéronme que nos mantivésemos firmes.</font>
+
+181
+00:15:32,667 --> 00:15:33,750
+<font color="white">Como está Castor?</font>
+
+182
+00:15:34,333 --> 00:15:37,750
+<font color="white">Déronlle. Está inconsciente,</font>
+<font color="white">pero hase recuperar.</font>
+
+183
+00:15:43,000 --> 00:15:44,417
+<font color="white">ESCUMA</font>
+
+184
+00:15:51,208 --> 00:15:52,625
+<font color="white">Iso é ácido?</font>
+
+185
+00:15:54,667 --> 00:15:56,542
+<font color="white">Para que traerían ácido?</font>
+
+186
+00:15:57,167 --> 00:15:58,833
+<font color="white">Para destruír os circuítos.</font>
+
+187
+00:16:00,458 --> 00:16:01,792
+<font color="white">Para inutilizarnos.</font>
+
+188
+00:16:02,708 --> 00:16:03,875
+<font color="white">Que imos facer?</font>
+
+189
+00:16:23,500 --> 00:16:25,292
+<font color="white">Queres falar?</font>
+
+190
+00:16:25,875 --> 00:16:27,750
+<font color="white">Marcha xa e igual sobrevives.</font>
+
+191
+00:16:29,250 --> 00:16:30,458
+<font color="white">Déixame entrar</font>
+
+192
+00:16:31,167 --> 00:16:33,000
+<font color="white">e igual sobrevives ti.</font>
+
+193
+00:16:36,792 --> 00:16:39,167
+<font color="white">Sodes os terroristas dos mísiles?</font>
+
+194
+00:16:40,292 --> 00:16:43,292
+<font color="white">Sería unha coincidencia da hostia</font>
+<font color="white">se non o fósemos.</font>
+
+195
+00:16:43,375 --> 00:16:44,625
+<font color="white">Ponlle un a Castor.</font>
+
+196
+00:16:46,500 --> 00:16:48,000
+<font color="white">E os tiradores de Greely?</font>
+
+197
+00:16:48,083 --> 00:16:49,375
+<font color="white">Unha subcontrata.</font>
+
+198
+00:16:50,500 --> 00:16:51,708
+<font color="white">Éche así a economía.</font>
+
+199
+00:16:51,792 --> 00:16:54,875
+<font color="white">Para traballar aquí</font>
+<font color="white">débense pasar controis rigorosos.</font>
+
+200
+00:16:54,958 --> 00:16:57,500
+<font color="white">Dimo a min, a burocracia éche un horror.</font>
+
+201
+00:17:00,625 --> 00:17:02,625
+<font color="white">Entón levas planeando isto…</font>
+
+202
+00:17:02,708 --> 00:17:04,667
+<font color="white">Moito tempo.</font>
+
+203
+00:17:07,000 --> 00:17:08,917
+<font color="white">Canto é moito tempo?</font>
+
+204
+00:17:10,333 --> 00:17:11,417
+<font color="white">Seis anos.</font>
+
+205
+00:17:14,750 --> 00:17:16,542
+<font color="white">Pois non che saíu moi ben.</font>
+
+206
+00:17:18,125 --> 00:17:21,625
+<font color="white">Ningún plan se mantén intacto</font>
+<font color="white">ao contactar co inimigo.</font>
+
+207
+00:17:21,708 --> 00:17:24,083
+<font color="white">Somos inimigos? Pareces estadounidense.</font>
+
+208
+00:17:24,167 --> 00:17:25,292
+<font color="white">Porque o son.</font>
+
+209
+00:17:25,375 --> 00:17:27,667
+<font color="white">E que sexamos ou non inimigos</font>
+
+210
+00:17:27,750 --> 00:17:29,625
+<font color="white">depende por completo de ti.</font>
+
+211
+00:17:29,708 --> 00:17:31,083
+<font color="white">Como te chamas?</font>
+
+212
+00:17:31,667 --> 00:17:33,500
+<font color="white">Chámome Alexander Kessel.</font>
+
+213
+00:17:34,125 --> 00:17:35,917
+<font color="white">Seica o tiña que saber?</font>
+
+214
+00:17:36,000 --> 00:17:39,875
+<font color="white">Ben, agora que o sabes</font>
+<font color="white">non o has esquecer xamais.</font>
+
+215
+00:17:39,958 --> 00:17:42,333
+<font color="white">Que tal se che chamo "mamón"?</font>
+
+216
+00:17:44,125 --> 00:17:48,167
+<font color="white">As mulleres non adoitan chegar</font>
+<font color="white">a esa conclusión até a segunda cita.</font>
+
+217
+00:17:48,250 --> 00:17:50,042
+<font color="white">Eu sonche diferente.</font>
+
+218
+00:17:51,458 --> 00:17:53,417
+<font color="white">Xa me estou decatando.</font>
+
+219
+00:18:02,000 --> 00:18:05,875
+<font color="white">Capitá, parece que estamos</font>
+<font color="white">nun punto morto.</font>
+
+220
+00:18:06,667 --> 00:18:08,917
+<font color="white">Debo incapacitar o centro de comando</font>
+
+221
+00:18:09,000 --> 00:18:11,125
+<font color="white">para que os rusos lancen os mísiles.</font>
+
+222
+00:18:12,083 --> 00:18:13,833
+<font color="white">E ti debes impedirme entrar.</font>
+
+223
+00:18:13,917 --> 00:18:15,250
+<font color="white">Para serche franco,</font>
+
+224
+00:18:16,125 --> 00:18:19,125
+<font color="white">xa contiven ou matei</font>
+<font color="white">o resto de tripulantes,</font>
+
+225
+00:18:19,208 --> 00:18:21,167
+<font color="white">así que vou entrar nesa sala.</font>
+
+226
+00:18:22,083 --> 00:18:23,792
+<font color="white">Se me deixas pasar agora,</font>
+
+227
+00:18:23,875 --> 00:18:25,333
+<font color="white">perdoareivos a vida.</font>
+
+228
+00:18:25,875 --> 00:18:27,792
+<font color="white">Morrerán milleiros de persoas.</font>
+
+229
+00:18:28,833 --> 00:18:31,500
+<font color="white">Sabes por que se alista un no exército?</font>
+
+230
+00:18:36,958 --> 00:18:39,042
+<font color="white">Estades sós no medio do océano,</font>
+
+231
+00:18:39,667 --> 00:18:41,292
+<font color="white">moi lonxe de calquera porto</font>
+
+232
+00:18:41,375 --> 00:18:43,958
+<font color="white">e da vía marítima máis próxima.</font>
+
+233
+00:18:44,042 --> 00:18:47,292
+<font color="white">Ninguén será quen de chegar e salvarvos</font>
+
+234
+00:18:47,375 --> 00:18:49,208
+<font color="white">antes de que corte as portas.</font>
+
+235
+00:18:50,708 --> 00:18:53,250
+<font color="white">Shah, os da limpeza cantos son?</font>
+
+236
+00:18:53,333 --> 00:18:55,125
+<font color="white">Non sei. Seis, sete?</font>
+
+237
+00:18:55,208 --> 00:18:56,417
+<font color="white">Seis ou sete?</font>
+
+238
+00:18:56,500 --> 00:18:58,250
+<font color="white">Non sei, eu non os contratei.</font>
+
+239
+00:19:04,042 --> 00:19:05,208
+<font color="white">Isto é grande.</font>
+
+240
+00:19:05,292 --> 00:19:07,417
+<font color="white">Non puideches matalos tan rápido.</font>
+
+241
+00:19:07,500 --> 00:19:08,375
+<font color="white">Gas nervioso.</font>
+
+242
+00:19:09,958 --> 00:19:12,500
+<font color="white">Polo conduto do aire. Quedaron durmidiños.</font>
+
+243
+00:19:13,125 --> 00:19:14,083
+<font color="white">Mentes.</font>
+
+244
+00:19:14,167 --> 00:19:16,375
+<font color="white">Por se te anima, non sentiron nada.</font>
+
+245
+00:19:16,875 --> 00:19:18,708
+<font color="white">Disparamos para asegurarnos.</font>
+
+246
+00:19:25,167 --> 00:19:26,292
+<font color="white">Tranquilos.</font>
+
+247
+00:19:26,375 --> 00:19:28,792
+<font color="white">O centro de comando ten condutos de seu.</font>
+
+248
+00:19:28,875 --> 00:19:29,958
+<font color="white">E non tes acceso.</font>
+
+249
+00:19:30,042 --> 00:19:33,125
+<font color="white">Se o tivese, non teriamos</font>
+<font color="white">esta pequena conversa.</font>
+
+250
+00:19:36,333 --> 00:19:39,333
+<font color="white">CHAMADA PRIORITARIA</font>
+<font color="white">SALA DE CRISE DA CASA BRANCA</font>
+
+251
+00:19:47,542 --> 00:19:49,917
+<font color="white">- SBX-1. Fala a capitá Collins.</font>
+<font color="white">- </font><i><font color="white">É real?</font></i>
+
+252
+00:19:50,000 --> 00:19:52,958
+<font color="white">- </font><i><font color="white">Xeneral Dyson. E o coronel Marshall?</font></i>
+<i><font color="white">- Silencio.</font></i>
+
+253
+00:19:53,042 --> 00:19:54,083
+<font color="white">Morto, señor.</font>
+
+254
+00:19:54,167 --> 00:19:55,792
+<i><font color="white">Morto? Que pasou?</font></i>
+
+255
+00:19:55,875 --> 00:19:58,917
+<font color="white">Seis ou sete terroristas</font>
+<font color="white">tomaron a plataforma.</font>
+
+256
+00:19:59,917 --> 00:20:01,083
+<font color="white">Mataron a Marshall,</font>
+
+257
+00:20:01,167 --> 00:20:02,667
+<font color="white">din que a tripulación,</font>
+
+258
+00:20:02,750 --> 00:20:04,250
+<font color="white">tentaron tomar o control.</font>
+
+259
+00:20:04,333 --> 00:20:05,208
+<i><font color="white">Tentaron?</font></i>
+
+260
+00:20:05,292 --> 00:20:06,542
+<font color="white">Sen éxito.</font>
+
+261
+00:20:06,625 --> 00:20:07,792
+<i><font color="white">Con quen está?</font></i>
+
+262
+00:20:09,375 --> 00:20:10,875
+<font color="white">Cos cabos Shah e Baker.</font>
+
+263
+00:20:11,375 --> 00:20:13,667
+<font color="white">Baker está inconsciente. Déronlle.</font>
+
+264
+00:20:13,750 --> 00:20:14,917
+<i><font color="white">Están seguros?</font></i>
+
+265
+00:20:15,000 --> 00:20:17,708
+<font color="white">Están cortando</font>
+<font color="white">a porta exterior con sopretes.</font>
+
+266
+00:20:19,667 --> 00:20:20,958
+<font color="white">Estimación…</font>
+
+267
+00:20:26,583 --> 00:20:27,917
+<font color="white">Sesenta minutos.</font>
+
+268
+00:20:31,292 --> 00:20:33,083
+<font color="white">Máis ben 30 minutos.</font>
+
+269
+00:20:36,292 --> 00:20:37,292
+<i><font color="white">E a interior?</font></i>
+
+270
+00:20:37,375 --> 00:20:38,750
+<font color="white">O mesmo, non sei.</font>
+
+271
+00:20:38,833 --> 00:20:40,875
+<i><font color="white">Que sabe deses terroristas?</font></i>
+
+272
+00:20:40,958 --> 00:20:43,875
+<font color="white">Estadounidenses. O líder</font>
+<font color="white">di ser Alexander Kessel.</font>
+
+273
+00:20:43,958 --> 00:20:47,708
+<i><font color="white">Consulte os antecedentes</font></i>
+<i><font color="white">dese tipo. Que máis?</font></i>
+
+274
+00:20:47,792 --> 00:20:49,708
+<font color="white">Parecen estar ben adestrados</font>
+
+275
+00:20:49,792 --> 00:20:51,292
+<font color="white">e empregan gas nervioso.</font>
+
+276
+00:20:51,375 --> 00:20:53,042
+<font color="white">E os tiradores de Greely?</font>
+
+277
+00:20:53,125 --> 00:20:54,042
+<i><font color="white">Están mortos.</font></i>
+
+278
+00:20:54,125 --> 00:20:57,125
+<i><font color="white">Igual que os computadores</font></i>
+<i><font color="white">dos interceptores.</font></i>
+
+279
+00:20:57,208 --> 00:20:58,958
+<i><font color="white">Queimáronos todos con ácido.</font></i>
+
+280
+00:20:59,708 --> 00:21:00,833
+<font color="white">Estamos sós, logo.</font>
+
+281
+00:21:00,917 --> 00:21:02,083
+<i><font color="white">Iso me temo.</font></i>
+
+282
+00:21:02,667 --> 00:21:04,208
+<i><font color="white">Enviamos un equipo SEAL.</font></i>
+
+283
+00:21:04,292 --> 00:21:06,000
+<i><font color="white">Resistan un pouco máis.</font></i>
+
+284
+00:21:06,083 --> 00:21:07,208
+<font color="white">- Canto?</font>
+<i><font color="white">- 90 min.</font></i>
+
+285
+00:21:07,292 --> 00:21:08,625
+<font color="white">Están de broma?</font>
+
+286
+00:21:08,708 --> 00:21:10,458
+<i><font color="white">Non, non estamos de broma.</font></i>
+
+287
+00:21:10,958 --> 00:21:12,000
+<font color="white">Presidenta.</font>
+
+288
+00:21:12,625 --> 00:21:15,542
+<i><font color="white">Os terroristas</font></i>
+<i><font color="white">teñen 16 lanzamísiles móbiles</font></i><font color="white">.</font>
+
+289
+00:21:15,625 --> 00:21:17,833
+<i><font color="white">Nin nós nin os rusos os atopamos.</font></i>
+
+290
+00:21:17,917 --> 00:21:20,042
+<i><font color="white">Se aínda non os lanzaron</font></i>
+
+291
+00:21:20,125 --> 00:21:23,292
+<i><font color="white">é porque vostedes</font></i>
+<i><font color="white">aínda controlan os interceptores.</font></i>
+
+292
+00:21:23,375 --> 00:21:25,000
+<i><font color="white">No momento en que non,</font></i>
+
+293
+00:21:25,083 --> 00:21:28,333
+<i><font color="white">lanzarán eses mísiles</font></i>
+<i><font color="white">en dirección aos Estados Unidos.</font></i>
+
+294
+00:21:28,417 --> 00:21:31,792
+<i><font color="white">Non temos tempo de evacuar 16 cidades.</font></i>
+
+295
+00:21:31,875 --> 00:21:35,708
+<i><font color="white">Precisamos que manteñan</font></i>
+<i><font color="white">eses fanáticos fóra da sala.</font></i>
+
+296
+00:21:35,792 --> 00:21:37,708
+<font color="white">Entendido, presidenta.</font>
+
+297
+00:21:37,792 --> 00:21:40,458
+<i><font color="white">Volveremos chamar. Mantéñannos informados.</font></i>
+
+298
+00:21:40,542 --> 00:21:41,500
+<font color="white">Si, señor.</font>
+
+299
+00:21:41,583 --> 00:21:44,333
+<i><font color="white">Capitá, protexa esa sala.</font></i>
+
+300
+00:21:44,417 --> 00:21:45,917
+<font color="white">Rápido! Movédevos!</font>
+
+301
+00:21:47,208 --> 00:21:50,875
+<i><font color="white">Equipo SEAL, poden saír</font></i>
+<i><font color="white">de inmediato en dirección a SBX-1.</font></i>
+
+302
+00:21:57,083 --> 00:22:00,167
+<font color="white">Noventa minutos?</font>
+<font color="white">Nin de broma imos aguantar tanto.</font>
+
+303
+00:22:00,250 --> 00:22:01,583
+<font color="white">Se non loitamos, non.</font>
+
+304
+00:22:02,875 --> 00:22:04,958
+<font color="white">O que? Non.</font>
+
+305
+00:22:05,042 --> 00:22:07,875
+<font color="white">Eu non loito. Son especialista en sinais.</font>
+
+306
+00:22:07,958 --> 00:22:11,000
+<font color="white">Sento nunha mesa</font>
+<font color="white">e miro para a pantalla. E gústame!</font>
+
+307
+00:22:11,083 --> 00:22:13,125
+<font color="white">Por que? Porque nunca pasa nada.</font>
+
+308
+00:22:13,208 --> 00:22:15,333
+<font color="white">Levo anos sen disparar unha arma.</font>
+
+309
+00:22:15,417 --> 00:22:17,667
+<font color="white">Tranquilo, seguen a funcionar igual.</font>
+
+310
+00:22:17,750 --> 00:22:21,375
+<font color="white">Mire, non pode contar comigo. Imposíbel.</font>
+
+311
+00:22:39,583 --> 00:22:40,958
+<font color="white">Réndeste?</font>
+
+312
+00:22:41,042 --> 00:22:42,292
+<i><font color="white">E ti?</font></i>
+
+313
+00:22:43,500 --> 00:22:46,042
+<font color="white">Sigo a gozar fodéndoche o día.</font>
+
+314
+00:22:47,250 --> 00:22:49,583
+<font color="white">Sabes algo da caída de Roma?</font>
+
+315
+00:22:50,542 --> 00:22:52,958
+<font color="white">Reunidos ás portas da cidade, os bárbaros</font>
+
+316
+00:22:53,042 --> 00:22:57,208
+<font color="white">fixeron cousas terríbeis para obrigar</font>
+<font color="white">os romanos a deixalos pasar.</font>
+
+317
+00:22:57,292 --> 00:22:59,417
+<i><font color="white">Exitus actum probat.</font></i>
+
+318
+00:23:00,792 --> 00:23:03,542
+<font color="white">"O fin xustifica os medios."</font>
+
+319
+00:23:06,917 --> 00:23:08,250
+<font color="white">Mira, o capitán Welsh.</font>
+
+320
+00:23:08,333 --> 00:23:10,750
+<font color="white">Ten catro fillos e sete netos.</font>
+
+321
+00:23:10,833 --> 00:23:12,458
+<font color="white">Isto non che vai funcionar.</font>
+
+322
+00:23:12,542 --> 00:23:13,667
+<font color="white">Abre as portas.</font>
+
+323
+00:23:15,958 --> 00:23:17,167
+<font color="white">Vaino deixar morrer?</font>
+
+324
+00:23:18,292 --> 00:23:19,583
+<font color="white">Non as vou abrir.</font>
+
+325
+00:23:19,667 --> 00:23:21,792
+<font color="white">Se non o fas, mátoo.</font>
+
+326
+00:23:21,875 --> 00:23:24,375
+<font color="white">Non vou abrir as portas.</font>
+
+327
+00:23:24,458 --> 00:23:26,042
+<font color="white">Última oportunidade.</font>
+
+328
+00:23:31,333 --> 00:23:32,208
+<font color="white">Non.</font>
+
+329
+00:23:48,042 --> 00:23:50,000
+<font color="white">Mata a quen queiras.</font>
+
+330
+00:23:50,542 --> 00:23:52,375
+<font color="white">Non vou abrir a porta xamais.</font>
+
+331
+00:24:11,958 --> 00:24:13,708
+<font color="white">Nós imos morrer tamén, non?</font>
+
+332
+00:24:13,792 --> 00:24:15,167
+<font color="white">Non imos morrer.</font>
+
+333
+00:24:15,250 --> 00:24:17,583
+<font color="white">Van entrar aquí e vannos matar.</font>
+
+334
+00:24:17,667 --> 00:24:19,958
+<font color="white">- Cabo.</font>
+<font color="white">- E non podemos facer nada.</font>
+
+335
+00:24:20,042 --> 00:24:23,167
+<font color="white">Cabo Shah, aínda non entraron,</font>
+
+336
+00:24:24,000 --> 00:24:27,333
+<font color="white">pero para que siga sendo así,</font>
+<font color="white">debes pensar con claridade.</font>
+
+337
+00:24:28,583 --> 00:24:30,583
+<font color="white">Temos unha misión, de acordo?</font>
+
+338
+00:24:30,667 --> 00:24:32,000
+<font color="white">De acordo.</font>
+
+339
+00:24:32,083 --> 00:24:35,583
+<font color="white">Volve ao teu posto e mantén</font>
+<font color="white">os nosos radares sobre Tavlinka.</font>
+
+340
+00:24:37,708 --> 00:24:38,958
+<font color="white">E se os lanzan?</font>
+
+341
+00:24:39,042 --> 00:24:40,292
+<font color="white">Interceptámolos.</font>
+
+342
+00:24:58,042 --> 00:25:01,417
+<font color="white">Descubramos todos os xeitos que hai</font>
+<font color="white">de entrar aquí.</font>
+
+343
+00:25:03,625 --> 00:25:06,042
+<font color="white">O túnel é a única vía directa.</font>
+
+344
+00:25:06,583 --> 00:25:10,375
+<font color="white">E indirectas? Algún conduto</font>
+<font color="white">ou tubaxe que non coñeza?</font>
+
+345
+00:25:11,125 --> 00:25:13,292
+<font color="white">O conduto de fontanaría no chan,</font>
+
+346
+00:25:13,375 --> 00:25:15,125
+<font color="white">pero non cabe ninguén por el.</font>
+
+347
+00:25:15,208 --> 00:25:16,458
+<font color="white">Igual cós dos cables.</font>
+
+348
+00:25:16,958 --> 00:25:19,292
+<font color="white">Que máis poderían facer? Pensa.</font>
+
+349
+00:25:19,917 --> 00:25:21,375
+<font color="white">Voar a cúpula do radar?</font>
+
+350
+00:25:22,500 --> 00:25:24,833
+<font color="white">Está máis reforzada mesmo ca esta sala.</font>
+
+351
+00:25:24,917 --> 00:25:26,583
+<font color="white">Igual cós interceptores.</font>
+
+352
+00:25:27,917 --> 00:25:30,458
+<font color="white">Amósame o que pasa fóra das trapelas.</font>
+
+353
+00:26:00,583 --> 00:26:02,083
+<font color="white">Colle a escopeta.</font>
+
+354
+00:26:18,833 --> 00:26:19,917
+<font color="white">Dispáralle!</font>
+
+355
+00:26:20,625 --> 00:26:21,958
+<font color="white">Axiña, dispara!</font>
+
+356
+00:26:59,958 --> 00:27:02,042
+<font color="white">Parece que era o único.</font>
+
+357
+00:27:04,542 --> 00:27:07,042
+<font color="white">Cando foi a última vez que probastes isto?</font>
+
+358
+00:27:07,125 --> 00:27:08,833
+<font color="white">Non sei. Aínda funciona?</font>
+
+359
+00:27:09,458 --> 00:27:11,208
+<font color="white">Non sen explotarche na cara.</font>
+
+360
+00:27:11,292 --> 00:27:13,667
+<font color="white">- E a súa pistola?</font>
+<font color="white">- Fóra.</font>
+
+361
+00:27:15,417 --> 00:27:16,833
+<font color="white">Así que non temos armas.</font>
+
+362
+00:27:24,958 --> 00:27:26,000
+<font color="white">Axúdame.</font>
+
+363
+00:27:29,000 --> 00:27:30,542
+<font color="white">Grazas, salvou a Turbo.</font>
+
+364
+00:27:31,042 --> 00:27:32,000
+<font color="white">A quen?</font>
+
+365
+00:27:32,500 --> 00:27:35,375
+<font color="white">Turbo, a tartaruga.</font>
+<font color="white">Déronma os meus fillos.</font>
+
+366
+00:27:36,208 --> 00:27:37,542
+<font color="white">Cantos fillos tes?</font>
+
+367
+00:27:38,208 --> 00:27:44,625
+<font color="white">Prisha, que ten nove anos,</font>
+<font color="white">Aditi, de sete, e Kalyan de tres.</font>
+
+368
+00:27:47,500 --> 00:27:49,292
+<font color="white">Levo seis meses sen velos.</font>
+
+369
+00:27:58,708 --> 00:28:02,875
+<font color="white">O mellor que podes facer por eles</font>
+<font color="white">e axudarme a parar eses mísiles.</font>
+
+370
+00:28:34,000 --> 00:28:35,125
+<font color="white">Ves algo?</font>
+
+371
+00:28:35,833 --> 00:28:37,083
+<font color="white">Mataron a todos.</font>
+
+372
+00:28:43,000 --> 00:28:45,500
+<font color="white">Vai seguir timbrando até que responda.</font>
+
+373
+00:28:47,333 --> 00:28:48,833
+<font color="white">Que queres agora?</font>
+
+374
+00:28:48,917 --> 00:28:50,583
+<font color="white">CALENDARIO SOLIDARIO</font>
+
+375
+00:28:53,583 --> 00:28:56,000
+<font color="white">Capitá, debería ver isto.</font>
+
+376
+00:29:07,083 --> 00:29:09,625
+<font color="white">Pensas que es o primeiro que mo ensina?</font>
+
+377
+00:29:09,708 --> 00:29:11,250
+<i><font color="white">Pensas que me vai afectar?</font></i>
+
+378
+00:29:11,792 --> 00:29:13,208
+<font color="white">Non.</font>
+
+379
+00:29:13,292 --> 00:29:14,833
+<font color="white">E si.</font>
+
+380
+00:29:14,917 --> 00:29:16,542
+<i><font color="white">Terás que te esforzar máis.</font></i>
+
+381
+00:29:17,375 --> 00:29:18,583
+<font color="white">Teño máis preparado.</font>
+
+382
+00:29:18,667 --> 00:29:21,042
+<font color="white">Non tal. Estás a dar voltas sen rumbo.</font>
+
+383
+00:29:21,125 --> 00:29:23,000
+<font color="white">- </font><i><font color="white">Ai, si?</font></i>
+<font color="white">- Estás desesperado.</font>
+
+384
+00:29:23,083 --> 00:29:24,333
+<font color="white">Por que o pensas?</font>
+
+385
+00:29:24,417 --> 00:29:25,750
+<font color="white">Ti es de planear.</font>
+
+386
+00:29:26,833 --> 00:29:28,292
+<font color="white">Seis anos, dixeches.</font>
+
+387
+00:29:28,958 --> 00:29:33,292
+<font color="white">Saltaches as medidas de seguridade,</font>
+<font color="white">subiches abordo a túa xente…</font>
+
+388
+00:29:33,375 --> 00:29:36,208
+<font color="white">Tiveches que rumialo todo unha e outra vez</font>
+
+389
+00:29:36,292 --> 00:29:40,375
+<font color="white">até estares seguro de que pensaras</font>
+<font color="white">en todos os resultados posíbeis.</font>
+
+390
+00:29:42,042 --> 00:29:43,667
+<font color="white">Pero non contabas comigo.</font>
+
+391
+00:29:46,542 --> 00:29:48,042
+<font color="white">Sabes por que o sei?</font>
+
+392
+00:29:49,875 --> 00:29:53,250
+<font color="white">Porque eu tiña que estar</font>
+<font color="white">no meu novo posto en Fort Hunter.</font>
+
+393
+00:29:53,333 --> 00:29:56,875
+<font color="white">Reasignáronme aquí</font>
+<font color="white">onte pola noite, xa tarde.</font>
+
+394
+00:29:57,375 --> 00:29:58,708
+<font color="white">E agora…</font>
+
+395
+00:30:06,208 --> 00:30:07,792
+<font color="white">Agora non me podes vencer.</font>
+
+396
+00:30:10,833 --> 00:30:12,542
+<i><font color="white">Admito que non te esperaba.</font></i>
+
+397
+00:30:14,458 --> 00:30:15,917
+<i><font color="white">Pero non es invencíbel.</font></i>
+
+398
+00:30:17,167 --> 00:30:18,875
+<i><font color="white">Vouche contar o que sei eu.</font></i>
+
+399
+00:30:18,958 --> 00:30:22,875
+<i><font color="white">Hai tres anos conseguiches</font></i>
+<i><font color="white">o traballo dos teus soños.</font></i>
+
+400
+00:30:22,958 --> 00:30:26,333
+<i><font color="white">No Pentágono cun xeneral de tres estrelas.</font></i>
+
+401
+00:30:26,417 --> 00:30:28,833
+<i><font color="white">Un heroe. As súas tropas adorábano.</font></i>
+
+402
+00:30:29,792 --> 00:30:32,125
+<i><font color="white">Íanlle facer unha estatua.</font></i>
+
+403
+00:30:32,750 --> 00:30:35,958
+<i><font color="white">Prometeu que te levaría ao máis alto,</font></i>
+
+404
+00:30:37,708 --> 00:30:39,917
+<i><font color="white">mais axiña descubriches a que prezo.</font></i>
+
+405
+00:30:42,917 --> 00:30:46,833
+<font color="white">A comisión revisora decidiu</font>
+<font color="white">que era todo un invento teu.</font>
+
+406
+00:30:47,458 --> 00:30:49,958
+<font color="white">Mandáronte de volta á boca do lobo.</font>
+
+407
+00:30:53,000 --> 00:30:55,958
+<i><font color="white">Sei que o xeneral te recibiu</font></i>
+<i><font color="white">cos brazos abertos.</font></i>
+
+408
+00:30:59,333 --> 00:31:04,125
+<i><font color="white">Porque os predadores</font></i>
+<i><font color="white">sempre queren demostrar quen manda.</font></i>
+
+409
+00:31:31,042 --> 00:31:33,292
+<font color="white">Pero a ese xeneral retirárono.</font>
+
+410
+00:31:33,375 --> 00:31:36,167
+<font color="white">Iso significa que o venceu. Gañoulle.</font>
+
+411
+00:31:36,250 --> 00:31:39,250
+<i><font color="white">Gañou a batalla, mais non a guerra.</font></i>
+
+412
+00:31:41,083 --> 00:31:42,542
+<i><font color="white">Chegaron os correos.</font></i>
+
+413
+00:31:42,625 --> 00:31:44,958
+<font color="white">MORRE PUTA MORRE PUTA</font>
+<font color="white">FÓRA DO EXÉRCITO!</font>
+
+414
+00:31:45,042 --> 00:31:46,542
+<font color="white">PORCA MENTIREIRA</font>
+<font color="white">TRAIDORA</font>
+
+415
+00:31:46,625 --> 00:31:48,542
+<i><font color="white">Logo, a recompensa polas fotos.</font></i>
+
+416
+00:31:48,625 --> 00:31:51,458
+<font color="white">ATOPEI ESTA FOTO DA CAPITÁ COLLINS!!!!</font>
+
+417
+00:31:52,417 --> 00:31:54,417
+<i><font color="white">Despois, as ameazas de morte.</font></i>
+
+418
+00:31:55,500 --> 00:31:59,750
+<font color="white">Todo iso desde dentro do exército</font>
+<font color="white">ao que serviches con tanto orgullo.</font>
+
+419
+00:32:00,417 --> 00:32:01,917
+<font color="white">E por último…</font>
+
+420
+00:32:03,958 --> 00:32:04,833
+<font color="white">…aquela noite.</font>
+
+421
+00:32:13,625 --> 00:32:19,917
+<font color="white">CAPITÁ PUTA</font>
+<font color="white">TRAIDORA, PENDANGA</font>
+
+422
+00:32:56,292 --> 00:32:58,667
+<font color="white">J. J.!</font>
+
+423
+00:33:06,708 --> 00:33:08,417
+<font color="white">Ai, meu Deus.</font>
+
+424
+00:33:09,208 --> 00:33:11,625
+<font color="white">Reacciona. Esperta, J. J.!</font>
+
+425
+00:33:12,208 --> 00:33:15,000
+<font color="white">Veña, esperta. Volve.</font>
+
+426
+00:33:15,083 --> 00:33:16,000
+<font color="white">Papá?</font>
+
+427
+00:33:16,083 --> 00:33:19,458
+<font color="white">Tranquila, papá está aquí.</font>
+<font color="white">Está ben, estou contigo.</font>
+
+428
+00:33:19,542 --> 00:33:21,417
+<font color="white">Papá, perdóame…</font>
+
+429
+00:33:36,208 --> 00:33:37,958
+<font color="white">Pódeseche vencer, capitá.</font>
+
+430
+00:33:39,750 --> 00:33:41,042
+<font color="white">Xa se demostrou.</font>
+
+431
+00:33:44,750 --> 00:33:46,292
+<font color="white">Se tan seguro estás diso,</font>
+
+432
+00:33:47,417 --> 00:33:49,250
+<font color="white">que fago aquí, logo?</font>
+
+433
+00:33:50,042 --> 00:33:51,917
+<font color="white">Por que levo aínda o uniforme?</font>
+
+434
+00:33:54,625 --> 00:33:56,667
+<font color="white">A guerra aínda non acabou, cabrón.</font>
+
+435
+00:33:58,083 --> 00:33:59,917
+<font color="white">Deberías colaborar comigo.</font>
+
+436
+00:34:01,125 --> 00:34:03,292
+<font color="white">É máis, douche 30 millóns de dólares</font>
+
+437
+00:34:03,375 --> 00:34:04,625
+<font color="white">se abres as portas.</font>
+
+438
+00:34:04,708 --> 00:34:07,750
+<font color="white">Metereite nun avión ao país que elixas,</font>
+
+439
+00:34:07,833 --> 00:34:10,500
+<font color="white">onde pasarás entre luxos</font>
+<font color="white">o resto da túa vida.</font>
+
+440
+00:34:10,583 --> 00:34:15,083
+<font color="white">Se alguén gañou o dereito</font>
+<font color="white">a renunciar a isto, fuches ti.</font>
+
+441
+00:34:16,208 --> 00:34:19,458
+<font color="white">Trinta millóns de dólares.</font>
+
+442
+00:34:19,542 --> 00:34:21,375
+<font color="white">Que che deron os do exército?</font>
+
+443
+00:34:21,458 --> 00:34:23,667
+<font color="white">O traballo depresivo en medio da nada</font>
+
+444
+00:34:23,750 --> 00:34:25,292
+<font color="white">para se esqueceren de ti?</font>
+
+445
+00:34:25,375 --> 00:34:27,042
+<font color="white">Non lles importas.</font>
+
+446
+00:34:28,875 --> 00:34:30,458
+<font color="white">Abre as portas.</font>
+
+447
+00:34:31,667 --> 00:34:33,500
+<font color="white">Recupera o teu poder.</font>
+
+448
+00:34:35,792 --> 00:34:37,000
+<font color="white">Así gañas a guerra.</font>
+
+449
+00:34:44,375 --> 00:34:48,417
+<i><font color="white">Equipo SEAL, dirixímonos a SBX-1.</font></i>
+<i><font color="white">Tempo de chegada: 67 minutos.</font></i>
+
+450
+00:34:57,958 --> 00:34:59,042
+<font color="white">Xa entraron.</font>
+
+451
+00:35:18,917 --> 00:35:22,333
+<font color="white">Abre a porta e sairás de aquí sendo rica.</font>
+
+452
+00:35:24,292 --> 00:35:27,083
+<font color="white">Aínda temos tempo</font>
+<font color="white">antes de que cortes a porta.</font>
+
+453
+00:35:27,667 --> 00:35:28,792
+<font color="white">O certo é que non.</font>
+
+454
+00:35:34,958 --> 00:35:36,250
+<font color="white">- Castor.</font>
+<font color="white">- Como?</font>
+
+455
+00:35:49,958 --> 00:35:51,292
+<font color="white">Ben feito, Castor.</font>
+
+456
+00:36:00,375 --> 00:36:03,292
+<font color="white">Tomo o sistema</font>
+<font color="white">de transmisión de emerxencia.</font>
+
+457
+00:36:08,750 --> 00:36:10,000
+<font color="white">Estamos dentro.</font>
+
+458
+00:36:10,875 --> 00:36:12,417
+<font color="white">Non, teño un novo.</font>
+
+459
+00:36:12,500 --> 00:36:17,792
+<font color="white">ZSB, Zulu Sierra Bravo, 1-9-9-6.</font>
+
+460
+00:36:18,417 --> 00:36:20,125
+<font color="white">Dille a Danny que adiante.</font>
+
+461
+00:36:32,458 --> 00:36:33,667
+<font color="white">Estás ferida?</font>
+
+462
+00:36:36,875 --> 00:36:38,250
+<font color="white">Xa estiven peor.</font>
+
+463
+00:36:41,208 --> 00:36:43,167
+<font color="white">Non tiña por que ser así.</font>
+
+464
+00:36:44,333 --> 00:36:47,583
+<font color="white">Se non lle deran ao cabo Baker,</font>
+<font color="white">aforraríamos todo isto.</font>
+
+465
+00:36:47,667 --> 00:36:50,000
+<font color="white">Se me vas matar, mátame xa.</font>
+
+466
+00:36:50,958 --> 00:36:52,625
+<font color="white">Déixate de explicacións.</font>
+
+467
+00:36:53,208 --> 00:36:54,708
+<font color="white">Deiche opcións.</font>
+
+468
+00:36:55,667 --> 00:36:57,625
+<font color="white">É cousa túa que sexamos inimigos.</font>
+
+469
+00:37:02,333 --> 00:37:04,375
+<font color="white">Estiveches con eles todo o tempo?</font>
+
+470
+00:37:04,458 --> 00:37:05,542
+<font color="white">Estiven.</font>
+
+471
+00:37:06,250 --> 00:37:07,375
+<font color="white">Traidor.</font>
+
+472
+00:37:08,208 --> 00:37:09,958
+<font color="white">O único traidor é este país.</font>
+
+473
+00:37:10,833 --> 00:37:12,833
+<font color="white">Sempre fuches un puto mentireiro.</font>
+
+474
+00:37:12,917 --> 00:37:14,750
+<font color="white">E ti que vas saber?</font>
+
+475
+00:37:14,833 --> 00:37:16,833
+<font color="white">Amo o meu país.</font>
+
+476
+00:37:16,917 --> 00:37:20,000
+<font color="white">Houbo un tempo</font>
+<font color="white">no que mesmo morrería por el.</font>
+
+477
+00:37:20,083 --> 00:37:21,500
+<font color="white">Nunca é tarde.</font>
+
+478
+00:37:22,917 --> 00:37:23,958
+<font color="white">Cala a boca.</font>
+
+479
+00:37:25,708 --> 00:37:27,875
+<font color="white">Por culpa de inmigrantes coma ti</font>
+
+480
+00:37:27,958 --> 00:37:29,292
+<font color="white">e coma ti,</font>
+
+481
+00:37:29,375 --> 00:37:30,708
+<font color="white">perdín o meu traballo,</font>
+
+482
+00:37:30,792 --> 00:37:34,917
+<font color="white">o goberno quitoume os meu dereitos</font>
+
+483
+00:37:36,417 --> 00:37:40,042
+<font color="white">e empezou a inventar</font>
+<font color="white">merdas de todo tipo para me asustar.</font>
+
+484
+00:37:43,250 --> 00:37:46,250
+<font color="white">Xa nin recoñezo os EUA</font>
+<font color="white">de hoxe en día, hostia.</font>
+
+485
+00:37:46,333 --> 00:37:49,625
+<font color="white">E iso dáche dereito</font>
+<font color="white">a asasinar millóns de persoas?</font>
+
+486
+00:37:49,708 --> 00:37:52,708
+<font color="white">Dáme dereito a mirar por min.</font>
+
+487
+00:37:53,958 --> 00:37:56,417
+<font color="white">E teño dez millóns de formas de facelo.</font>
+
+488
+00:37:56,500 --> 00:37:58,458
+<font color="white">Diñeiro? Moveute o diñeiro?</font>
+
+489
+00:37:58,958 --> 00:38:02,375
+<font color="white">Pois si, o diñeiro é o que move os EUA.</font>
+
+490
+00:38:03,167 --> 00:38:05,375
+<font color="white">Se non o entendes,</font>
+
+491
+00:38:05,458 --> 00:38:08,292
+<font color="white">é que non estiveches atento, Shah.</font>
+
+492
+00:38:08,375 --> 00:38:09,417
+<font color="white">Esperta, meu.</font>
+
+493
+00:38:09,500 --> 00:38:13,250
+<font color="white">Claro, bótalle a culpa aos EUA.</font>
+<font color="white">Bótalle a culpa ao goberno.</font>
+
+494
+00:38:13,333 --> 00:38:15,708
+<font color="white">Culpa a todos menos a ti mesmo.</font>
+
+495
+00:38:15,792 --> 00:38:17,417
+<font color="white">É o que fan os fracasados.</font>
+
+496
+00:38:26,625 --> 00:38:28,667
+<font color="white">Ti sigue falando, prenda.</font>
+
+497
+00:38:31,250 --> 00:38:33,375
+<font color="white">Antes de que acabe todo isto,</font>
+
+498
+00:38:33,458 --> 00:38:34,958
+<font color="white">heiche facer</font>
+
+499
+00:38:35,042 --> 00:38:37,750
+<font color="white">o que todos os soldados,</font>
+<font color="white">malia que non o digan</font>
+
+500
+00:38:37,833 --> 00:38:41,125
+<font color="white">lles queren facer ás mulleres do corpo.</font>
+
+501
+00:38:43,667 --> 00:38:46,125
+<font color="white">A única forma que tes de pillar, ou?</font>
+
+502
+00:38:50,125 --> 00:38:51,625
+<font color="white">Ei, outra cousiña.</font>
+
+503
+00:38:52,542 --> 00:38:55,750
+<font color="white">Nunca chames unha muller</font>
+<font color="white">senón polo seu o nome.</font>
+
+504
+00:38:55,833 --> 00:39:01,250
+<font color="white">Nada de amor nin cariño</font>
+<font color="white">nin querida nin guapiña</font>
+
+505
+00:39:01,333 --> 00:39:03,417
+<font color="white">nin bonita nin corazón.</font>
+
+506
+00:39:03,500 --> 00:39:07,500
+<font color="white">Tampouco moza, nena, porca, puta</font>
+
+507
+00:39:08,000 --> 00:39:13,250
+<font color="white">e, especialmente,</font>
+<font color="white">por enriba de todo o demais,</font>
+
+508
+00:39:13,333 --> 00:39:18,958
+<font color="white">nunca lle chames prenda.</font>
+
+509
+00:39:22,417 --> 00:39:23,417
+<font color="white">Hostia.</font>
+
+510
+00:39:28,292 --> 00:39:30,625
+<font color="white">Está conectado o satélite co sistema.</font>
+
+511
+00:39:30,708 --> 00:39:32,208
+<font color="white">O sistema de transmisión?</font>
+
+512
+00:39:32,292 --> 00:39:34,667
+<font color="white">Si, así todo o que gravan as cámaras</font>
+
+513
+00:39:34,750 --> 00:39:38,542
+<font color="white">se poderá ver</font>
+<font color="white">en calquera dispositivo intelixente.</font>
+
+514
+00:39:39,542 --> 00:39:41,333
+<font color="white">Hai que ver o espectáculo.</font>
+
+515
+00:39:46,042 --> 00:39:48,500
+<i><font color="white">Señor Kessel, onde está a capitá Collins?</font></i>
+
+516
+00:39:49,208 --> 00:39:51,083
+<font color="white">Está aquí, sa e salva.</font>
+
+517
+00:39:51,167 --> 00:39:53,333
+<font color="white">Relativamente, claro.</font>
+
+518
+00:39:54,083 --> 00:39:55,750
+<font color="white">Tamén está o cabo Shah.</font>
+
+519
+00:39:55,833 --> 00:39:57,250
+<i><font color="white">E o cabo Baker?</font></i>
+
+520
+00:39:58,792 --> 00:40:00,000
+<font color="white">Que hai, xeneral?</font>
+
+521
+00:40:00,083 --> 00:40:01,625
+<i><font color="white">Os dous son soldados.</font></i>
+
+522
+00:40:01,708 --> 00:40:03,000
+<i><font color="white">Prestaron xuramento.</font></i>
+
+523
+00:40:03,083 --> 00:40:04,833
+<i><font color="white">E agora traizoan o país?</font></i>
+
+524
+00:40:04,917 --> 00:40:08,375
+<font color="white">Presteilles xuramento</font>
+<font color="white">aos EUA de antes, non aos de agora.</font>
+
+525
+00:40:08,458 --> 00:40:10,583
+<i><font color="white">Que queren?</font></i>
+
+526
+00:40:12,292 --> 00:40:13,125
+<font color="white">De ti?</font>
+
+527
+00:40:15,417 --> 00:40:16,375
+<font color="white">Nada.</font>
+
+528
+00:40:17,250 --> 00:40:19,833
+<font color="white">Só espero a que os EUA se unan a conversa.</font>
+
+529
+00:40:21,042 --> 00:40:24,167
+<font color="white">Papá está orgulloso. Debe sentar ben iso.</font>
+
+530
+00:40:24,667 --> 00:40:27,250
+<font color="white">TI PODES!</font>
+
+531
+00:40:28,583 --> 00:40:30,750
+<font color="white">ADQUIRIUSE SINAL DO SISTEMA</font>
+
+532
+00:40:30,833 --> 00:40:33,292
+<font color="white">O sistema xa controla todos os sinais.</font>
+
+533
+00:40:33,375 --> 00:40:35,333
+<font color="white">Saúda os Estados Unidos, xefe.</font>
+
+534
+00:40:35,417 --> 00:40:37,792
+<font color="white">SISTEMA DE TRANSMISIÓN DE EMERXENCIA</font>
+
+535
+00:40:37,875 --> 00:40:41,000
+<font color="white">CIDADE DE NOVA YORK</font>
+
+536
+00:40:52,083 --> 00:40:55,000
+<font color="white">OS ÁNXELES</font>
+
+537
+00:40:55,083 --> 00:40:59,458
+<font color="white">É unha pantalla enorme,</font>
+<font color="white">cunha calidade de imaxe boísima,</font>
+
+538
+00:40:59,542 --> 00:41:00,750
+<font color="white">o son non é moi alá,</font>
+
+539
+00:41:00,833 --> 00:41:03,125
+<font color="white">pero tampouco escoito moito a tele.</font>
+
+540
+00:41:03,208 --> 00:41:05,875
+<font color="white">Cando vexo algo, poño música, así que non…</font>
+
+541
+00:41:05,958 --> 00:41:07,292
+<font color="white">Que pasou coa cor?</font>
+
+542
+00:41:07,375 --> 00:41:08,708
+<font color="white">Onde vai a presidenta?</font>
+
+543
+00:41:08,792 --> 00:41:09,708
+<i><font color="white">Estou aquí.</font></i>
+
+544
+00:41:10,250 --> 00:41:12,292
+<i><font color="white">Se lanza un só deses mísiles,</font></i>
+
+545
+00:41:12,375 --> 00:41:15,583
+<i><font color="white">xuro por Deus que lle daremos caza</font></i>
+
+546
+00:41:15,667 --> 00:41:17,500
+<i><font color="white">e borrarémolo do mapa.</font></i>
+
+547
+00:41:17,583 --> 00:41:20,625
+<i><font color="white">Xa é suficiente. Aborréceme.</font></i>
+
+548
+00:41:21,375 --> 00:41:23,125
+<i><font color="white">Róubolle o púlpito.</font></i>
+
+549
+00:41:25,833 --> 00:41:31,750
+<font color="white">Compatriotas estadounidenses,</font>
+<font color="white">son Alexander Kessel,</font>
+
+550
+00:41:32,958 --> 00:41:36,500
+<font color="white">fillo do multimillonario</font>
+<font color="white">Alexander Kessel sénior.</font>
+
+551
+00:41:36,583 --> 00:41:38,542
+<font color="white">Se cadra, coñecédelo</font>
+
+552
+00:41:39,333 --> 00:41:46,208
+<font color="white">por ser o incompetente embaixador</font>
+<font color="white">dos EUA nas Nacións Unidas actualmente.</font>
+
+553
+00:41:48,250 --> 00:41:53,125
+<font color="white">Os meus socios de Rusia</font>
+<font color="white">controlan 16 mísiles nucleares</font>
+
+554
+00:41:53,208 --> 00:41:56,667
+<i><font color="white">e eu, os únicos mísiles interceptores</font></i>
+
+555
+00:41:56,750 --> 00:41:58,792
+<i><font color="white">capaces de os deter.</font></i>
+
+556
+00:41:58,875 --> 00:42:01,792
+<font color="white">O obxectivo son</font>
+<font color="white">16 cidades estadounidenses.</font>
+
+557
+00:42:03,542 --> 00:42:06,792
+<font color="white">De todos vós, 300 millóns ides morrer.</font>
+
+558
+00:42:07,667 --> 00:42:11,000
+<font color="white">Primeiro, destruirase unha cidade</font>
+
+559
+00:42:11,667 --> 00:42:14,500
+<font color="white">para que o resto miredes con horror.</font>
+
+560
+00:42:15,958 --> 00:42:17,375
+<font color="white">Equipo de mísiles un,</font>
+
+561
+00:42:18,833 --> 00:42:19,750
+<font color="white">fogo.</font>
+
+562
+00:42:19,833 --> 00:42:25,208
+<font color="white">TAVLINKA, RUSIA</font>
+
+563
+00:42:25,958 --> 00:42:30,625
+<i><font color="white">Lanzamento de mísil detectado.</font></i>
+
+564
+00:42:30,708 --> 00:42:34,458
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en 12 minutos.</font></i>
+
+565
+00:42:34,542 --> 00:42:37,792
+<font color="white">En 12 minutos, o mísil que lancei</font>
+
+566
+00:42:37,875 --> 00:42:39,667
+<font color="white">pasaranos por enriba.</font>
+
+567
+00:42:39,750 --> 00:42:43,708
+<font color="white">Nese momento, será tarde de máis</font>
+<font color="white">para que o interceptemos.</font>
+
+568
+00:42:43,792 --> 00:42:45,750
+<font color="white">LANZAR</font>
+
+569
+00:42:45,833 --> 00:42:47,875
+<font color="white">Cal sería a cidade elixida?</font>
+
+570
+00:42:50,042 --> 00:42:51,250
+<font color="white">A túa?</font>
+
+571
+00:42:52,250 --> 00:42:55,667
+<font color="white">Acabe onde acabe, non hai tempo de fuxir.</font>
+
+572
+00:42:56,292 --> 00:42:57,583
+<font color="white">Non podedes escapar.</font>
+
+573
+00:42:59,792 --> 00:43:01,708
+<font color="white">Se dixestes Os Ánxeles,</font>
+
+574
+00:43:03,083 --> 00:43:04,292
+<font color="white">parabéns.</font>
+
+575
+00:43:05,167 --> 00:43:07,875
+<font color="white">Á cidade dos anxos quédanlle 23 minutos.</font>
+
+576
+00:43:09,000 --> 00:43:09,833
+<font color="white">Agardade.</font>
+
+577
+00:43:09,917 --> 00:43:11,875
+<i><font color="white">Cando Os Ánxeles desapareza…</font></i>
+
+578
+00:43:11,958 --> 00:43:13,208
+<font color="white">Onde ides?</font>
+
+579
+00:43:13,292 --> 00:43:16,292
+<font color="white">Aínda non pechamos.</font>
+
+580
+00:43:16,375 --> 00:43:19,833
+<font color="white">…lanzarei unha segunda onda de 15 mísiles.</font>
+
+581
+00:43:20,375 --> 00:43:22,875
+<font color="white">San Francisco, Seattle, Las Vegas,</font>
+
+582
+00:43:22,958 --> 00:43:28,625
+<font color="white">Cincinnati, Dallas, Denver, Memphis,</font>
+<font color="white">Chicago, St. Louis, Atlanta, Boston,</font>
+
+583
+00:43:28,708 --> 00:43:30,833
+<font color="white">Filadelfia, Miami, Nova York.</font>
+
+584
+00:43:32,458 --> 00:43:35,667
+<font color="white">E, por suposto, Washington, D. C.</font>
+
+585
+00:43:38,792 --> 00:43:39,833
+<font color="white">Hoxe…</font>
+
+586
+00:43:41,833 --> 00:43:45,875
+<font color="white">os EUA morren no paroxismo do medo.</font>
+
+587
+00:43:56,125 --> 00:43:58,375
+<i><font color="white">Os EUA: a maior mentira da historia.</font></i>
+
+588
+00:43:59,625 --> 00:44:00,958
+<i><font color="white">Son tan excepcionais?</font></i>
+
+589
+00:44:01,042 --> 00:44:02,083
+<font color="white">Igual no pasado.</font>
+
+590
+00:44:03,583 --> 00:44:05,542
+<font color="white">Ao pasaren do rei os fundadores.</font>
+
+591
+00:44:07,167 --> 00:44:09,500
+<font color="white">Ao declararen que os homes eran iguais.</font>
+
+592
+00:44:09,583 --> 00:44:12,542
+<font color="white">Seica estamos unidos,</font>
+<font color="white">pero cando foi iso verdade?</font>
+
+593
+00:44:12,625 --> 00:44:14,458
+<i><font color="white">Durante a Guerra Civil?</font></i>
+
+594
+00:44:15,083 --> 00:44:16,417
+<i><font color="white">Coas leis Jim Crow?</font></i>
+
+595
+00:44:16,500 --> 00:44:18,042
+<font color="white">Acaso é certo agora?</font>
+
+596
+00:44:19,375 --> 00:44:23,167
+<font color="white">Esta mentira nacional</font>
+<font color="white">é unha ferida infecta</font>
+
+597
+00:44:24,542 --> 00:44:25,792
+<font color="white">e é mortal.</font>
+
+598
+00:44:26,542 --> 00:44:28,000
+<font color="white">Ningunha venda a cobre.</font>
+
+599
+00:44:29,000 --> 00:44:34,000
+<font color="white">A única forma de salvar a nosa nación</font>
+<font color="white">e o potencial que chegou a ter</font>
+
+600
+00:44:34,083 --> 00:44:37,292
+<font color="white">é borralo todo, empezar de novo.</font>
+
+601
+00:44:37,917 --> 00:44:42,458
+<font color="white">Se cadra entón,</font>
+<font color="white">cando nos miremos uns os outros…</font>
+
+602
+00:44:42,542 --> 00:44:44,125
+<font color="white">…entre o entullo,</font>
+
+603
+00:44:45,292 --> 00:44:48,542
+<font color="white">acordaremos que esta vez</font>
+
+604
+00:44:50,750 --> 00:44:52,542
+<font color="white">imos facer as cousas ben.</font>
+
+605
+00:44:57,667 --> 00:44:59,667
+<font color="white">Este é o cabo Rahul Shah.</font>
+
+606
+00:44:59,750 --> 00:45:01,458
+<i><font color="white">Gústache ser estadounidense?</font></i>
+
+607
+00:45:01,958 --> 00:45:03,292
+<i><font color="white">Con todo o corazón.</font></i>
+
+608
+00:45:04,292 --> 00:45:05,458
+<i><font color="white">Pero es hindú.</font></i>
+
+609
+00:45:05,542 --> 00:45:06,583
+<i><font color="white">Son compatíbeis.</font></i>
+
+610
+00:45:06,667 --> 00:45:07,708
+<i><font color="white">Nos EUA?</font></i>
+
+611
+00:45:08,417 --> 00:45:10,417
+<font color="white">Nunca se riron de ti pola túa fe?</font>
+
+612
+00:45:11,625 --> 00:45:15,792
+<font color="white">Nunca che fixeron pasar</font>
+<font color="white">por máis exames nun aeroporto?</font>
+
+613
+00:45:17,958 --> 00:45:19,875
+<i><font color="white">Comparte co mundo o que viches.</font></i>
+
+614
+00:45:21,167 --> 00:45:23,125
+<i><font color="white">Vinte a ti nas duchas e entendín</font></i>
+
+615
+00:45:24,417 --> 00:45:26,875
+<i><font color="white">esa obsesión túa cos mísiles.</font></i>
+
+616
+00:45:29,875 --> 00:45:31,042
+<font color="white">Patético.</font>
+
+617
+00:45:31,125 --> 00:45:32,625
+<font color="white">Déixame a min, xefe.</font>
+
+618
+00:45:47,417 --> 00:45:50,667
+<i><font color="white">Esta é a capitá Joanna Julia Collins,</font></i>
+
+619
+00:45:50,750 --> 00:45:52,500
+<i><font color="white">J. J. para os amigos.</font></i>
+
+620
+00:45:53,417 --> 00:45:56,625
+<i><font color="white">Unha soldado que hoxe loitou</font></i>
+<i><font color="white">con honra e valentía.</font></i>
+
+621
+00:45:56,708 --> 00:46:00,458
+<i><font color="white">Hai tres anos, un dos xenerais</font></i>
+<i><font color="white">máis importantes do país</font></i>
+
+622
+00:46:00,542 --> 00:46:05,500
+<i><font color="white">tentou aproveitar a súa posición de poder</font></i>
+<i><font color="white">para forzala a deitarse con el.</font></i>
+
+623
+00:46:06,333 --> 00:46:07,833
+<i><font color="white">Cal quedou sen traballo?</font></i>
+
+624
+00:46:07,917 --> 00:46:11,583
+<font color="white">Merece que a cubran de eloxios,</font>
+
+625
+00:46:12,292 --> 00:46:13,792
+<font color="white">pero como é muller,</font>
+
+626
+00:46:15,208 --> 00:46:18,708
+<font color="white">os seus compañeiros soldados</font>
+
+627
+00:46:18,792 --> 00:46:22,167
+<font color="white">puxeron unha recompensa</font>
+<font color="white">por atopar fotos como esta.</font>
+
+628
+00:46:22,250 --> 00:46:24,125
+<font color="white">Que cabrón estas feito, meu.</font>
+
+629
+00:46:24,208 --> 00:46:28,125
+<i><font color="white">Hoxe ofrecinlle 30 millóns de dólares</font></i>
+<i><font color="white">por abandonar o seu posto.</font></i>
+
+630
+00:46:30,708 --> 00:46:31,875
+<i><font color="white">Rexeitounos.</font></i>
+
+631
+00:46:37,875 --> 00:46:40,458
+<i><font color="white">Por certo, a foto era para fins benéficos.</font></i>
+
+632
+00:46:41,750 --> 00:46:44,250
+<font color="white">En que posición xogabas? De porteira?</font>
+
+633
+00:46:45,375 --> 00:46:48,292
+<font color="white">Porteira, si. Unha posición complicada.</font>
+
+634
+00:46:49,042 --> 00:46:50,167
+<font color="white">Como dis?</font>
+
+635
+00:46:50,667 --> 00:46:54,917
+<font color="white">Acabei con moitos golpes,</font>
+<font color="white">contusións e mazaduras nas costelas,</font>
+
+636
+00:46:55,000 --> 00:46:58,667
+<font color="white">pero a lesión máis común</font>
+<font color="white">é a dislocación do polgar.</font>
+
+637
+00:47:01,708 --> 00:47:02,958
+<font color="white">Merda.</font>
+
+638
+00:47:25,500 --> 00:47:27,292
+<font color="white">Non! Merda!</font>
+
+639
+00:47:34,875 --> 00:47:38,375
+<font color="white">O lanzamento do interceptor</font>
+<font color="white">expira en seis minutos.</font>
+
+640
+00:47:43,417 --> 00:47:44,875
+<font color="white">Cres que o conseguirás?</font>
+
+641
+00:47:50,000 --> 00:47:51,042
+<font color="white">Que cres ti?</font>
+
+642
+00:48:19,208 --> 00:48:20,333
+<font color="white">Merda.</font>
+
+643
+00:48:49,083 --> 00:48:52,083
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en cinco minutos.</font></i>
+
+644
+00:48:52,167 --> 00:48:54,333
+<font color="white">Tes cinco minutos. Retena ou mátaa.</font>
+
+645
+00:49:41,917 --> 00:49:43,625
+<i><font color="white">Lanzando interceptor.</font></i>
+
+646
+00:49:59,292 --> 00:50:00,875
+<i><font color="white">Mísil interceptado.</font></i>
+
+647
+00:51:08,750 --> 00:51:11,125
+<font color="white">Morres dunha puta vez ou que?</font>
+
+648
+00:51:27,667 --> 00:51:31,708
+<font color="white">Advertincho, meu.</font>
+<font color="white">Díxenche que nos ía dar problemas.</font>
+
+649
+00:51:31,792 --> 00:51:36,417
+<font color="white">Lembras? Díxenche: "pase o que pase,</font>
+<font color="white">dispáralle a ela primeiro.</font>
+
+650
+00:51:37,000 --> 00:51:40,000
+<font color="white">Sácaa do medio canto antes,</font>
+<font color="white">porque, se non o fas,</font>
+
+651
+00:51:40,083 --> 00:51:43,333
+<font color="white">se non a mandas ao nicho axiña,</font>
+<font color="white">vainos dar problemas".</font>
+
+652
+00:51:43,417 --> 00:51:44,333
+<font color="white">Castor.</font>
+
+653
+00:51:44,417 --> 00:51:46,708
+<font color="white">Ela é… éche unha desas mulleres</font>
+
+654
+00:51:46,792 --> 00:51:50,208
+<font color="white">que gozan meténdose contigo e picándote,</font>
+
+655
+00:51:50,292 --> 00:51:53,083
+<font color="white">como unha puta agulla.</font>
+
+656
+00:51:53,167 --> 00:51:55,292
+<font color="white">É só un tropezo, máis nada.</font>
+
+657
+00:51:55,375 --> 00:51:56,250
+<font color="white">Un tropezo?</font>
+
+658
+00:51:58,000 --> 00:52:00,875
+<font color="white">Ti oíches? É un tropezo. Non pasa nada.</font>
+
+659
+00:52:02,000 --> 00:52:04,750
+<font color="white">Tirounos abaixo o carallo do mísil!</font>
+
+660
+00:52:04,833 --> 00:52:07,667
+<font color="white">Foi só un. Quédannos outros 15.</font>
+
+661
+00:52:07,750 --> 00:52:10,042
+<font color="white">E que pasará se lles dispara tamén?</font>
+
+662
+00:52:10,125 --> 00:52:12,125
+<font color="white">Logo que? Que facemos entón?</font>
+
+663
+00:52:14,000 --> 00:52:16,708
+<font color="white">As nosas caras han estar</font>
+<font color="white">por todos os lados.</font>
+
+664
+00:52:16,792 --> 00:52:18,708
+<font color="white">Que facemos despois?</font>
+
+665
+00:52:18,792 --> 00:52:21,250
+<font color="white">Canto lle cae a un por ataque nuclear?</font>
+
+666
+00:52:21,333 --> 00:52:23,792
+<font color="white">Temos plans alternativos para isto.</font>
+
+667
+00:52:54,500 --> 00:52:55,667
+<font color="white">En serio?</font>
+
+668
+00:53:31,042 --> 00:53:33,250
+<i><font color="white">A ese faltoulle ben pouco.</font></i>
+
+669
+00:53:33,333 --> 00:53:35,333
+<font color="white">Fago o que podo, señora.</font>
+
+670
+00:53:35,417 --> 00:53:37,292
+<i><font color="white">Pode desactivar a transmisión?</font></i>
+
+671
+00:53:38,917 --> 00:53:40,167
+<font color="white">Déame un minuto.</font>
+
+672
+00:53:44,458 --> 00:53:45,542
+<font color="white">Desde aquí non.</font>
+
+673
+00:53:46,125 --> 00:53:47,250
+<i><font color="white">Entendido.</font></i>
+
+674
+00:53:47,833 --> 00:53:49,625
+<font color="white">Canto lles falta aos SEAL?</font>
+
+675
+00:53:49,708 --> 00:53:52,042
+<font color="white">Quince minutos. Apuran todo o posíbel.</font>
+
+676
+00:53:52,792 --> 00:53:54,333
+<font color="white">Non o suficiente.</font>
+
+677
+00:53:54,417 --> 00:53:57,250
+<i><font color="white">Temos máis información</font></i>
+<i><font color="white">sobre Alexander Kessel.</font></i>
+
+678
+00:53:57,333 --> 00:53:59,083
+<i><font color="white">Era de intelixencia militar.</font></i>
+
+679
+00:53:59,167 --> 00:54:00,667
+<i><font color="white">Empezou cos rusos.</font></i>
+
+680
+00:54:00,750 --> 00:54:03,125
+<i><font color="white">Fíxose experto en psicoloxía e tortura.</font></i>
+
+681
+00:54:03,208 --> 00:54:04,042
+<font color="white">En tortura?</font>
+
+682
+00:54:04,125 --> 00:54:06,500
+<i><font color="white">Era bo. Demasiado, ás veces.</font></i>
+
+683
+00:54:06,583 --> 00:54:08,875
+<i><font color="white">Torturou dos prisioneiros até matalos.</font></i>
+
+684
+00:54:08,958 --> 00:54:11,667
+<font color="white">Xesús. Enfróntome</font>
+<font color="white">a un verdadeiro psicópata.</font>
+
+685
+00:54:11,750 --> 00:54:12,625
+<i><font color="white">Non está soa.</font></i>
+
+686
+00:54:12,708 --> 00:54:16,167
+<i><font color="white">Aquí hai un monte de cerebros</font></i>
+<i><font color="white">buscando o xeito de axudala.</font></i>
+
+687
+00:54:16,250 --> 00:54:18,042
+<i><font color="white">Estrategos, teóricos do xogo.</font></i>
+
+688
+00:54:18,125 --> 00:54:21,833
+<i><font color="white">A tomar polo cu á teoría.</font></i>
+<i><font color="white">O que preciso son soldados armados.</font></i>
+
+689
+00:54:21,917 --> 00:54:22,917
+<i><font color="white">Xa o sei, capitá.</font></i>
+
+690
+00:54:23,000 --> 00:54:24,833
+<font color="white">Veña, ho, dálle unhas armas.</font>
+
+691
+00:54:24,917 --> 00:54:27,833
+<i><font color="white">Teño que dicir</font></i>
+<i><font color="white">que é unha muller de armas tomar.</font></i>
+
+692
+00:54:27,917 --> 00:54:30,000
+<i><font color="white">O exército nunca debeu provocala.</font></i>
+
+693
+00:54:32,542 --> 00:54:33,958
+<font color="white">Vexo que entendeu.</font>
+
+694
+00:54:40,792 --> 00:54:41,833
+<font color="white">Rahul.</font>
+
+695
+00:54:42,708 --> 00:54:43,708
+<font color="white">Que me perdín?</font>
+
+696
+00:54:46,042 --> 00:54:47,250
+<font color="white">Non moito.</font>
+
+697
+00:54:47,333 --> 00:54:48,667
+<font color="white">Paramos o mísil?</font>
+
+698
+00:54:50,625 --> 00:54:53,250
+<font color="white">Parámolo, si.</font>
+
+699
+00:54:54,083 --> 00:54:55,292
+<font color="white">Menos mal.</font>
+
+700
+00:54:56,542 --> 00:54:58,542
+<font color="white">Agarde. Onde andan os malos?</font>
+
+701
+00:55:07,458 --> 00:55:10,208
+<font color="white">O Alexander ese debe estar que bota fume.</font>
+
+702
+00:55:11,125 --> 00:55:15,292
+<font color="white">Si, é porque aínda lle sigo a foder o día.</font>
+
+703
+00:55:32,750 --> 00:55:33,833
+<font color="white">Papá?</font>
+
+704
+00:55:33,917 --> 00:55:35,792
+<font color="white">Ei, como te sentes?</font>
+
+705
+00:55:37,625 --> 00:55:39,042
+<font color="white">Apetéceche sopa?</font>
+
+706
+00:55:39,833 --> 00:55:40,875
+<font color="white">Claro.</font>
+
+707
+00:55:54,875 --> 00:55:56,167
+<font color="white">Xa ves o que fixeron.</font>
+
+708
+00:55:56,250 --> 00:55:57,500
+<font color="white">Diso encárgome eu.</font>
+
+709
+00:55:57,583 --> 00:56:02,042
+<font color="white">Non permitas que che afecte.</font>
+<font color="white">Non lles deixes gañar.</font>
+
+710
+00:56:02,125 --> 00:56:03,583
+<font color="white">Ódianme.</font>
+
+711
+00:56:03,667 --> 00:56:05,042
+<font color="white">Dixeches a verdade.</font>
+
+712
+00:56:05,125 --> 00:56:06,875
+<font color="white">A quen lle importa a verdade?</font>
+
+713
+00:56:06,958 --> 00:56:08,167
+<font color="white">A min.</font>
+
+714
+00:56:09,917 --> 00:56:13,333
+<font color="white">Perdino todo.</font>
+<font color="white">Todo polo que tanto traballara.</font>
+
+715
+00:56:13,417 --> 00:56:14,542
+<font color="white">Escoita.</font>
+
+716
+00:56:15,750 --> 00:56:19,125
+<font color="white">Que che digo sempre desde pequena?</font>
+
+717
+00:56:19,208 --> 00:56:21,000
+<font color="white">A única regra que hai na vida.</font>
+
+718
+00:56:25,292 --> 00:56:26,833
+<font color="white">Nunca deixes de loitar.</font>
+
+719
+00:56:26,917 --> 00:56:28,667
+<font color="white">Es unha loitadora, rapariga.</font>
+
+720
+00:56:28,750 --> 00:56:31,958
+<font color="white">Desde sempre. Igual cá túa nai.</font>
+
+721
+00:56:41,500 --> 00:56:42,625
+<font color="white">Capitá.</font>
+
+722
+00:56:44,000 --> 00:56:45,167
+<font color="white">Quere falar.</font>
+
+723
+00:56:48,250 --> 00:56:50,083
+<font color="white">Canto levo durmida?</font>
+
+724
+00:56:50,167 --> 00:56:52,333
+<font color="white">Non moito, uns 15 minutos.</font>
+
+725
+00:57:03,958 --> 00:57:05,708
+<font color="white">Que queres agora, cabrón?</font>
+
+726
+00:57:11,333 --> 00:57:12,875
+<font color="white">Pensas que son un monstro.</font>
+
+727
+00:57:16,125 --> 00:57:17,125
+<font color="white">Érao.</font>
+
+728
+00:57:19,417 --> 00:57:23,125
+<font color="white">De rapaz nunca pasaba o verán</font>
+<font color="white">no mesmo sitio que o inverno.</font>
+
+729
+00:57:23,958 --> 00:57:28,292
+<font color="white">Ou navegaba en iate polos Hamptons</font>
+<font color="white">ou esquiaba en Val d'Isère.</font>
+
+730
+00:57:28,917 --> 00:57:30,375
+<font color="white">Que vida tan dura.</font>
+
+731
+00:57:31,625 --> 00:57:32,833
+<font color="white">Non me queixo.</font>
+
+732
+00:57:33,833 --> 00:57:35,750
+<font color="white">Era un produto da sociedade.</font>
+
+733
+00:57:35,833 --> 00:57:41,042
+<font color="white">Unha sociedade que nos premia con diñeiro</font>
+<font color="white">constantemente e ignora todo o demais.</font>
+
+734
+00:57:42,167 --> 00:57:44,750
+<font color="white">Pensabades que o meu pai</font>
+<font color="white">é embaixador da ONU</font>
+
+735
+00:57:44,833 --> 00:57:48,292
+<font color="white">polas súas habilidades diplomáticas</font>
+
+736
+00:57:48,375 --> 00:57:50,375
+<font color="white">e non polas doazóns a políticos?</font>
+
+737
+00:57:50,958 --> 00:57:53,000
+<font color="white">Así funcionan os Estados Unidos.</font>
+
+738
+00:57:53,083 --> 00:57:56,958
+<font color="white">Pensamos que, se alguén é rico,</font>
+<font color="white">ten que ser tamén intelixente.</font>
+
+739
+00:57:59,500 --> 00:58:00,958
+<font color="white">O meu pai é un imbécil.</font>
+
+740
+00:58:02,792 --> 00:58:04,000
+<font color="white">Herdou esa fortuna.</font>
+
+741
+00:58:04,083 --> 00:58:05,333
+<font color="white">- Non a gañou.</font>
+<font color="white">- Mimá.</font>
+
+742
+00:58:05,417 --> 00:58:07,417
+<font color="white">Así que isto é polos teus traumas.</font>
+
+743
+00:58:07,500 --> 00:58:09,292
+<font color="white">Non esperaba que o entenderas.</font>
+
+744
+00:58:09,375 --> 00:58:10,875
+<font color="white">Enténdocho ben.</font>
+
+745
+00:58:11,792 --> 00:58:13,792
+<font color="white">O teu pai é un bo home.</font>
+
+746
+00:58:13,875 --> 00:58:14,875
+<font color="white">O mellor.</font>
+
+747
+00:58:16,292 --> 00:58:18,167
+<font color="white">Tamén serviu no exército, non?</font>
+
+748
+00:58:18,792 --> 00:58:20,250
+<font color="white">Trinta e seis anos.</font>
+
+749
+00:58:20,333 --> 00:58:23,125
+<font color="white">Coñeceu a túa nai cando</font>
+<font color="white">o destinaron a España?</font>
+
+750
+00:58:24,417 --> 00:58:26,875
+<font color="white">Aínda queda cos seus colegas do exército?</font>
+
+751
+00:58:26,958 --> 00:58:28,125
+<font color="white">Todos os días.</font>
+
+752
+00:58:30,917 --> 00:58:32,417
+<font color="white">En Scottsdale, non si?</font>
+
+753
+00:58:34,833 --> 00:58:35,833
+<font color="white">Si.</font>
+
+754
+00:58:37,417 --> 00:58:41,625
+<font color="white">En Patriot's Valley,</font>
+<font color="white">a residencia de anciáns para veteranos.</font>
+
+755
+00:58:42,792 --> 00:58:44,042
+<font color="white">Cuarto 6B.</font>
+
+756
+00:58:50,042 --> 00:58:51,250
+<font color="white">Papá!</font>
+
+757
+00:58:53,833 --> 00:58:54,833
+<font color="white">Deixádeo en paz.</font>
+
+758
+00:58:54,917 --> 00:58:57,208
+<font color="white">- El non ten nada que ver.</font>
+<font color="white">- Discrepo.</font>
+
+759
+00:58:57,292 --> 00:58:58,208
+<font color="white">Soltádeo!</font>
+
+760
+00:58:58,292 --> 00:59:01,125
+<font color="white">Dixeches que matase a quen matase</font>
+<font color="white">non ías abrir.</font>
+
+761
+00:59:01,208 --> 00:59:03,125
+<font color="white">Soltádeo, fillos de puta!</font>
+
+762
+00:59:03,208 --> 00:59:04,833
+<font color="white">A ver se aínda opinas así.</font>
+
+763
+00:59:04,917 --> 00:59:06,458
+<font color="white">Vai a tomar polo cu!</font>
+
+764
+00:59:06,542 --> 00:59:08,458
+<font color="white">Pensas que non o vou facer?</font>
+
+765
+00:59:08,542 --> 00:59:11,542
+<font color="white">Adestráronme para isto.</font>
+<font color="white">Psicoloxía, intelixencia.</font>
+
+766
+00:59:11,625 --> 00:59:13,958
+<font color="white">Explota o punto débil do inimigo.</font>
+
+767
+00:59:14,833 --> 00:59:16,250
+<i><font color="white">Soltádeo!</font></i>
+
+768
+00:59:16,333 --> 00:59:17,667
+<font color="white">Se non abres a porta,</font>
+
+769
+00:59:17,750 --> 00:59:19,750
+<font color="white">vouno esnaquizar cacho a cacho.</font>
+
+770
+00:59:19,833 --> 00:59:21,292
+<font color="white">Non!</font>
+
+771
+00:59:21,375 --> 00:59:24,542
+<font color="white">- Ben, como queiras.</font>
+<font color="white">- Non!</font>
+
+772
+00:59:24,625 --> 00:59:26,917
+<font color="white">- Adiante.</font>
+<font color="white">- Non, por favor.</font>
+
+773
+00:59:29,000 --> 00:59:30,583
+<font color="white">Non…</font>
+
+774
+00:59:34,167 --> 00:59:35,708
+<font color="white">Sabes que non podo.</font>
+
+775
+00:59:35,792 --> 00:59:37,083
+<font color="white">Si que podes.</font>
+
+776
+00:59:37,167 --> 00:59:39,250
+<font color="white">Podes parar isto cando queiras.</font>
+
+777
+00:59:39,333 --> 00:59:42,292
+<font color="white">Déixame falar con el, si?</font>
+
+778
+00:59:42,375 --> 00:59:43,750
+<font color="white">Capitá, non.</font>
+
+779
+00:59:44,500 --> 00:59:45,667
+<font color="white">Déixalle falar.</font>
+
+780
+00:59:46,917 --> 00:59:48,083
+<font color="white">Papá?</font>
+
+781
+00:59:48,583 --> 00:59:49,583
+<i><font color="white">J. J.</font></i>
+
+782
+00:59:49,667 --> 00:59:51,792
+<font color="white">Non podo. Non podo perderte.</font>
+
+783
+00:59:51,875 --> 00:59:54,417
+<i><font color="white">Escóitame. Estás escoitando?</font></i>
+
+784
+00:59:56,458 --> 00:59:58,667
+<i><font color="white">Nunca deixes de loitar.</font></i>
+
+785
+00:59:58,750 --> 01:00:00,583
+<i><font color="white">- </font></i><font color="white">Mátao.</font>
+<font color="white">- Non!</font>
+
+786
+01:00:00,667 --> 01:00:03,250
+<font color="white">Non, por favor, non.</font>
+
+787
+01:00:03,333 --> 01:00:07,625
+<font color="white">Non!</font>
+
+788
+01:00:29,500 --> 01:00:31,958
+<font color="white">O meu vello obrigaríame a abrir a porta.</font>
+
+789
+01:00:33,208 --> 01:00:34,375
+<font color="white">Sen dúbida!</font>
+
+790
+01:00:50,125 --> 01:00:52,542
+<font color="white">ACCESO AUTORIZADO</font>
+
+791
+01:01:00,542 --> 01:01:02,000
+<font color="white">Como o souberon?</font>
+
+792
+01:01:04,042 --> 01:01:06,708
+<font color="white">Por que mandaron xente a Scottsdale?</font>
+
+793
+01:01:08,708 --> 01:01:11,833
+<font color="white">O exército asinou</font>
+<font color="white">o seu traslado onte á noite, non?</font>
+
+794
+01:01:12,542 --> 01:01:13,625
+<font color="white">Así é.</font>
+
+795
+01:01:13,708 --> 01:01:16,708
+<font color="white">Entón non o podían saber</font>
+<font color="white">até hai apenas unhas horas.</font>
+
+796
+01:01:18,583 --> 01:01:20,000
+<font color="white">Aínda non o pillastes?</font>
+
+797
+01:01:20,083 --> 01:01:21,833
+<font color="white">Sodes uns parias.</font>
+
+798
+01:01:22,333 --> 01:01:25,042
+<font color="white">Tomaron a decisión</font>
+<font color="white">de trasladarte a este sitio</font>
+
+799
+01:01:25,125 --> 01:01:27,458
+<font color="white">hai tres días. A ti dixéroncho onte.</font>
+
+800
+01:01:28,250 --> 01:01:29,958
+<font color="white">Eu sabíao desde hai 72 horas.</font>
+
+801
+01:01:32,000 --> 01:01:33,167
+<font color="white">Que fas?</font>
+
+802
+01:01:33,250 --> 01:01:35,333
+<font color="white">Activar a miña póliza do seguro.</font>
+
+803
+01:01:37,417 --> 01:01:40,208
+<font color="white">O seu compromiso é tal</font>
+<font color="white">que viu morrer o seu pai.</font>
+
+804
+01:01:40,292 --> 01:01:42,292
+<font color="white">Eu estouche igual de comprometido.</font>
+
+805
+01:01:42,375 --> 01:01:45,167
+<font color="white">Ese é o código do protocolo de emerxencia.</font>
+
+806
+01:01:45,250 --> 01:01:47,000
+<font color="white">Vas afundir a plataforma?</font>
+
+807
+01:01:59,500 --> 01:02:03,292
+<i><font color="white">A nosa telemetría di</font></i>
+<i><font color="white">que se activou o protocolo de emerxencia.</font></i>
+
+808
+01:02:03,375 --> 01:02:04,500
+<i><font color="white">Non me diga que…</font></i>
+
+809
+01:02:04,583 --> 01:02:05,875
+<font color="white">Vainos afundir</font>
+
+810
+01:02:06,375 --> 01:02:09,000
+<font color="white">co noso protocolo de autodestrución.</font>
+
+811
+01:02:10,083 --> 01:02:12,708
+<i><font color="white">Eliminación de bens</font></i>
+<i><font color="white">de alto valor activada.</font></i>
+
+812
+01:02:20,375 --> 01:02:21,292
+<font color="white">Que facemos?</font>
+
+813
+01:02:22,125 --> 01:02:25,208
+<font color="white">Mentres non afundamos,</font>
+<font color="white">aínda podemos disparar.</font>
+
+814
+01:02:27,917 --> 01:02:30,917
+<i><font color="white">Trece minutos até a submersión total.</font></i>
+
+815
+01:02:31,000 --> 01:02:33,458
+<font color="white">Temos 13 minutos para dar cunha solución.</font>
+
+816
+01:02:34,542 --> 01:02:35,500
+<font color="white">Vou baixar.</font>
+
+817
+01:02:35,583 --> 01:02:36,833
+<font color="white">A onde? Ao casco?</font>
+
+818
+01:02:37,458 --> 01:02:40,542
+<font color="white">Si. Vou pechar as válvulas unha a unha.</font>
+
+819
+01:02:40,625 --> 01:02:42,750
+<font color="white">Non pode baixar ferida como está.</font>
+
+820
+01:02:43,875 --> 01:02:45,000
+<font color="white">Xa me apañarei.</font>
+
+821
+01:02:45,083 --> 01:02:46,833
+<font color="white">Vou… vou eu.</font>
+
+822
+01:02:47,417 --> 01:02:48,375
+<font color="white">Non.</font>
+
+823
+01:02:50,333 --> 01:02:51,375
+<font color="white">Fágoo eu.</font>
+
+824
+01:02:56,375 --> 01:02:58,875
+<i><font color="white">Non ten moito tempo, só uns 13 minutos.</font></i>
+
+825
+01:02:58,958 --> 01:03:00,167
+<font color="white">Sabémolo.</font>
+
+826
+01:03:00,792 --> 01:03:02,500
+<font color="white">Cando chega o equipo SEAL?</font>
+
+827
+01:03:02,583 --> 01:03:03,417
+<i><font color="white">En 25 minutos.</font></i>
+
+828
+01:03:03,500 --> 01:03:06,250
+<font color="white">Merda. Volvereino a chamar.</font>
+
+829
+01:03:16,125 --> 01:03:17,333
+<font color="white">Ben.</font>
+
+830
+01:03:18,458 --> 01:03:20,375
+<font color="white">Non parezo moito un heroe.</font>
+
+831
+01:03:21,542 --> 01:03:23,458
+<font color="white">É exactamente o que pareces.</font>
+
+832
+01:03:24,458 --> 01:03:25,958
+<font color="white">O que diga, capitá.</font>
+
+833
+01:03:30,292 --> 01:03:31,667
+<font color="white">Pódelo facer.</font>
+
+834
+01:03:33,292 --> 01:03:34,833
+<font color="white">Adiante, Rahul.</font>
+
+835
+01:03:34,917 --> 01:03:36,292
+<font color="white">Ti podes.</font>
+
+836
+01:03:38,792 --> 01:03:40,000
+<font color="white">Véxoa no outro lado.</font>
+
+837
+01:03:51,292 --> 01:03:53,042
+<font color="white">O cabrón botoulle collóns.</font>
+
+838
+01:03:53,958 --> 01:03:55,250
+<font color="white">Ocúpate diso.</font>
+
+839
+01:03:56,542 --> 01:03:57,708
+<font color="white">Déixamo a min.</font>
+
+840
+01:04:02,083 --> 01:04:04,417
+<font color="white">Protocolo activado, 12 minutos e medio.</font>
+
+841
+01:04:05,292 --> 01:04:06,750
+<font color="white">A canta distancia está?</font>
+
+842
+01:04:12,083 --> 01:04:14,333
+<i><font color="white">Estamos a 22 minutos. Preparen armas.</font></i>
+
+843
+01:04:29,667 --> 01:04:32,333
+<font color="white">Vale, cheguei ao casco.</font>
+
+844
+01:04:32,417 --> 01:04:33,625
+<font color="white">Ves a consola?</font>
+
+845
+01:04:43,917 --> 01:04:45,667
+<font color="white">Isto vaime levar un anaco.</font>
+
+846
+01:04:45,750 --> 01:04:47,333
+<i><font color="white">Só tes que frealo.</font></i>
+
+847
+01:04:47,417 --> 01:04:48,667
+<font color="white">Entendido.</font>
+
+848
+01:04:57,875 --> 01:04:59,292
+<font color="white">Como imos, capitá?</font>
+
+849
+01:04:59,375 --> 01:05:01,333
+<i><font color="white">Recalculando.</font></i>
+
+850
+01:05:01,417 --> 01:05:03,542
+<i><font color="white">- Doce minutos e 11…</font></i>
+<font color="white">- Funciona.</font>
+
+851
+01:05:03,625 --> 01:05:05,000
+<font color="white">Déchesnos dous minutos.</font>
+
+852
+01:05:05,083 --> 01:05:06,125
+<i><font color="white">Sigue.</font></i>
+
+853
+01:05:06,208 --> 01:05:09,583
+<font color="white">Si, carallo!</font>
+<font color="white">Son unha máquina pechando válvulas.</font>
+
+854
+01:05:09,667 --> 01:05:11,750
+<i><font color="white">Son o mellor tapando fugas de auga.</font></i>
+
+855
+01:05:15,375 --> 01:05:17,292
+<font color="white">- Merda.</font>
+<font color="white">- Que?</font>
+
+856
+01:05:17,375 --> 01:05:18,875
+<font color="white">Teño compañía.</font>
+
+857
+01:05:18,958 --> 01:05:20,958
+<font color="white">Lisca de aí. Óesme?</font>
+
+858
+01:05:21,500 --> 01:05:22,542
+<i><font color="white">Xa é tarde.</font></i>
+
+859
+01:05:22,625 --> 01:05:24,792
+<font color="white">Non é tarde. Lisca de aí xa.</font>
+
+860
+01:05:24,875 --> 01:05:27,333
+<font color="white">Sinto non axudarlle máis antes, capitá,</font>
+
+861
+01:05:27,417 --> 01:05:29,250
+<font color="white">pero espero que isto lle axude.</font>
+
+862
+01:05:29,333 --> 01:05:31,375
+<i><font color="white">Recalculando.</font></i>
+
+863
+01:05:35,750 --> 01:05:37,417
+<font color="white">Fillos, quérovos.</font>
+
+864
+01:05:42,958 --> 01:05:44,125
+<font color="white">Que hai?</font>
+
+865
+01:05:44,208 --> 01:05:46,167
+<font color="white">Non tes por que facelo, Castor.</font>
+
+866
+01:05:48,708 --> 01:05:50,125
+<font color="white">Non es un asasino.</font>
+
+867
+01:05:53,167 --> 01:05:54,292
+<font color="white">Tes razón.</font>
+
+868
+01:05:57,333 --> 01:05:58,708
+<font color="white">Non son un asasino.</font>
+
+869
+01:06:03,625 --> 01:06:05,458
+<font color="white">Son un puto patriota.</font>
+
+870
+01:06:11,500 --> 01:06:14,292
+<font color="white">Rahul?</font>
+
+871
+01:06:15,750 --> 01:06:18,333
+<i><font color="white">Shah non se pode poñer neste momento.</font></i>
+
+872
+01:06:19,500 --> 01:06:21,833
+<i><font color="white">So quedamos ti e mais nós os tres.</font></i>
+
+873
+01:06:23,125 --> 01:06:24,500
+<font color="white">Estás morto.</font>
+
+874
+01:06:30,875 --> 01:06:32,500
+<font color="white">Foi un intento moi valente.</font>
+
+875
+01:06:34,292 --> 01:06:36,333
+<font color="white">Admiro a súa coraxe, de verdade.</font>
+
+876
+01:06:37,958 --> 01:06:40,167
+<font color="white">Sinceramente, non esperaba nada del.</font>
+
+877
+01:06:40,958 --> 01:06:43,250
+<font color="white">Pensabamos que non aturaba a presión.</font>
+
+878
+01:06:43,333 --> 01:06:45,708
+<font color="white">Nin sequera mandei ameazar a súa familia</font>
+
+879
+01:06:45,792 --> 01:06:47,792
+<font color="white">e vai e case me boicotea o plan.</font>
+
+880
+01:06:49,292 --> 01:06:54,292
+<font color="white">ALERTA DE PROXIMIDADE</font>
+
+881
+01:06:55,875 --> 01:06:56,958
+<font color="white">Danilov.</font>
+
+882
+01:06:57,042 --> 01:06:58,625
+<font color="white">Non, teño outro.</font>
+
+883
+01:06:59,292 --> 01:07:04,958
+<font color="white">ZSB, Zulu, Sierra, Bravo, 1-9-9-6.</font>
+
+884
+01:07:06,417 --> 01:07:07,750
+<font color="white">Dille a Danny que si.</font>
+
+885
+01:07:08,292 --> 01:07:09,625
+<font color="white">Danny?</font>
+
+886
+01:07:28,833 --> 01:07:30,000
+<font color="white">Para a transmisión.</font>
+
+887
+01:07:31,250 --> 01:07:32,417
+<font color="white">Non significa nada.</font>
+
+888
+01:07:33,292 --> 01:07:36,125
+<font color="white">Entón non che importará</font>
+<font color="white">que llo ensine ao mundo.</font>
+
+889
+01:07:39,542 --> 01:07:40,625
+<font color="white">Moi ben.</font>
+
+890
+01:07:52,042 --> 01:07:53,333
+<font color="white">Que carallo pasou?</font>
+
+891
+01:07:54,958 --> 01:07:58,208
+<font color="white">ZSB. Zurich Schweitz Bank.</font>
+
+892
+01:07:58,292 --> 01:08:00,125
+<font color="white">É unha conta dun banco suízo.</font>
+
+893
+01:08:00,208 --> 01:08:01,625
+<font color="white">Non sei como non o vin.</font>
+
+894
+01:08:02,292 --> 01:08:04,583
+<font color="white">Non es un terrorista nin un fanático.</font>
+
+895
+01:08:04,667 --> 01:08:05,958
+<font color="white">Pagáronche.</font>
+
+896
+01:08:06,042 --> 01:08:08,625
+<font color="white">Eh, esta operación é miña. Estou ao mando.</font>
+
+897
+01:08:08,708 --> 01:08:11,833
+<font color="white">E que se me pagan? Estou equivocado?</font>
+
+898
+01:08:12,750 --> 01:08:15,625
+<font color="white">Destrúo o sistema</font>
+<font color="white">que tentou destruírte a ti.</font>
+
+899
+01:08:15,708 --> 01:08:19,292
+<font color="white">Asegúrome de que outras non pasen</font>
+<font color="white">polo que pasaches ti.</font>
+
+900
+01:08:19,375 --> 01:08:20,375
+<font color="white">Canto?</font>
+
+901
+01:08:20,458 --> 01:08:21,750
+<font color="white">Que fas?</font>
+
+902
+01:08:21,833 --> 01:08:23,208
+<font color="white">Quen che paga?</font>
+
+903
+01:08:24,667 --> 01:08:26,458
+<font color="white">Para coa fita illante.</font>
+
+904
+01:08:28,333 --> 01:08:29,875
+<font color="white">E o submarino ruso?</font>
+
+905
+01:08:29,958 --> 01:08:31,542
+<font color="white">Para de tapar a xanela.</font>
+
+906
+01:08:32,583 --> 01:08:36,000
+<font color="white">Danilov, non si? Como anda Danny?</font>
+
+907
+01:08:36,083 --> 01:08:37,583
+<font color="white">Por favor, poderías…</font>
+
+908
+01:08:37,667 --> 01:08:40,083
+<font color="white">Non tapes a xanela. Faino por min, si?</font>
+
+909
+01:08:40,167 --> 01:08:41,542
+<font color="white">Pagaches o submarino.</font>
+
+910
+01:08:41,625 --> 01:08:43,333
+<font color="white">A onde te leva?</font>
+
+911
+01:08:43,417 --> 01:08:45,125
+<font color="white">Para de tapar a xanela.</font>
+
+912
+01:08:45,208 --> 01:08:48,417
+<font color="white">A algures onde poidas</font>
+<font color="white">cambiar de nome e de cara,</font>
+
+913
+01:08:48,500 --> 01:08:51,208
+<font color="white">onde gastar</font>
+<font color="white">ese diñeiro manchado de sangue?</font>
+
+914
+01:08:51,292 --> 01:08:54,750
+<font color="white">Deixa o carallo da fita, J. J.</font>
+
+915
+01:08:56,458 --> 01:08:58,458
+<font color="white">E toda esa merda sobre o teu pai?</font>
+
+916
+01:08:58,542 --> 01:09:01,125
+<font color="white">Que o fodan. Manchou o nome da familia.</font>
+
+917
+01:09:01,958 --> 01:09:04,125
+<font color="white">Limpareino con dignidade e respecto.</font>
+
+918
+01:09:06,292 --> 01:09:07,875
+<font color="white">Xa. Vin o teu expediente.</font>
+
+919
+01:09:07,958 --> 01:09:10,333
+<font color="white">Es un psicópata de merda, mais nada.</font>
+
+920
+01:09:12,042 --> 01:09:13,958
+<font color="white">- Grazas por mostrarmo.</font>
+<font color="white">- O que?</font>
+
+921
+01:09:14,792 --> 01:09:16,250
+<font color="white">O teu punto débil.</font>
+
+922
+01:09:16,333 --> 01:09:17,583
+<font color="white">Ai, si? Cal é?</font>
+
+923
+01:09:18,125 --> 01:09:19,958
+<font color="white">Queres saír de aquí vivo.</font>
+
+924
+01:09:20,042 --> 01:09:21,250
+<font color="white">Sabes que quero?</font>
+
+925
+01:09:21,333 --> 01:09:23,000
+<font color="white">Facerche dano, J. J.</font>
+
+926
+01:09:23,083 --> 01:09:26,042
+<font color="white">Quero cortarche os dedos,</font>
+<font color="white">que pregues que te mate.</font>
+
+927
+01:09:26,125 --> 01:09:27,000
+<font color="white">Cabrón.</font>
+
+928
+01:09:27,083 --> 01:09:29,167
+<font color="white">Ti elixiches isto, J. J. Elixiches…</font>
+
+929
+01:09:35,333 --> 01:09:36,458
+<font color="white">CHAMADA PRIORITARIA</font>
+
+930
+01:09:36,542 --> 01:09:40,750
+<i><font color="white">Bo traballo cortando a conexión.</font></i>
+<i><font color="white">Os SEAL están a 17 minutos.</font></i>
+
+931
+01:09:40,833 --> 01:09:42,792
+<font color="white">Non temos tanto tempo.</font>
+
+932
+01:09:43,625 --> 01:09:45,958
+<font color="white">A plataforma afundirá en 15 minutos.</font>
+
+933
+01:09:46,042 --> 01:09:47,500
+<font color="white">E, en canto se afunda,</font>
+
+934
+01:09:47,583 --> 01:09:49,500
+<font color="white">estes cabróns lanzan os mísiles.</font>
+
+935
+01:09:49,583 --> 01:09:50,917
+<i><font color="white">Non pode facer nada?</font></i>
+
+936
+01:09:57,833 --> 01:09:59,292
+<font color="white">Teño unha sorte de plan.</font>
+
+937
+01:09:59,917 --> 01:10:01,625
+<font color="white">Vai un pouco contra a lóxica.</font>
+
+938
+01:10:01,708 --> 01:10:03,042
+<i><font color="white">Cóntenos, capitá.</font></i>
+
+939
+01:10:04,750 --> 01:10:06,542
+<font color="white">Deixo que tomen o centro.</font>
+
+940
+01:10:06,625 --> 01:10:09,167
+<i><font color="white">Como? É exactamente o que queremos evitar.</font></i>
+
+941
+01:10:09,250 --> 01:10:12,625
+<font color="white">A plataforma vai afundir e,</font>
+<font color="white">cando ocorra, gañarán.</font>
+
+942
+01:10:13,250 --> 01:10:16,167
+<font color="white">Debemos forzalos</font>
+<font color="white">a lanzar os mísiles antes.</font>
+
+943
+01:10:16,250 --> 01:10:17,583
+<i><font color="white">E logo que?</font></i>
+
+944
+01:10:17,667 --> 01:10:20,458
+<font color="white">Logo recupero o centro de comando</font>
+
+945
+01:10:20,542 --> 01:10:22,042
+<font color="white">e intercepto os mísiles.</font>
+
+946
+01:10:22,125 --> 01:10:23,500
+<i><font color="white">E iso en 12 minutos?</font></i>
+
+947
+01:10:24,625 --> 01:10:25,542
+<font color="white">Si, señor.</font>
+
+948
+01:10:25,625 --> 01:10:26,667
+<i><font color="white">Agarde.</font></i>
+
+949
+01:10:30,208 --> 01:10:31,208
+<font color="white">Merda.</font>
+
+950
+01:10:31,292 --> 01:10:33,708
+<i><font color="white">O noso teórico do xogo non está seguro.</font></i>
+
+951
+01:10:33,792 --> 01:10:36,250
+<i><font color="white">Preocúpanlle as súas motivacións.</font></i>
+
+952
+01:10:36,333 --> 01:10:37,542
+<i><font color="white">Os meus cálculos din</font></i>
+
+953
+01:10:37,625 --> 01:10:40,583
+<i><font color="white">que o plan ten</font></i>
+<i><font color="white">un 14 % de posibilidades de éxito.</font></i>
+
+954
+01:10:40,667 --> 01:10:42,917
+<i><font color="white">Ceder o control a unha forza superior</font></i>
+
+955
+01:10:43,000 --> 01:10:44,667
+<i><font color="white">sen garantías de recuperalo</font></i>
+
+956
+01:10:44,750 --> 01:10:47,625
+<i><font color="white">sería un evento indutor</font></i>
+<i><font color="white">de resultado negativo.</font></i>
+
+957
+01:10:47,708 --> 01:10:49,708
+<font color="white">Que é isto? Unha puta broma?</font>
+
+958
+01:10:49,792 --> 01:10:51,833
+<i><font color="white">Xogaríase a vida de todos</font></i>
+
+959
+01:10:51,917 --> 01:10:53,625
+<i><font color="white">a que recuperará o centro?</font></i>
+
+960
+01:10:58,042 --> 01:10:58,917
+<font color="white">Pois si.</font>
+
+961
+01:10:59,000 --> 01:11:01,875
+<i><font color="white">Síntoo, non podo apoiar ese plan.</font></i>
+
+962
+01:11:03,167 --> 01:11:07,042
+<font color="white">Mira, xenio. Disque o meu plan</font>
+<font color="white">ten un 14 % de posibilidades?</font>
+
+963
+01:11:07,125 --> 01:11:08,542
+<font color="white">Pois o teu ten cero!</font>
+
+964
+01:11:08,625 --> 01:11:12,375
+<font color="white">A ti non che dispararon nin te mazaron</font>
+<font color="white">por defenderes isto hoxe.</font>
+
+965
+01:11:12,458 --> 01:11:15,750
+<font color="white">Comprenderás que estou</font>
+<font color="white">bastante motivada, hostia xa.</font>
+
+966
+01:11:15,833 --> 01:11:16,958
+<i><font color="white">Entendémola.</font></i>
+
+967
+01:11:19,250 --> 01:11:22,500
+<font color="white">Podo facelo, señor. Sei que podo.</font>
+
+968
+01:11:22,583 --> 01:11:24,417
+<i><font color="white">A metade aquí pensan que tolea,</font></i>
+
+969
+01:11:24,500 --> 01:11:26,625
+<i><font color="white">a outra metade, que é unha fenómena.</font></i>
+
+970
+01:11:26,708 --> 01:11:29,167
+<i><font color="white">Por sorte, eu son das últimas.</font></i>
+
+971
+01:11:29,250 --> 01:11:31,083
+<i><font color="white">Faga o que sexa necesario.</font></i>
+
+972
+01:11:35,333 --> 01:11:36,292
+<i><font color="white">Seguides aí?</font></i>
+
+973
+01:11:37,375 --> 01:11:38,458
+<font color="white">Ti que pensas?</font>
+
+974
+01:11:38,542 --> 01:11:40,042
+<i><font color="white">Que estás algo nervioso.</font></i>
+
+975
+01:11:40,125 --> 01:11:42,583
+<i><font color="white">Se fracasas, os teus socios matarante.</font></i>
+
+976
+01:11:42,667 --> 01:11:44,542
+<i><font color="white">Queres esta sala? Ven por ela.</font></i>
+
+977
+01:11:45,042 --> 01:11:46,333
+<font color="white">Corta o interfono.</font>
+
+978
+01:11:49,208 --> 01:11:50,292
+<font color="white">Dáme a radio.</font>
+
+979
+01:11:54,333 --> 01:11:55,708
+<font color="white">Castor, canto tardas?</font>
+
+980
+01:11:55,792 --> 01:11:57,333
+<i><font color="white">Como 30 segundos.</font></i>
+
+981
+01:11:57,875 --> 01:12:00,292
+<font color="white">Tapou a xanela. Non vexo a sala.</font>
+
+982
+01:12:00,375 --> 01:12:02,083
+<font color="white">Preciso que entres aí xa.</font>
+
+983
+01:12:02,167 --> 01:12:03,542
+<i><font color="white">Tranquilo, xa chego.</font></i>
+
+984
+01:12:33,458 --> 01:12:36,417
+<font color="white">Non a vexo. Marchou.</font>
+
+985
+01:12:36,917 --> 01:12:38,792
+<i><font color="white">Como que marchou? Onde está?</font></i>
+
+986
+01:12:42,500 --> 01:12:43,833
+<font color="white">Merda.</font>
+
+987
+01:12:43,917 --> 01:12:44,958
+<i><font color="white">Que?</font></i>
+
+988
+01:12:45,042 --> 01:12:46,125
+<font color="white">Está na cuberta.</font>
+
+989
+01:12:53,000 --> 01:12:56,083
+<font color="white">Atención a todos,</font>
+<font color="white">temos o control do interceptor.</font>
+
+990
+01:12:56,167 --> 01:13:00,125
+<font color="white">Lanzade todos os mísiles.</font>
+<font color="white">Repito: lanzade todos os mísiles.</font>
+
+991
+01:13:12,667 --> 01:13:16,667
+<i><font color="white">Detectado lanzamento de múltiples mísiles.</font></i>
+
+992
+01:13:16,750 --> 01:13:20,333
+<font color="white">Si! Vamos! Dálle lume!</font>
+
+993
+01:13:22,917 --> 01:13:26,292
+<i><font color="white">Obxectivos identificados.</font></i>
+
+994
+01:13:27,125 --> 01:13:30,750
+<i><font color="white">Seattle, San Francisco,</font></i>
+<i><font color="white">Las Vegas, Denver, St. Louis, Memphis,</font></i>
+
+995
+01:13:30,833 --> 01:13:33,875
+<i><font color="white">Chicago, Cincinnati,</font></i>
+<i><font color="white">Atlanta, Miami, Washington,</font></i>
+
+996
+01:13:33,958 --> 01:13:36,083
+<i><font color="white">Boston, N. York, Dallas, Filadelfia.</font></i>
+
+997
+01:13:36,167 --> 01:13:37,167
+<font color="white">Mátaa.</font>
+
+998
+01:13:42,042 --> 01:13:43,542
+<font color="white">Está cazando castores.</font>
+
+999
+01:13:46,875 --> 01:13:48,625
+<font color="white">"Ven gañar 10 millóns", dixo.</font>
+
+1000
+01:13:49,458 --> 01:13:52,250
+<font color="white">"Compra unha illa privada", dicía el.</font>
+<font color="white">"É doado".</font>
+
+1001
+01:13:54,083 --> 01:13:55,250
+<font color="white">Mimadriña.</font>
+
+1002
+01:13:57,417 --> 01:13:58,583
+<font color="white">Non.</font>
+
+1003
+01:14:00,083 --> 01:14:01,250
+<font color="white">Dáme o coitelo.</font>
+
+1004
+01:14:02,250 --> 01:14:03,375
+<font color="white">Faino.</font>
+
+1005
+01:14:14,625 --> 01:14:15,583
+<font color="white">Ácido.</font>
+
+1006
+01:14:33,417 --> 01:14:35,958
+<font color="white">Onde andas, prenda?</font>
+
+1007
+01:14:43,875 --> 01:14:46,500
+<font color="white">Sae de onde te agoches.</font>
+
+1008
+01:14:47,708 --> 01:14:51,042
+<font color="white">Señores e señoras,</font>
+<font color="white">descúlpenme pola interrupción.</font>
+
+1009
+01:14:51,125 --> 01:14:52,625
+<font color="white">Como ven,</font>
+
+1010
+01:14:52,708 --> 01:14:57,500
+<font color="white">volvo controlar o centro de comando</font>
+<font color="white">e os mísiles van de camiño.</font>
+
+1011
+01:15:20,833 --> 01:15:22,458
+<i><font color="white">A porteiriña non está aquí.</font></i>
+
+1012
+01:15:25,500 --> 01:15:28,000
+<font color="white">Ten que estar. Onde ía estar…</font>
+
+1013
+01:15:28,792 --> 01:15:29,708
+<font color="white">se non?</font>
+
+1014
+01:15:38,792 --> 01:15:40,667
+<font color="white">Está na cuberta, Castor.</font>
+
+1015
+01:15:41,917 --> 01:15:43,333
+<font color="white">Aquí non hai ninguén.</font>
+
+1016
+01:16:15,375 --> 01:16:18,833
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en oito minutos.</font></i>
+
+1017
+01:16:36,583 --> 01:16:37,833
+<font color="white">Ivan.</font>
+
+1018
+01:17:11,792 --> 01:17:15,083
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en sete minutos.</font></i>
+
+1019
+01:17:15,167 --> 01:17:16,292
+<font color="white">Veña.</font>
+
+1020
+01:18:39,667 --> 01:18:41,333
+<font color="white">EXECUTAR NOVA INSTALACIÓN?</font>
+
+1021
+01:18:41,417 --> 01:18:42,292
+<font color="white">AUTENTICAR</font>
+
+1022
+01:18:51,667 --> 01:18:53,708
+<font color="white">Non che podo deixar, prenda.</font>
+
+1023
+01:18:55,583 --> 01:18:57,875
+<font color="white">LANZAR INTERCEPTORES?</font>
+
+1024
+01:19:00,375 --> 01:19:03,083
+<font color="white">Sóltame, Castor. Non queres facelo.</font>
+
+1025
+01:19:03,167 --> 01:19:05,833
+<font color="white">Xa che dixen que si.</font>
+
+1026
+01:19:07,375 --> 01:19:08,875
+<font color="white">Vas morrer aquí.</font>
+
+1027
+01:19:09,375 --> 01:19:10,958
+<font color="white">Non, non tal.</font>
+
+1028
+01:19:11,458 --> 01:19:13,667
+<font color="white">Eu marcho no próximo submarino.</font>
+
+1029
+01:19:14,833 --> 01:19:16,208
+<font color="white">Con Alexander?</font>
+
+1030
+01:19:16,958 --> 01:19:18,292
+<font color="white">Marchou.</font>
+
+1031
+01:19:19,125 --> 01:19:20,750
+<font color="white">Parvadas.</font>
+
+1032
+01:19:23,792 --> 01:19:25,167
+<font color="white">Vino marchar.</font>
+
+1033
+01:19:44,500 --> 01:19:47,333
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en 5 minutos.</font></i>
+
+1034
+01:20:15,125 --> 01:20:18,125
+<font color="white">Pensas que me vai matar</font>
+<font color="white">un pouco de arame de espiño?</font>
+
+1035
+01:20:18,792 --> 01:20:20,500
+<font color="white">A gravidade, prenda.</font>
+
+1036
+01:20:54,500 --> 01:20:57,125
+<i><font color="white">J. J.! Veña, J. J.!</font></i>
+
+1037
+01:20:57,875 --> 01:21:00,792
+<font color="white">Que che digo sempre desde pequena?</font>
+
+1038
+01:21:00,875 --> 01:21:02,875
+<font color="white">A única regra que hai na vida.</font>
+
+1039
+01:21:05,167 --> 01:21:06,917
+<font color="white">Nunca deixes de loitar.</font>
+
+1040
+01:21:25,917 --> 01:21:29,583
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en tres minutos.</font></i>
+
+1041
+01:22:42,292 --> 01:22:45,958
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en 60 segundos.</font></i>
+
+1042
+01:22:46,917 --> 01:22:48,042
+<font color="white">Aí está.</font>
+
+1043
+01:22:48,125 --> 01:22:49,375
+<font color="white">Aí está!</font>
+
+1044
+01:22:51,250 --> 01:22:53,625
+<i><font color="white">O lanzamento expira en 50…</font></i>
+
+1045
+01:22:53,708 --> 01:22:55,167
+<font color="white">Arriba!</font>
+
+1046
+01:22:57,458 --> 01:23:01,333
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en 40 segundos.</font></i>
+
+1047
+01:23:02,958 --> 01:23:06,667
+<font color="white">Non te rendas.</font>
+
+1048
+01:23:07,208 --> 01:23:10,542
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en 30 segundos.</font></i>
+
+1049
+01:23:18,458 --> 01:23:21,958
+<i><font color="white">O lanzamento do interceptor</font></i>
+<i><font color="white">expira en 20 segundos.</font></i>
+
+1050
+01:23:31,667 --> 01:23:37,000
+<i><font color="white">Dez segundos. Nove, oito, sete, seis</font></i>
+
+1051
+01:23:37,792 --> 01:23:42,333
+<i><font color="white">cinco, catro, tres, dous, un.</font></i>
+
+1052
+01:23:45,750 --> 01:23:47,625
+<i><font color="white">Lanzando interceptores.</font></i>
+
+1053
+01:24:23,083 --> 01:24:25,542
+<font color="white">Veña.</font>
+
+1054
+01:25:01,250 --> 01:25:03,750
+<i><font color="white">Varios mísiles interceptados.</font></i>
+
+1055
+01:25:08,875 --> 01:25:10,125
+<font color="white">Si!</font>
+
+1056
+01:25:19,042 --> 01:25:22,250
+<font color="white">Un 14 %. Vaia.</font>
+
+1057
+01:25:45,333 --> 01:25:46,542
+<font color="white">Mira para aí.</font>
+
+1058
+01:25:48,333 --> 01:25:49,833
+<font color="white">Non te rendes, eh?</font>
+
+1059
+01:25:49,917 --> 01:25:52,583
+<font color="white">Pois si que me fodiches ben o día.</font>
+
+1060
+01:25:53,167 --> 01:25:55,292
+<font color="white">Pero levei os EUA ao límite</font>
+
+1061
+01:25:56,250 --> 01:25:57,375
+<font color="white">e volvereino facer.</font>
+
+1062
+01:26:11,208 --> 01:26:14,083
+<font color="white">Pode que gañases a batalla,</font>
+<font color="white">mais non a guerra.</font>
+
+1063
+01:26:19,125 --> 01:26:21,583
+<font color="white">Xa cho dixen: a guerra aínda non acabou.</font>
+
+1064
+01:26:30,417 --> 01:26:31,708
+<font color="white">Esta é por meu pai.</font>
+
+1065
+01:26:41,458 --> 01:26:42,958
+<font color="white">Aí vén o meu transporte.</font>
+
+1066
+01:26:53,458 --> 01:26:55,167
+<font color="white">Non hai sitio para ti.</font>
+
+1067
+01:26:58,708 --> 01:27:02,042
+<font color="white">Cheguei. Véxoo.</font>
+
+1068
+01:27:02,125 --> 01:27:04,708
+<font color="white">Xa sabes que facer.</font>
+
+1069
+01:27:04,792 --> 01:27:07,917
+<font color="white">E a muller?</font>
+
+1070
+01:27:08,000 --> 01:27:10,875
+<font color="white">Déixoo á túa elección.</font>
+
+1071
+01:28:04,625 --> 01:28:06,875
+<i><font color="white">Obxectivo á vista. Aterramos en 30 s.</font></i>
+
+1072
+01:28:07,375 --> 01:28:10,125
+<i><font color="white">Parece que o submarino ruso está liscando.</font></i>
+
+1073
+01:28:11,125 --> 01:28:13,708
+<i><font color="white">Un momento, diviso a Collins na cuberta.</font></i>
+
+1074
+01:28:16,083 --> 01:28:18,083
+<font color="white">GRAZAS!</font>
+<font color="white">RECUPÉRESE AXIÑA</font>
+
+1075
+01:28:18,167 --> 01:28:22,708
+<font color="white">QUERIDA SEÑORA J. J.</font>
+<font color="white">GRAZAS POR SALVAR A MIÑA CIDADE</font>
+
+1076
+01:28:36,250 --> 01:28:37,458
+<font color="white">Señora presidenta.</font>
+
+1077
+01:28:38,000 --> 01:28:42,583
+<font color="white">Dixéronme que estaba esperta.</font>
+<font color="white">Alégrome de vela, capitá.</font>
+
+1078
+01:28:42,667 --> 01:28:43,625
+<font color="white">Fort Greely xa…</font>
+
+1079
+01:28:43,708 --> 01:28:46,292
+<font color="white">Operativo cos interceptores de emerxencia.</font>
+
+1080
+01:28:46,375 --> 01:28:49,375
+<font color="white">Substituiremos SBX-1 o antes posíbel,</font>
+
+1081
+01:28:49,458 --> 01:28:52,875
+<font color="white">pero non se preocupe,</font>
+<font color="white">non a van mandar de volta para alá.</font>
+
+1082
+01:28:52,958 --> 01:28:56,167
+<font color="white">De feito, penso que</font>
+<font color="white">unha soldado do seu calibre</font>
+
+1083
+01:28:56,250 --> 01:28:59,542
+<font color="white">sería máis útil en Seguridade Nacional.</font>
+
+1084
+01:28:59,625 --> 01:29:01,042
+<font color="white">Que me di?</font>
+
+1085
+01:29:02,458 --> 01:29:04,167
+<font color="white">Vouno tomar como un "si".</font>
+
+1086
+01:29:05,250 --> 01:29:07,292
+<font color="white">Grazas, señora presidenta.</font>
+
+1087
+01:29:07,375 --> 01:29:09,125
+<font color="white">Ah, e ten outra visita.</font>
+
+1088
+01:29:12,167 --> 01:29:13,125
+<font color="white">Papá?</font>
+
+1089
+01:29:13,208 --> 01:29:14,208
+<font color="white">J. J.</font>
+
+1090
+01:29:15,125 --> 01:29:17,333
+<font color="white">Pensei que estabas…</font>
+
+1091
+01:29:18,917 --> 01:29:22,083
+<font color="white">O seu pai ten</font>
+<font color="white">uns colegas do exército moi ben armados</font>
+
+1092
+01:29:22,167 --> 01:29:24,333
+<font color="white">nesa residencia que coidan ben del.</font>
+
+1093
+01:29:24,417 --> 01:29:26,375
+<font color="white">Viron o que pasaba na televisión.</font>
+
+1094
+01:29:26,458 --> 01:29:28,208
+<font color="white">Botáronme abaixo a porta.</font>
+
+1095
+01:29:29,292 --> 01:29:31,917
+<font color="white">Salváronme o dedo, pero romperon a porta.</font>
+
+1096
+01:29:34,417 --> 01:29:38,583
+<font color="white">Ben, espero que renda contas</font>
+<font color="white">na Casa Branca a vindeira semana, capitá.</font>
+
+1097
+01:29:43,333 --> 01:29:44,667
+<font color="white">Ven aquí, papá.</font>
+
+1098
+01:29:48,083 --> 01:29:49,000
+<font color="white">E…</font>
+
+1099
+01:29:50,833 --> 01:29:52,833
+<font color="white">isto é para ti.</font>
+
+1100
+01:29:56,167 --> 01:29:57,375
+<font color="white">Outro supervivente.</font>
+
+1101
+01:29:58,750 --> 01:29:59,625
+<font color="white">Turbo.</font>
+
+1102
+01:29:59,708 --> 01:30:03,125
+<font color="white">O equipo SEAL atopouno</font>
+<font color="white">nadando polas ruínas de SBX-1.</font>
+
+1103
+01:30:04,500 --> 01:30:06,167
+<font color="white">Era do cabo Shah.</font>
+
+1104
+01:30:07,917 --> 01:30:10,208
+<font color="white">Contáronmo. Síntoo.</font>
+
+1105
+01:30:12,250 --> 01:30:14,250
+<font color="white">Sabes? Ás veces,</font>
+
+1106
+01:30:14,333 --> 01:30:17,417
+<font color="white">é mellor falar dos que perdemos</font>
+<font color="white">para non os esquecer.</font>
+
+1107
+01:30:21,625 --> 01:30:23,083
+<font color="white">Chamábase Rahul.</font>
+
+1108
+01:30:23,625 --> 01:30:24,667
+<font color="white">Rahul.</font>
+
+1109
+01:30:25,250 --> 01:30:26,583
+<font color="white">Gustáballe o póker…</font>
+
+1110
+01:30:26,667 --> 01:30:27,542
+<font color="white">Vaia.</font>
+
+1111
+01:30:28,083 --> 01:30:29,750
+<font color="white">…pero non se lle daba ben.</font>
+
+1112
+01:36:43,708 --> 01:36:49,917
+<font color="white">Subtítulos: Noelia Bernárdez Alonso</font>
+

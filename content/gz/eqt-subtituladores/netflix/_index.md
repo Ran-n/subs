@@ -24,6 +24,7 @@ aliases: [
     '/gz/eqt-subtituladores/Netflix/',
     '/gz/eqt-subtituladores/netflix/',
     '/gz/x/Netflix/',
+    '/gz/x/Netflix',
     '/gz/x/netflix/',
     '/gz/xs/Netflix/',
     '/gz/xs/netflix/',

@@ -68,7 +68,6 @@ eqt-titulos: [
 ]
 
 eqt-tipos: [
-    'anime',
     'serie',
     'serie actuación',
 ]

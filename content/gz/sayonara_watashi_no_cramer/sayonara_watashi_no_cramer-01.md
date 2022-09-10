@@ -7,7 +7,7 @@ author: 'Ran#'
 #navbar_title: ""
 footer: "Sayonara Watashi no Cramer ❤️"
 
-toc: true
+toc: false
 collapsible_toc: true
 collapsible_changelogs: true
 

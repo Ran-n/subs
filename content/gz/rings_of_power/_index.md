@@ -82,6 +82,48 @@ eqt-tipos: [
     'serie actuacion',
 ]
 
+eqt-xeneros: [
+    'Acción',
+    'Aventura',
+    'Drama',
+    'Fantasía',
+    'Ciencia Ficción',
+]
+
+eqt-certificacions: [
+    'Argentina:13',
+    'Australia:13+',
+    'Brazil:14',
+    'Canada:13+',
+    'Ecuador:13+',
+    'Egypt:13+',
+    'France:13',
+    'Germany:12',
+    'Hong Kong:13+',
+    'India:UA 16+',
+    'Indonesia:13+',
+    'Israel:13',
+    'Italy:T',
+    'Japan:13+',
+    'Mexico:TV-14',
+    'Netherlands:13+',
+    'Norway:12',
+    'Philippines:13+',
+    'Poland:13',
+    'Singapore:PG13',
+    'South Africa:13',
+    'South Korea:13+',
+    'Spain:14',
+    'Sweden:13',
+    'Taiwan:13+',
+    'Thailand:13+',
+    'Turkey:13+',
+    'United Kingdom:13+',
+    'United States:TV-14',
+    'Unted Arab Emirates:13+',
+    'Vietnam:C13',
+]
+
 eqt-paises: [
     'estados unidos',
 ]
@@ -105,3 +147,5 @@ eqt-autores: [
 {{< rede alto="40" tipo="imdb" titulo="IMDb" ligazon="tt7631058" >}}
 {{< rede alto="40" tipo="wikipedia" subtipo="en" titulo="Wikipedia" ligazon="The_Lord_of_the_Rings:_The_Rings_of_Power" >}}
 </div>
+
+{{< pg alto="35" titulo="EEUU: TV-14" ligazon="/gz/eqt-certificacions/united-states-tv-14" tipo="us-tv-14" >}}
